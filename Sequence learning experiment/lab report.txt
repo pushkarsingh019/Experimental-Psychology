@@ -1,0 +1,46 @@
+
+
+
+
+
+Sequence Learning Experiment
+Lab Report
+
+
+
+Lab In Psychology
+Pushkar Singh
+AU2120067
+15 October 2023
+
+Introduction
+Learning can be defined as changes in the behaviour of an organism that are the result of regularities in the environment of that organism. (De Houwer et al., 2013). Learning and contingency is understood in the context of human contingency learning, which involves the ability to predict events based on the presence or absence of certain cues or outcomes. 
+
+The two models explain human contingency learning are : a) associative models. b) non-associative models. Associative models (pavlovian conditioning on humans)  propose that humans learn to associate cues with outcomes based on statistical contingencies (correlation between two events happening). Non-associative models propose that contingency judgements are based on probabilistic contrast and not just the presence or absence of a stimulus. These models also account for repetition of trails and suggest that accuracy improves as number of trails increases. (De Houwer & Beckers, 2002)
+
+Method
+To investigate how individuals acquire, retain, and generalize sequential information, the study conducted an experiment to assess differences in learning, as measured by reaction time and accuracy, between sequential and non-sequential data. 
+
+In this experiment, participants were required to select the corresponding keyboard key for one of four lines (as probed by the experiment), with their performance recorded in terms of reaction time and accuracy. 
+The study featured two distinct conditions: one with sequential probes (condition one) and the other with probes appearing randomly on any line (condition two). To mitigate potential carryover, a double-blind approach was implemented to ensure that both the participants and the experimenter were unaware of the sequence in which these conditions were presented. 
+The experiment included a total of 400 trials, equally divided between the two conditions.
+
+Results
+The mean reaction time for accurate trials of non-sequential data is 0.512215572 and the mean reaction time for accurate trials for sequential data is 0.14147615. The difference in mean reaction time comes out to be 0.370739422. 
+
+Also, here is a plot highlighting the change in reaction time for sequential and non-sequential data over trials.
+Since the data is very noisy, here is a plot with mean reaction time of 40 trials at a time vs bins of 40 subsequent trials.
+
+
+
+Discussion
+The disparity in reaction times between sequential and non-sequential trials can be attributed to the influence of learning. In sequential trials, the previous probe's presence provides a basis for anticipating the appearance of the next probe, leading to shorter reaction times. In contrast, non-sequential trials lack this predictability or correlation, resulting in extended reaction times. The graphical representation further illustrates that reaction times for non-sequential data gradually decrease as subjects become more proficient, while reaction times for sequential data initially drop rapidly and then stabilise, implying that once the pattern is learned, reaction times approach their fundamental level. (Kantowitz et al., 2008)
+
+Additionally, employing counter-balancing techniques for both sequential and non-sequential trials serves to mitigate carry-over effects. This involves systematically testing all possible combinations of conditions on different subjects, reducing the constraints associated with a within-subject design. (Kantowitz et al., 2008)
+
+References
+De Houwer, J., Barnes-Holmes, D., & Moors, A. (2013). What is learning? On the nature and merits of a functional definition of learning. Psychonomic Bulletin & Review, 20(4), 631–642. https://doi.org/10.3758/s13423-013-0386-3
+
+De Houwer, J., & Beckers, T. (2002). A Review of Recent Developments in Research and Theories on Human Contingency Learning. The Quarterly Journal of Experimental Psychology Section B, 55(4b), 289–310. https://doi.org/10.1080/02724990244000034
+
+Kantowitz, B. H., III, H. L. R., & Elmes, D. G. (2008). Experimental Psychology. Cengage Learning.
