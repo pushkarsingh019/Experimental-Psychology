@@ -1,0 +1,3489 @@
+10.3548 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+11.5224 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7ff6b10a8b20>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7ff6b10a8ac0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7ff6b10a8910>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7ff6b2f410a0>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.5310 	EXP 	window1: mouseVisible = True
+11.5313 	EXP 	window1: backgroundImage = ''
+11.5313 	EXP 	window1: backgroundFit = 'none'
+11.5351 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.5352 	EXP 	window1: recordFrameIntervals = False
+11.6264 	EXP 	window1: recordFrameIntervals = True
+11.6537 	WARNING 	t of last frame was 11.22ms (=1/89)
+11.7534 	WARNING 	t of last frame was 10.40ms (=1/96)
+11.7816 	WARNING 	t of last frame was 12.39ms (=1/80)
+11.8043 	WARNING 	t of last frame was 14.70ms (=1/68)
+11.8368 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+11.9869 	EXP 	Screen (0) actual frame rate measured at 119.79Hz
+11.9869 	EXP 	window1: recordFrameIntervals = False
+11.9900 	EXP 	window1: mouseVisible = False
+15.2750 	EXP 	experiment: status = STARTED
+15.2801 	EXP 	window1: mouseVisible = True
+15.3419 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.3454 	EXP 	window1: mouseVisible = True
+15.3509 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+15.3555 	EXP 	window1: mouseVisible = True
+15.3592 	EXP 	Created cue = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([-0.6078,  0.6078, -0.6078]), fillColorSpace='rgb', fillRGB=array([-0.6078,  0.6078, -0.6078]), interpolate=True, lineColor=array([-0.6078,  0.6078, -0.6078]), lineColorSpace='rgb', lineRGB=array([-0.6078,  0.6078, -0.6078]), lineWidth=1.0, name='cue', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+16.0230 	EXP 	Sound sound_1 set volume 1.000
+16.0272 	EXP 	window1: mouseVisible = True
+16.0418 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.0597 	EXP 	window1: mouseVisible = True
+16.0634 	EXP 	window1: mouseVisible = True
+16.0720 	EXP 	window1: mouseVisible = True
+16.0751 	EXP 	window1: mouseVisible = True
+16.0786 	EXP 	window1: mouseVisible = True
+16.0823 	EXP 	window1: mouseVisible = True
+16.0978 	EXP 	window1: mouseVisible = True
+16.1024 	EXP 	window1: mouseVisible = True
+16.1058 	EXP 	window1: mouseVisible = True
+16.1091 	EXP 	window1: mouseVisible = True
+16.1203 	EXP 	window1: mouseVisible = True
+16.1235 	EXP 	window1: mouseVisible = True
+16.1269 	EXP 	window1: mouseVisible = True
+16.1302 	EXP 	window1: mouseVisible = True
+16.1445 	EXP 	window1: mouseVisible = True
+16.1477 	EXP 	window1: mouseVisible = True
+16.1522 	EXP 	window1: mouseVisible = True
+16.1555 	EXP 	window1: mouseVisible = True
+16.1637 	EXP 	window1: mouseVisible = True
+16.1668 	EXP 	window1: mouseVisible = True
+16.1715 	EXP 	window1: mouseVisible = True
+16.1747 	EXP 	window1: mouseVisible = True
+16.1827 	EXP 	window1: mouseVisible = True
+16.1857 	EXP 	window1: mouseVisible = True
+16.1891 	EXP 	window1: mouseVisible = True
+16.1923 	EXP 	window1: mouseVisible = True
+16.2003 	EXP 	window1: mouseVisible = True
+16.2034 	EXP 	window1: mouseVisible = True
+16.2068 	EXP 	window1: mouseVisible = True
+16.2101 	EXP 	window1: mouseVisible = True
+16.2224 	EXP 	window1: mouseVisible = True
+16.2254 	EXP 	window1: mouseVisible = True
+16.2288 	EXP 	window1: mouseVisible = True
+16.2321 	EXP 	window1: mouseVisible = True
+16.2403 	EXP 	window1: mouseVisible = True
+16.2434 	EXP 	window1: mouseVisible = True
+16.2467 	EXP 	window1: mouseVisible = True
+16.2500 	EXP 	window1: mouseVisible = True
+16.2620 	EXP 	window1: mouseVisible = True
+16.2650 	EXP 	window1: mouseVisible = True
+16.2688 	EXP 	window1: mouseVisible = True
+16.2720 	EXP 	window1: mouseVisible = True
+16.2803 	EXP 	window1: mouseVisible = True
+16.2856 	EXP 	window1: mouseVisible = True
+16.3250 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=(0, 250, 500, 750, 1000), lineColor=None, markerColor=None, name='slider', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1.  , 0.08]), startValue=None, style='slider', styleTweaks=[], ticks=array([   0,  250,  500,  750, 1000]), units='height', win=Window(...))
+0.0449 	EXP 	slider: autoLog = True
+0.0449 	EXP 	slider: styleTweaks = []
+0.0449 	EXP 	slider: styleTweaks = []
+0.0449 	EXP 	slider: styleTweaks = []
+0.0449 	EXP 	slider: styleTweaks = []
+0.0449 	EXP 	slider: contrast = 1.0
+0.0449 	EXP 	slider: markerPos = None
+0.0449 	EXP 	slider: autoLog = True
+0.0608 	EXP 	text_2: autoDraw = True
+6.5577 	EXP 	Imported conditions.xlsx as conditions, 12 conditions, 3 params
+6.5603 	EXP 	Created sequence: random, trialTypes=12, nReps=10, seed=None
+6.5605 	EXP 	New trial (rep=0, index=0): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+6.6388 	DATA 	Keypress: space
+6.6588 	EXP 	text_2: autoDraw = False
+6.6588 	EXP 	fixation: autoDraw = True
+7.0445 	EXP 	cue: autoDraw = True
+7.1622 	EXP 	fixation: autoDraw = False
+8.6285 	DATA 	Keypress: space
+8.6339 	EXP 	fixation: autoDraw = False
+8.6339 	EXP 	cue: autoDraw = False
+9.3264 	EXP 	Sound sound_1 started
+9.6238 	EXP 	Sound sound_1 stopped
+9.6627 	EXP 	slider: markerPos = None
+9.6627 	EXP 	slider: markerPos = None
+9.6627 	EXP 	text: autoDraw = True
+9.6627 	EXP 	slider: autoDraw = True
+11.4007 	DATA 	Mouse: Left button down, pos=(316,481)
+11.4012 	DATA 	Mouse:  Left button up, pos=(316,481)
+12.4669 	DATA 	Mouse: Left button down, pos=(312,465)
+12.4826 	EXP 	slider: markerPos = 46.66666666666669
+12.4963 	EXP 	slider: markerPos = 46.66666666666669
+12.5094 	EXP 	slider: markerPos = 46.66666666666669
+12.5225 	EXP 	slider: markerPos = 46.66666666666669
+12.5357 	EXP 	slider: markerPos = 46.66666666666669
+12.5488 	EXP 	slider: markerPos = 46.66666666666669
+12.5625 	EXP 	slider: markerPos = 46.66666666666669
+12.5749 	EXP 	slider: markerPos = 46.66666666666669
+12.5877 	EXP 	slider: markerPos = 46.66666666666669
+12.6006 	EXP 	slider: markerPos = 46.66666666666669
+12.6146 	EXP 	slider: markerPos = 46.66666666666669
+12.6279 	EXP 	slider: markerPos = 46.66666666666669
+12.6409 	EXP 	slider: markerPos = 46.66666666666669
+12.6544 	EXP 	slider: markerPos = 46.66666666666669
+12.6673 	EXP 	slider: markerPos = 46.66666666666669
+12.6948 	EXP 	slider: markerPos = 46.66666666666669
+12.6961 	DATA 	Mouse:  Left button up, pos=(312,465)
+12.7117 	EXP 	slider: markerPos = 46.66666666666669
+12.7144 	EXP 	New trial (rep=0, index=1): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+12.7198 	EXP 	text: autoDraw = False
+12.7198 	EXP 	slider: autoDraw = False
+12.7198 	EXP 	fixation: autoDraw = True
+13.2191 	EXP 	fixation: autoDraw = False
+13.2191 	EXP 	cue: autoDraw = True
+14.5890 	DATA 	Keypress: space
+14.5950 	EXP 	fixation: autoDraw = False
+14.5950 	EXP 	cue: autoDraw = False
+14.9878 	EXP 	Sound sound_1 started
+15.2842 	EXP 	Sound sound_1 stopped
+15.3035 	EXP 	slider: markerPos = None
+15.3035 	EXP 	slider: markerPos = None
+15.3035 	EXP 	text: autoDraw = True
+15.3035 	EXP 	slider: autoDraw = True
+17.0182 	DATA 	Mouse: Left button down, pos=(351,442)
+17.0325 	EXP 	slider: markerPos = 90.00000000000003
+17.0468 	EXP 	slider: markerPos = 90.00000000000003
+17.0608 	EXP 	slider: markerPos = 90.00000000000003
+17.0749 	EXP 	slider: markerPos = 90.00000000000003
+17.0886 	EXP 	slider: markerPos = 90.00000000000003
+17.1027 	EXP 	slider: markerPos = 90.00000000000003
+17.1168 	EXP 	slider: markerPos = 90.00000000000003
+17.1313 	EXP 	slider: markerPos = 90.00000000000003
+17.1464 	EXP 	slider: markerPos = 90.00000000000003
+17.1607 	EXP 	slider: markerPos = 90.00000000000003
+17.1745 	EXP 	slider: markerPos = 90.00000000000003
+17.1879 	EXP 	slider: markerPos = 90.00000000000003
+17.2014 	EXP 	slider: markerPos = 90.00000000000003
+17.2156 	EXP 	slider: markerPos = 90.00000000000003
+17.2172 	DATA 	Mouse:  Left button up, pos=(351,442)
+17.2456 	EXP 	slider: markerPos = 90.00000000000003
+17.2486 	EXP 	New trial (rep=0, index=2): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+17.2620 	EXP 	text: autoDraw = False
+17.2620 	EXP 	slider: autoDraw = False
+17.2620 	EXP 	fixation: autoDraw = True
+17.7525 	EXP 	cue: autoDraw = True
+17.7689 	EXP 	fixation: autoDraw = False
+20.0576 	DATA 	Keypress: space
+20.0780 	EXP 	fixation: autoDraw = False
+20.0780 	EXP 	cue: autoDraw = False
+20.7541 	EXP 	Sound sound_1 started
+21.0511 	EXP 	Sound sound_1 stopped
+21.0712 	EXP 	slider: markerPos = None
+21.0712 	EXP 	slider: markerPos = None
+21.0712 	EXP 	text: autoDraw = True
+21.0712 	EXP 	slider: autoDraw = True
+22.8680 	DATA 	Mouse: Left button down, pos=(516,447)
+22.8860 	EXP 	slider: markerPos = 273.3333333333333
+22.8993 	EXP 	slider: markerPos = 273.3333333333333
+22.9129 	EXP 	slider: markerPos = 273.3333333333333
+22.9252 	EXP 	slider: markerPos = 273.3333333333333
+22.9380 	EXP 	slider: markerPos = 273.3333333333333
+22.9506 	EXP 	slider: markerPos = 273.3333333333333
+22.9780 	EXP 	slider: markerPos = 273.3333333333333
+22.9946 	EXP 	slider: markerPos = 273.3333333333333
+23.0077 	EXP 	slider: markerPos = 273.3333333333333
+23.0208 	EXP 	slider: markerPos = 273.3333333333333
+23.0335 	EXP 	slider: markerPos = 273.3333333333333
+23.0470 	EXP 	slider: markerPos = 273.3333333333333
+23.0594 	EXP 	slider: markerPos = 273.3333333333333
+23.0724 	EXP 	slider: markerPos = 273.3333333333333
+23.0812 	DATA 	Mouse:  Left button up, pos=(516,447)
+23.0855 	EXP 	slider: markerPos = 273.3333333333333
+23.0992 	EXP 	slider: markerPos = 273.3333333333333
+23.1017 	EXP 	New trial (rep=0, index=3): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+23.1119 	EXP 	text: autoDraw = False
+23.1119 	EXP 	slider: autoDraw = False
+23.1119 	EXP 	fixation: autoDraw = True
+23.6026 	EXP 	cue: autoDraw = True
+23.6121 	EXP 	fixation: autoDraw = False
+24.4155 	DATA 	Mouse: Left button down, pos=(799,449)
+24.6156 	DATA 	Mouse:  Left button up, pos=(799,449)
+25.4518 	DATA 	Keypress: space
+25.4573 	EXP 	fixation: autoDraw = False
+25.4573 	EXP 	cue: autoDraw = False
+25.8540 	EXP 	Sound sound_1 started
+26.1509 	EXP 	Sound sound_1 stopped
+26.1696 	EXP 	slider: markerPos = None
+26.1696 	EXP 	slider: markerPos = None
+26.1696 	EXP 	text: autoDraw = True
+26.1696 	EXP 	slider: autoDraw = True
+27.8008 	DATA 	Mouse: Left button down, pos=(604,437)
+27.8184 	EXP 	slider: markerPos = 371.1111111111111
+27.8320 	EXP 	slider: markerPos = 371.1111111111111
+27.8456 	EXP 	slider: markerPos = 371.1111111111111
+27.8588 	EXP 	slider: markerPos = 371.1111111111111
+27.8717 	EXP 	slider: markerPos = 371.1111111111111
+27.8848 	EXP 	slider: markerPos = 371.1111111111111
+27.8985 	EXP 	slider: markerPos = 371.1111111111111
+27.9123 	EXP 	slider: markerPos = 371.1111111111111
+27.9246 	EXP 	slider: markerPos = 371.1111111111111
+27.9372 	EXP 	slider: markerPos = 371.1111111111111
+27.9503 	EXP 	slider: markerPos = 371.1111111111111
+27.9640 	EXP 	slider: markerPos = 371.1111111111111
+27.9773 	EXP 	slider: markerPos = 371.1111111111111
+27.9907 	EXP 	slider: markerPos = 371.1111111111111
+28.0041 	EXP 	slider: markerPos = 371.1111111111111
+28.0171 	EXP 	slider: markerPos = 371.1111111111111
+28.0184 	DATA 	Mouse:  Left button up, pos=(604,437)
+28.0312 	EXP 	slider: markerPos = 371.1111111111111
+28.0337 	EXP 	New trial (rep=0, index=4): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+28.0453 	EXP 	text: autoDraw = False
+28.0453 	EXP 	slider: autoDraw = False
+28.0453 	EXP 	fixation: autoDraw = True
+28.5353 	EXP 	cue: autoDraw = True
+28.5502 	EXP 	fixation: autoDraw = False
+29.0491 	DATA 	Keypress: space
+29.0541 	EXP 	fixation: autoDraw = False
+29.0541 	EXP 	cue: autoDraw = False
+29.4546 	EXP 	Sound sound_1 started
+29.7505 	EXP 	Sound sound_1 stopped
+29.7709 	EXP 	slider: markerPos = None
+29.7709 	EXP 	slider: markerPos = None
+29.7709 	EXP 	text: autoDraw = True
+29.7709 	EXP 	slider: autoDraw = True
+32.0509 	DATA 	Mouse: Left button down, pos=(660,453)
+32.0682 	EXP 	slider: markerPos = 433.33333333333337
+32.0820 	EXP 	slider: markerPos = 433.33333333333337
+32.0958 	EXP 	slider: markerPos = 433.33333333333337
+32.1083 	EXP 	slider: markerPos = 433.33333333333337
+32.1210 	EXP 	slider: markerPos = 433.33333333333337
+32.1335 	EXP 	slider: markerPos = 433.33333333333337
+32.1460 	EXP 	slider: markerPos = 433.33333333333337
+32.1586 	EXP 	slider: markerPos = 433.33333333333337
+32.1713 	EXP 	slider: markerPos = 433.33333333333337
+32.1840 	EXP 	slider: markerPos = 433.33333333333337
+32.2116 	EXP 	slider: markerPos = 433.33333333333337
+32.2288 	EXP 	slider: markerPos = 433.33333333333337
+32.2419 	EXP 	slider: markerPos = 433.33333333333337
+32.2506 	DATA 	Mouse:  Left button up, pos=(660,453)
+32.2556 	EXP 	slider: markerPos = 433.33333333333337
+32.2690 	EXP 	slider: markerPos = 433.33333333333337
+32.2714 	EXP 	New trial (rep=0, index=5): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+32.2780 	EXP 	text: autoDraw = False
+32.2780 	EXP 	slider: autoDraw = False
+32.2780 	EXP 	fixation: autoDraw = True
+32.7701 	EXP 	cue: autoDraw = True
+32.7789 	EXP 	fixation: autoDraw = False
+34.4338 	DATA 	Keypress: space
+34.4388 	EXP 	fixation: autoDraw = False
+34.4388 	EXP 	cue: autoDraw = False
+34.5376 	EXP 	Sound sound_1 started
+34.8339 	EXP 	Sound sound_1 stopped
+34.8533 	EXP 	slider: markerPos = None
+34.8533 	EXP 	slider: markerPos = None
+34.8533 	EXP 	text: autoDraw = True
+34.8533 	EXP 	slider: autoDraw = True
+35.9517 	DATA 	Mouse: Left button down, pos=(792,437)
+35.9698 	EXP 	slider: markerPos = 580.0
+35.9830 	EXP 	slider: markerPos = 580.0
+35.9969 	EXP 	slider: markerPos = 580.0
+36.0100 	EXP 	slider: markerPos = 580.0
+36.0225 	EXP 	slider: markerPos = 580.0
+36.0351 	EXP 	slider: markerPos = 580.0
+36.0488 	EXP 	slider: markerPos = 580.0
+36.0625 	EXP 	slider: markerPos = 580.0
+36.0759 	EXP 	slider: markerPos = 580.0
+36.0890 	EXP 	slider: markerPos = 580.0
+36.1024 	EXP 	slider: markerPos = 580.0
+36.1160 	EXP 	slider: markerPos = 580.0
+36.1295 	EXP 	slider: markerPos = 580.0
+36.1384 	DATA 	Mouse:  Left button up, pos=(792,437)
+36.1428 	EXP 	slider: markerPos = 580.0
+36.1555 	EXP 	slider: markerPos = 580.0
+36.1581 	EXP 	New trial (rep=0, index=6): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+36.1783 	EXP 	text: autoDraw = False
+36.1783 	EXP 	slider: autoDraw = False
+36.1783 	EXP 	fixation: autoDraw = True
+36.6621 	EXP 	cue: autoDraw = True
+36.6850 	EXP 	fixation: autoDraw = False
+37.2504 	DATA 	Keypress: space
+37.2623 	EXP 	fixation: autoDraw = False
+37.2623 	EXP 	cue: autoDraw = False
+37.9609 	EXP 	Sound sound_1 started
+38.2579 	EXP 	Sound sound_1 stopped
+38.2769 	EXP 	slider: markerPos = None
+38.2769 	EXP 	slider: markerPos = None
+38.2769 	EXP 	text: autoDraw = True
+38.2769 	EXP 	slider: autoDraw = True
+39.4009 	DATA 	Mouse: Left button down, pos=(755,431)
+39.4285 	EXP 	slider: markerPos = 538.8888888888889
+39.4455 	EXP 	slider: markerPos = 538.8888888888889
+39.4580 	EXP 	slider: markerPos = 538.8888888888889
+39.4706 	EXP 	slider: markerPos = 538.8888888888889
+39.4838 	EXP 	slider: markerPos = 538.8888888888889
+39.4973 	EXP 	slider: markerPos = 538.8888888888889
+39.5097 	EXP 	slider: markerPos = 538.8888888888889
+39.5226 	EXP 	slider: markerPos = 538.8888888888889
+39.5353 	EXP 	slider: markerPos = 538.8888888888889
+39.5491 	EXP 	slider: markerPos = 538.8888888888889
+39.5629 	EXP 	slider: markerPos = 538.8888888888889
+39.5752 	EXP 	slider: markerPos = 538.8888888888889
+39.5840 	DATA 	Mouse:  Left button up, pos=(755,431)
+39.5888 	EXP 	slider: markerPos = 538.8888888888889
+39.6012 	EXP 	slider: markerPos = 538.8888888888889
+39.6039 	EXP 	New trial (rep=0, index=7): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+39.6117 	EXP 	text: autoDraw = False
+39.6117 	EXP 	slider: autoDraw = False
+39.6117 	EXP 	fixation: autoDraw = True
+40.1051 	EXP 	cue: autoDraw = True
+40.1117 	EXP 	fixation: autoDraw = False
+40.6058 	DATA 	Keypress: space
+40.6114 	EXP 	fixation: autoDraw = False
+40.6114 	EXP 	cue: autoDraw = False
+40.7043 	EXP 	Sound sound_1 started
+41.0013 	EXP 	Sound sound_1 stopped
+41.0205 	EXP 	slider: markerPos = None
+41.0205 	EXP 	slider: markerPos = None
+41.0205 	EXP 	text: autoDraw = True
+41.0205 	EXP 	slider: autoDraw = True
+44.7175 	DATA 	Mouse: Left button down, pos=(585,425)
+44.7295 	EXP 	slider: markerPos = 350.0
+44.7423 	EXP 	slider: markerPos = 350.0
+44.7551 	EXP 	slider: markerPos = 350.0
+44.7678 	EXP 	slider: markerPos = 350.0
+44.7816 	EXP 	slider: markerPos = 350.0
+44.7955 	EXP 	slider: markerPos = 350.0
+44.8078 	EXP 	slider: markerPos = 350.0
+44.8205 	EXP 	slider: markerPos = 350.0
+44.8336 	EXP 	slider: markerPos = 350.0
+44.8461 	EXP 	slider: markerPos = 350.0
+44.8588 	EXP 	slider: markerPos = 350.0
+44.8715 	EXP 	slider: markerPos = 350.0
+44.8840 	EXP 	slider: markerPos = 350.0
+44.9116 	EXP 	slider: markerPos = 350.0
+44.9283 	EXP 	slider: markerPos = 350.0
+44.9415 	EXP 	slider: markerPos = 350.0
+44.9546 	EXP 	slider: markerPos = 350.0
+44.9682 	EXP 	slider: markerPos = 350.0
+44.9817 	EXP 	slider: markerPos = 350.0
+44.9949 	EXP 	slider: markerPos = 350.0
+45.0036 	DATA 	Mouse:  Left button up, pos=(585,425)
+45.0081 	EXP 	slider: markerPos = 350.0
+45.0209 	EXP 	slider: markerPos = 350.0
+45.0237 	EXP 	New trial (rep=0, index=8): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+45.0296 	EXP 	text: autoDraw = False
+45.0296 	EXP 	slider: autoDraw = False
+45.0296 	EXP 	fixation: autoDraw = True
+45.5293 	EXP 	fixation: autoDraw = False
+45.5293 	EXP 	cue: autoDraw = True
+47.0177 	DATA 	Keypress: space
+47.0232 	EXP 	fixation: autoDraw = False
+47.0232 	EXP 	cue: autoDraw = False
+47.1211 	EXP 	Sound sound_1 started
+47.4180 	EXP 	Sound sound_1 stopped
+47.4383 	EXP 	slider: markerPos = None
+47.4383 	EXP 	slider: markerPos = None
+47.4383 	EXP 	text: autoDraw = True
+47.4383 	EXP 	slider: autoDraw = True
+49.2849 	DATA 	Mouse: Left button down, pos=(440,432)
+49.3029 	EXP 	slider: markerPos = 188.88888888888889
+49.3163 	EXP 	slider: markerPos = 188.88888888888889
+49.3299 	EXP 	slider: markerPos = 188.88888888888889
+49.3430 	EXP 	slider: markerPos = 188.88888888888889
+49.3570 	EXP 	slider: markerPos = 188.88888888888889
+49.3695 	EXP 	slider: markerPos = 188.88888888888889
+49.3827 	EXP 	slider: markerPos = 188.88888888888889
+49.3964 	EXP 	slider: markerPos = 188.88888888888889
+49.4087 	EXP 	slider: markerPos = 188.88888888888889
+49.4214 	EXP 	slider: markerPos = 188.88888888888889
+49.4341 	EXP 	slider: markerPos = 188.88888888888889
+49.4618 	EXP 	slider: markerPos = 188.88888888888889
+49.4784 	EXP 	slider: markerPos = 188.88888888888889
+49.4919 	EXP 	slider: markerPos = 188.88888888888889
+49.5051 	EXP 	slider: markerPos = 188.88888888888889
+49.5182 	EXP 	slider: markerPos = 188.88888888888889
+49.5319 	EXP 	slider: markerPos = 188.88888888888889
+49.5457 	EXP 	slider: markerPos = 188.88888888888889
+49.5543 	DATA 	Mouse:  Left button up, pos=(440,432)
+49.5587 	EXP 	slider: markerPos = 188.88888888888889
+49.5712 	EXP 	slider: markerPos = 188.88888888888889
+49.5739 	EXP 	New trial (rep=0, index=9): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+49.5797 	EXP 	text: autoDraw = False
+49.5797 	EXP 	slider: autoDraw = False
+49.5797 	EXP 	fixation: autoDraw = True
+50.0794 	EXP 	fixation: autoDraw = False
+50.0794 	EXP 	cue: autoDraw = True
+50.7564 	DATA 	Keypress: space
+50.7623 	EXP 	fixation: autoDraw = False
+50.7623 	EXP 	cue: autoDraw = False
+51.4550 	EXP 	Sound sound_1 started
+51.7514 	EXP 	Sound sound_1 stopped
+51.7706 	EXP 	slider: markerPos = None
+51.7706 	EXP 	slider: markerPos = None
+51.7706 	EXP 	text: autoDraw = True
+51.7706 	EXP 	slider: autoDraw = True
+53.4016 	DATA 	Mouse: Left button down, pos=(886,424)
+53.4149 	EXP 	slider: markerPos = 684.4444444444445
+53.4291 	EXP 	slider: markerPos = 684.4444444444445
+53.4416 	EXP 	slider: markerPos = 684.4444444444445
+53.4543 	EXP 	slider: markerPos = 684.4444444444445
+53.4672 	EXP 	slider: markerPos = 684.4444444444445
+53.4953 	EXP 	slider: markerPos = 684.4444444444445
+53.5119 	EXP 	slider: markerPos = 684.4444444444445
+53.5254 	EXP 	slider: markerPos = 684.4444444444445
+53.5386 	EXP 	slider: markerPos = 684.4444444444445
+53.5516 	EXP 	slider: markerPos = 684.4444444444445
+53.5652 	EXP 	slider: markerPos = 684.4444444444445
+53.5791 	EXP 	slider: markerPos = 684.4444444444445
+53.5916 	EXP 	slider: markerPos = 684.4444444444445
+53.6005 	DATA 	Mouse:  Left button up, pos=(886,424)
+53.6049 	EXP 	slider: markerPos = 684.4444444444445
+53.6176 	EXP 	slider: markerPos = 684.4444444444445
+53.6203 	EXP 	New trial (rep=0, index=10): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+53.6287 	EXP 	text: autoDraw = False
+53.6287 	EXP 	slider: autoDraw = False
+53.6287 	EXP 	fixation: autoDraw = True
+54.1193 	EXP 	cue: autoDraw = True
+54.1346 	EXP 	fixation: autoDraw = False
+56.1234 	DATA 	Keypress: space
+56.1293 	EXP 	fixation: autoDraw = False
+56.1293 	EXP 	cue: autoDraw = False
+56.2208 	EXP 	Sound sound_1 started
+56.5178 	EXP 	Sound sound_1 stopped
+56.5374 	EXP 	slider: markerPos = None
+56.5374 	EXP 	slider: markerPos = None
+56.5374 	EXP 	text: autoDraw = True
+56.5374 	EXP 	slider: autoDraw = True
+57.8681 	DATA 	Mouse: Left button down, pos=(801,421)
+57.8856 	EXP 	slider: markerPos = 590.0
+57.8993 	EXP 	slider: markerPos = 590.0
+57.9131 	EXP 	slider: markerPos = 590.0
+57.9263 	EXP 	slider: markerPos = 590.0
+57.9388 	EXP 	slider: markerPos = 590.0
+57.9516 	EXP 	slider: markerPos = 590.0
+57.9654 	EXP 	slider: markerPos = 590.0
+57.9792 	EXP 	slider: markerPos = 590.0
+57.9924 	EXP 	slider: markerPos = 590.0
+58.0050 	EXP 	slider: markerPos = 590.0
+58.0179 	EXP 	slider: markerPos = 590.0
+58.0315 	EXP 	slider: markerPos = 590.0
+58.0455 	EXP 	slider: markerPos = 590.0
+58.0579 	EXP 	slider: markerPos = 590.0
+58.0707 	EXP 	slider: markerPos = 590.0
+58.0838 	EXP 	slider: markerPos = 590.0
+58.0975 	EXP 	slider: markerPos = 590.0
+58.1099 	EXP 	slider: markerPos = 590.0
+58.1224 	EXP 	slider: markerPos = 590.0
+58.1351 	EXP 	slider: markerPos = 590.0
+58.1365 	DATA 	Mouse:  Left button up, pos=(801,421)
+58.1492 	EXP 	slider: markerPos = 590.0
+58.1517 	EXP 	New trial (rep=0, index=11): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+58.1624 	EXP 	text: autoDraw = False
+58.1624 	EXP 	slider: autoDraw = False
+58.1624 	EXP 	fixation: autoDraw = True
+58.6565 	EXP 	cue: autoDraw = True
+58.6629 	EXP 	fixation: autoDraw = False
+59.6337 	DATA 	Keypress: space
+59.6389 	EXP 	fixation: autoDraw = False
+59.6389 	EXP 	cue: autoDraw = False
+60.0374 	EXP 	Sound sound_1 started
+60.3350 	EXP 	Sound sound_1 stopped
+60.3547 	EXP 	slider: markerPos = None
+60.3547 	EXP 	slider: markerPos = None
+60.3547 	EXP 	text: autoDraw = True
+60.3547 	EXP 	slider: autoDraw = True
+61.4514 	DATA 	Mouse: Left button down, pos=(1002,418)
+61.4787 	EXP 	slider: markerPos = 813.3333333333334
+61.4958 	EXP 	slider: markerPos = 813.3333333333334
+61.5083 	EXP 	slider: markerPos = 813.3333333333334
+61.5213 	EXP 	slider: markerPos = 813.3333333333334
+61.5345 	EXP 	slider: markerPos = 813.3333333333334
+61.5621 	EXP 	slider: markerPos = 813.3333333333334
+61.5792 	EXP 	slider: markerPos = 813.3333333333334
+61.5924 	EXP 	slider: markerPos = 813.3333333333334
+61.6056 	EXP 	slider: markerPos = 813.3333333333334
+61.6186 	EXP 	slider: markerPos = 813.3333333333334
+61.6323 	EXP 	slider: markerPos = 813.3333333333334
+61.6463 	EXP 	slider: markerPos = 813.3333333333334
+61.6587 	EXP 	slider: markerPos = 813.3333333333334
+61.6717 	EXP 	slider: markerPos = 813.3333333333334
+61.6843 	EXP 	slider: markerPos = 813.3333333333334
+61.7120 	EXP 	slider: markerPos = 813.3333333333334
+61.7291 	EXP 	slider: markerPos = 813.3333333333334
+61.7415 	EXP 	slider: markerPos = 813.3333333333334
+61.7545 	EXP 	slider: markerPos = 813.3333333333334
+61.7677 	EXP 	slider: markerPos = 813.3333333333334
+61.7954 	EXP 	slider: markerPos = 813.3333333333334
+61.7967 	DATA 	Mouse:  Left button up, pos=(1002,418)
+61.8124 	EXP 	slider: markerPos = 813.3333333333334
+61.8149 	EXP 	New trial (rep=1, index=0): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+61.8203 	EXP 	text: autoDraw = False
+61.8203 	EXP 	slider: autoDraw = False
+61.8203 	EXP 	fixation: autoDraw = True
+62.3181 	EXP 	fixation: autoDraw = False
+62.3181 	EXP 	cue: autoDraw = True
+64.9538 	DATA 	Keypress: space
+64.9595 	EXP 	fixation: autoDraw = False
+64.9595 	EXP 	cue: autoDraw = False
+65.3551 	EXP 	Sound sound_1 started
+65.6516 	EXP 	Sound sound_1 stopped
+65.6718 	EXP 	slider: markerPos = None
+65.6718 	EXP 	slider: markerPos = None
+65.6718 	EXP 	text: autoDraw = True
+65.6718 	EXP 	slider: autoDraw = True
+67.4683 	DATA 	Mouse: Left button down, pos=(898,423)
+67.4870 	EXP 	slider: markerPos = 697.7777777777778
+67.5000 	EXP 	slider: markerPos = 697.7777777777778
+67.5137 	EXP 	slider: markerPos = 697.7777777777778
+67.5269 	EXP 	slider: markerPos = 697.7777777777778
+67.5393 	EXP 	slider: markerPos = 697.7777777777778
+67.5518 	EXP 	slider: markerPos = 697.7777777777778
+67.5655 	EXP 	slider: markerPos = 697.7777777777778
+67.5792 	EXP 	slider: markerPos = 697.7777777777778
+67.5923 	EXP 	slider: markerPos = 697.7777777777778
+67.6053 	EXP 	slider: markerPos = 697.7777777777778
+67.6184 	EXP 	slider: markerPos = 697.7777777777778
+67.6322 	EXP 	slider: markerPos = 697.7777777777778
+67.6462 	EXP 	slider: markerPos = 697.7777777777778
+67.6588 	EXP 	slider: markerPos = 697.7777777777778
+67.6718 	EXP 	slider: markerPos = 697.7777777777778
+67.6846 	EXP 	slider: markerPos = 697.7777777777778
+67.6987 	EXP 	slider: markerPos = 697.7777777777778
+67.7125 	EXP 	slider: markerPos = 697.7777777777778
+67.7213 	DATA 	Mouse:  Left button up, pos=(898,423)
+67.7264 	EXP 	slider: markerPos = 697.7777777777778
+67.7388 	EXP 	slider: markerPos = 697.7777777777778
+67.7414 	EXP 	New trial (rep=1, index=1): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+67.7621 	EXP 	text: autoDraw = False
+67.7621 	EXP 	slider: autoDraw = False
+67.7621 	EXP 	fixation: autoDraw = True
+68.2461 	EXP 	cue: autoDraw = True
+68.2631 	EXP 	fixation: autoDraw = False
+70.2000 	DATA 	Mouse: Left button down, pos=(749,450)
+70.4834 	DATA 	Mouse:  Left button up, pos=(749,450)
+71.4066 	DATA 	Keypress: space
+71.4120 	EXP 	fixation: autoDraw = False
+71.4120 	EXP 	cue: autoDraw = False
+71.5048 	EXP 	Sound sound_1 started
+71.8018 	EXP 	Sound sound_1 stopped
+71.8230 	EXP 	slider: markerPos = None
+71.8230 	EXP 	slider: markerPos = None
+71.8230 	EXP 	text: autoDraw = True
+71.8230 	EXP 	slider: autoDraw = True
+73.1010 	DATA 	Mouse: Left button down, pos=(880,421)
+73.1288 	EXP 	slider: markerPos = 677.7777777777778
+73.1462 	EXP 	slider: markerPos = 677.7777777777778
+73.1605 	EXP 	slider: markerPos = 677.7777777777778
+73.1738 	EXP 	slider: markerPos = 677.7777777777778
+73.1874 	EXP 	slider: markerPos = 677.7777777777778
+73.2017 	EXP 	slider: markerPos = 677.7777777777778
+73.2161 	EXP 	slider: markerPos = 677.7777777777778
+73.2302 	EXP 	slider: markerPos = 677.7777777777778
+73.2430 	EXP 	slider: markerPos = 677.7777777777778
+73.2559 	EXP 	slider: markerPos = 677.7777777777778
+73.2690 	EXP 	slider: markerPos = 677.7777777777778
+73.2833 	EXP 	slider: markerPos = 677.7777777777778
+73.2981 	EXP 	slider: markerPos = 677.7777777777778
+73.3109 	EXP 	slider: markerPos = 677.7777777777778
+73.3238 	EXP 	slider: markerPos = 677.7777777777778
+73.3366 	EXP 	slider: markerPos = 677.7777777777778
+73.3500 	EXP 	slider: markerPos = 677.7777777777778
+73.3640 	EXP 	slider: markerPos = 677.7777777777778
+73.3773 	EXP 	slider: markerPos = 677.7777777777778
+73.3862 	DATA 	Mouse:  Left button up, pos=(880,421)
+73.3917 	EXP 	slider: markerPos = 677.7777777777778
+73.4049 	EXP 	slider: markerPos = 677.7777777777778
+73.4074 	EXP 	New trial (rep=1, index=2): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+73.4136 	EXP 	text: autoDraw = False
+73.4136 	EXP 	slider: autoDraw = False
+73.4136 	EXP 	fixation: autoDraw = True
+73.9131 	EXP 	cue: autoDraw = True
+73.9206 	EXP 	fixation: autoDraw = False
+74.7036 	DATA 	Keypress: space
+74.7092 	EXP 	fixation: autoDraw = False
+74.7092 	EXP 	cue: autoDraw = False
+74.8048 	EXP 	Sound sound_1 started
+75.1017 	EXP 	Sound sound_1 stopped
+75.1203 	EXP 	slider: markerPos = None
+75.1203 	EXP 	slider: markerPos = None
+75.1203 	EXP 	text: autoDraw = True
+75.1203 	EXP 	slider: autoDraw = True
+75.9855 	DATA 	Mouse: Left button down, pos=(543,429)
+76.0035 	EXP 	slider: markerPos = 304.4444444444444
+76.0168 	EXP 	slider: markerPos = 304.4444444444444
+76.0304 	EXP 	slider: markerPos = 304.4444444444444
+76.0438 	EXP 	slider: markerPos = 304.4444444444444
+76.0570 	EXP 	slider: markerPos = 304.4444444444444
+76.0700 	EXP 	slider: markerPos = 304.4444444444444
+76.0831 	EXP 	slider: markerPos = 304.4444444444444
+76.0969 	EXP 	slider: markerPos = 304.4444444444444
+76.1093 	EXP 	slider: markerPos = 304.4444444444444
+76.1220 	EXP 	slider: markerPos = 304.4444444444444
+76.1347 	EXP 	slider: markerPos = 304.4444444444444
+76.1484 	EXP 	slider: markerPos = 304.4444444444444
+76.1625 	EXP 	slider: markerPos = 304.4444444444444
+76.1748 	EXP 	slider: markerPos = 304.4444444444444
+76.1838 	DATA 	Mouse:  Left button up, pos=(544,429)
+76.1885 	EXP 	slider: markerPos = 304.4444444444444
+76.2013 	EXP 	slider: markerPos = 304.4444444444444
+76.2040 	EXP 	New trial (rep=1, index=3): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+76.2126 	EXP 	text: autoDraw = False
+76.2126 	EXP 	slider: autoDraw = False
+76.2126 	EXP 	fixation: autoDraw = True
+76.7030 	EXP 	cue: autoDraw = True
+76.7193 	EXP 	fixation: autoDraw = False
+78.2547 	DATA 	Mouse: Left button down, pos=(791,430)
+78.3989 	DATA 	Mouse:  Left button up, pos=(791,430)
+79.9599 	DATA 	Keypress: space
+79.9654 	EXP 	fixation: autoDraw = False
+79.9654 	EXP 	cue: autoDraw = False
+80.3553 	EXP 	Sound sound_1 started
+80.6513 	EXP 	Sound sound_1 stopped
+80.6726 	EXP 	slider: markerPos = None
+80.6726 	EXP 	slider: markerPos = None
+80.6726 	EXP 	text: autoDraw = True
+80.6726 	EXP 	slider: autoDraw = True
+81.5344 	DATA 	Mouse: Left button down, pos=(774,429)
+81.5622 	EXP 	slider: markerPos = 560.0
+81.5792 	EXP 	slider: markerPos = 560.0
+81.5927 	EXP 	slider: markerPos = 560.0
+81.6061 	EXP 	slider: markerPos = 560.0
+81.6196 	EXP 	slider: markerPos = 560.0
+81.6332 	EXP 	slider: markerPos = 560.0
+81.6470 	EXP 	slider: markerPos = 560.0
+81.6603 	EXP 	slider: markerPos = 560.0
+81.6727 	EXP 	slider: markerPos = 560.0
+81.6856 	EXP 	slider: markerPos = 560.0
+81.6993 	EXP 	slider: markerPos = 560.0
+81.7130 	EXP 	slider: markerPos = 560.0
+81.7261 	EXP 	slider: markerPos = 560.0
+81.7392 	EXP 	slider: markerPos = 560.0
+81.7524 	EXP 	slider: markerPos = 560.0
+81.7662 	EXP 	slider: markerPos = 560.0
+81.7801 	EXP 	slider: markerPos = 560.0
+81.7891 	DATA 	Mouse:  Left button up, pos=(774,429)
+81.7934 	EXP 	slider: markerPos = 560.0
+81.8061 	EXP 	slider: markerPos = 560.0
+81.8089 	EXP 	New trial (rep=1, index=4): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+81.8287 	EXP 	text: autoDraw = False
+81.8287 	EXP 	slider: autoDraw = False
+81.8287 	EXP 	fixation: autoDraw = True
+82.3129 	EXP 	cue: autoDraw = True
+82.3299 	EXP 	fixation: autoDraw = False
+82.8333 	DATA 	Mouse: Left button down, pos=(774,429)
+83.0490 	DATA 	Mouse:  Left button up, pos=(774,429)
+88.1693 	DATA 	Keypress: space
+88.1750 	EXP 	fixation: autoDraw = False
+88.1750 	EXP 	cue: autoDraw = False
+88.2712 	EXP 	Sound sound_1 started
+88.5683 	EXP 	Sound sound_1 stopped
+88.5850 	EXP 	slider: markerPos = None
+88.5850 	EXP 	slider: markerPos = None
+88.5850 	EXP 	text: autoDraw = True
+88.5850 	EXP 	slider: autoDraw = True
+89.4345 	DATA 	Mouse: Left button down, pos=(774,429)
+89.4476 	EXP 	slider: markerPos = 560.0
+89.4603 	EXP 	slider: markerPos = 560.0
+89.4732 	EXP 	slider: markerPos = 560.0
+89.4858 	EXP 	slider: markerPos = 560.0
+89.4998 	EXP 	slider: markerPos = 560.0
+89.5137 	EXP 	slider: markerPos = 560.0
+89.5262 	EXP 	slider: markerPos = 560.0
+89.5390 	EXP 	slider: markerPos = 560.0
+89.5518 	EXP 	slider: markerPos = 560.0
+89.5657 	EXP 	slider: markerPos = 560.0
+89.5797 	EXP 	slider: markerPos = 560.0
+89.5931 	EXP 	slider: markerPos = 560.0
+89.6056 	EXP 	slider: markerPos = 560.0
+89.6184 	EXP 	slider: markerPos = 560.0
+89.6322 	EXP 	slider: markerPos = 560.0
+89.6454 	EXP 	slider: markerPos = 560.0
+89.6581 	EXP 	slider: markerPos = 560.0
+89.6672 	DATA 	Mouse:  Left button up, pos=(774,429)
+89.6715 	EXP 	slider: markerPos = 560.0
+89.6843 	EXP 	slider: markerPos = 560.0
+89.6869 	EXP 	New trial (rep=1, index=5): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+89.6961 	EXP 	text: autoDraw = False
+89.6961 	EXP 	slider: autoDraw = False
+89.6961 	EXP 	fixation: autoDraw = True
+90.1886 	EXP 	cue: autoDraw = True
+90.1965 	EXP 	fixation: autoDraw = False
+90.9159 	DATA 	Mouse: Left button down, pos=(774,429)
+91.1171 	DATA 	Mouse:  Left button up, pos=(774,429)
+92.8162 	DATA 	Mouse: Left button down, pos=(774,429)
+92.8168 	DATA 	Mouse:  Left button up, pos=(774,429)
+93.7163 	DATA 	Mouse: Left button down, pos=(774,429)
+93.9352 	DATA 	Mouse:  Left button up, pos=(774,429)
+94.6567 	DATA 	Keypress: space
+94.6621 	EXP 	fixation: autoDraw = False
+94.6621 	EXP 	cue: autoDraw = False
+95.3551 	EXP 	Sound sound_1 started
+95.6518 	EXP 	Sound sound_1 stopped
+95.6709 	EXP 	slider: markerPos = None
+95.6709 	EXP 	slider: markerPos = None
+95.6709 	EXP 	text: autoDraw = True
+95.6709 	EXP 	slider: autoDraw = True
+97.9184 	DATA 	Mouse: Left button down, pos=(1004,421)
+97.9359 	EXP 	slider: markerPos = 815.5555555555555
+97.9498 	EXP 	slider: markerPos = 815.5555555555555
+97.9638 	EXP 	slider: markerPos = 815.5555555555555
+97.9764 	EXP 	slider: markerPos = 815.5555555555555
+97.9890 	EXP 	slider: markerPos = 815.5555555555555
+98.0019 	EXP 	slider: markerPos = 815.5555555555555
+98.0156 	EXP 	slider: markerPos = 815.5555555555555
+98.0294 	EXP 	slider: markerPos = 815.5555555555555
+98.0426 	EXP 	slider: markerPos = 815.5555555555555
+98.0558 	EXP 	slider: markerPos = 815.5555555555555
+98.0690 	EXP 	slider: markerPos = 815.5555555555555
+98.0827 	EXP 	slider: markerPos = 815.5555555555555
+98.0965 	EXP 	slider: markerPos = 815.5555555555555
+98.1051 	DATA 	Mouse:  Left button up, pos=(1004,421)
+98.1095 	EXP 	slider: markerPos = 815.5555555555555
+98.1222 	EXP 	slider: markerPos = 815.5555555555555
+98.1249 	EXP 	New trial (rep=1, index=6): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+98.1309 	EXP 	text: autoDraw = False
+98.1309 	EXP 	slider: autoDraw = False
+98.1309 	EXP 	fixation: autoDraw = True
+98.6296 	EXP 	fixation: autoDraw = False
+98.6296 	EXP 	cue: autoDraw = True
+100.6335 	DATA 	Mouse: Left button down, pos=(689,447)
+100.8334 	DATA 	Mouse:  Left button up, pos=(689,447)
+103.0839 	DATA 	Keypress: space
+103.0896 	EXP 	fixation: autoDraw = False
+103.0896 	EXP 	cue: autoDraw = False
+103.7887 	EXP 	Sound sound_1 started
+104.0853 	EXP 	Sound sound_1 stopped
+104.1055 	EXP 	slider: markerPos = None
+104.1055 	EXP 	slider: markerPos = None
+104.1055 	EXP 	text: autoDraw = True
+104.1055 	EXP 	slider: autoDraw = True
+108.6854 	DATA 	Mouse: Left button down, pos=(762,443)
+108.6990 	EXP 	slider: markerPos = 546.6666666666666
+108.7124 	EXP 	slider: markerPos = 546.6666666666666
+108.7250 	EXP 	slider: markerPos = 546.6666666666666
+108.7379 	EXP 	slider: markerPos = 546.6666666666666
+108.7511 	EXP 	slider: markerPos = 546.6666666666666
+108.7791 	EXP 	slider: markerPos = 546.6666666666666
+108.7956 	EXP 	slider: markerPos = 546.6666666666666
+108.8092 	EXP 	slider: markerPos = 546.6666666666666
+108.8218 	EXP 	slider: markerPos = 546.6666666666666
+108.8350 	EXP 	slider: markerPos = 546.6666666666666
+108.8364 	DATA 	Mouse:  Left button up, pos=(762,443)
+108.8491 	EXP 	slider: markerPos = 546.6666666666666
+108.8517 	EXP 	New trial (rep=1, index=7): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+108.8629 	EXP 	text: autoDraw = False
+108.8629 	EXP 	slider: autoDraw = False
+108.8629 	EXP 	fixation: autoDraw = True
+109.3524 	EXP 	cue: autoDraw = True
+109.3710 	EXP 	fixation: autoDraw = False
+117.5740 	DATA 	Keypress: space
+117.5801 	EXP 	fixation: autoDraw = False
+117.5801 	EXP 	cue: autoDraw = False
+117.9719 	EXP 	Sound sound_1 started
+118.2688 	EXP 	Sound sound_1 stopped
+118.2892 	EXP 	slider: markerPos = None
+118.2892 	EXP 	slider: markerPos = None
+118.2892 	EXP 	text: autoDraw = True
+118.2892 	EXP 	slider: autoDraw = True
+120.0851 	DATA 	Mouse: Left button down, pos=(533,447)
+120.1126 	EXP 	slider: markerPos = 292.22222222222223
+120.1292 	EXP 	slider: markerPos = 292.22222222222223
+120.1421 	EXP 	slider: markerPos = 292.22222222222223
+120.1550 	EXP 	slider: markerPos = 292.22222222222223
+120.1682 	EXP 	slider: markerPos = 292.22222222222223
+120.1960 	EXP 	slider: markerPos = 292.22222222222223
+120.2125 	EXP 	slider: markerPos = 292.22222222222223
+120.2252 	EXP 	slider: markerPos = 292.22222222222223
+120.2380 	EXP 	slider: markerPos = 292.22222222222223
+120.2512 	EXP 	slider: markerPos = 292.22222222222223
+120.2792 	EXP 	slider: markerPos = 292.22222222222223
+120.2957 	EXP 	slider: markerPos = 292.22222222222223
+120.3089 	EXP 	slider: markerPos = 292.22222222222223
+120.3177 	DATA 	Mouse:  Left button up, pos=(533,447)
+120.3228 	EXP 	slider: markerPos = 292.22222222222223
+120.3360 	EXP 	slider: markerPos = 292.22222222222223
+120.3384 	EXP 	New trial (rep=1, index=8): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+120.3458 	EXP 	text: autoDraw = False
+120.3458 	EXP 	slider: autoDraw = False
+120.3458 	EXP 	fixation: autoDraw = True
+120.8353 	EXP 	cue: autoDraw = True
+120.8543 	EXP 	fixation: autoDraw = False
+121.3334 	DATA 	Mouse: Left button down, pos=(705,476)
+121.5002 	DATA 	Mouse:  Left button up, pos=(705,476)
+121.8688 	DATA 	Keypress: space
+121.8743 	EXP 	fixation: autoDraw = False
+121.8743 	EXP 	cue: autoDraw = False
+122.5720 	EXP 	Sound sound_1 started
+122.8689 	EXP 	Sound sound_1 stopped
+122.8888 	EXP 	slider: markerPos = None
+122.8888 	EXP 	slider: markerPos = None
+122.8888 	EXP 	text: autoDraw = True
+122.8888 	EXP 	slider: autoDraw = True
+125.3351 	DATA 	Mouse: Left button down, pos=(696,466)
+125.3627 	EXP 	slider: markerPos = 473.3333333333333
+125.3793 	EXP 	slider: markerPos = 473.3333333333333
+125.3926 	EXP 	slider: markerPos = 473.3333333333333
+125.4053 	EXP 	slider: markerPos = 473.3333333333333
+125.4181 	EXP 	slider: markerPos = 473.3333333333333
+125.4460 	EXP 	slider: markerPos = 473.3333333333333
+125.4630 	EXP 	slider: markerPos = 473.3333333333333
+125.4754 	EXP 	slider: markerPos = 473.3333333333333
+125.4881 	EXP 	slider: markerPos = 473.3333333333333
+125.5012 	EXP 	slider: markerPos = 473.3333333333333
+125.5137 	EXP 	slider: markerPos = 473.3333333333333
+125.5273 	EXP 	slider: markerPos = 473.3333333333333
+125.5407 	EXP 	slider: markerPos = 473.3333333333333
+125.5541 	EXP 	slider: markerPos = 473.3333333333333
+125.5671 	EXP 	slider: markerPos = 473.3333333333333
+125.5809 	EXP 	slider: markerPos = 473.3333333333333
+125.5943 	EXP 	slider: markerPos = 473.3333333333333
+125.6068 	EXP 	slider: markerPos = 473.3333333333333
+125.6158 	DATA 	Mouse:  Left button up, pos=(696,466)
+125.6202 	EXP 	slider: markerPos = 473.3333333333333
+125.6336 	EXP 	slider: markerPos = 473.3333333333333
+125.6361 	EXP 	New trial (rep=1, index=9): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+125.6465 	EXP 	text: autoDraw = False
+125.6465 	EXP 	slider: autoDraw = False
+125.6465 	EXP 	fixation: autoDraw = True
+126.1366 	EXP 	cue: autoDraw = True
+126.1521 	EXP 	fixation: autoDraw = False
+129.1750 	DATA 	Keypress: space
+129.1807 	EXP 	fixation: autoDraw = False
+129.1807 	EXP 	cue: autoDraw = False
+129.8723 	EXP 	Sound sound_1 started
+130.1688 	EXP 	Sound sound_1 stopped
+130.1882 	EXP 	slider: markerPos = None
+130.1882 	EXP 	slider: markerPos = None
+130.1882 	EXP 	text: autoDraw = True
+130.1882 	EXP 	slider: autoDraw = True
+132.1356 	DATA 	Mouse: Left button down, pos=(767,439)
+132.1531 	EXP 	slider: markerPos = 552.2222222222222
+132.1669 	EXP 	slider: markerPos = 552.2222222222222
+132.1806 	EXP 	slider: markerPos = 552.2222222222222
+132.1931 	EXP 	slider: markerPos = 552.2222222222222
+132.2058 	EXP 	slider: markerPos = 552.2222222222222
+132.2186 	EXP 	slider: markerPos = 552.2222222222222
+132.2324 	EXP 	slider: markerPos = 552.2222222222222
+132.2467 	EXP 	slider: markerPos = 552.2222222222222
+132.2599 	EXP 	slider: markerPos = 552.2222222222222
+132.2731 	EXP 	slider: markerPos = 552.2222222222222
+132.2862 	EXP 	slider: markerPos = 552.2222222222222
+132.2998 	EXP 	slider: markerPos = 552.2222222222222
+132.3138 	EXP 	slider: markerPos = 552.2222222222222
+132.3264 	EXP 	slider: markerPos = 552.2222222222222
+132.3390 	EXP 	slider: markerPos = 552.2222222222222
+132.3519 	EXP 	slider: markerPos = 552.2222222222222
+132.3659 	EXP 	slider: markerPos = 552.2222222222222
+132.3672 	DATA 	Mouse:  Left button up, pos=(767,439)
+132.3804 	EXP 	slider: markerPos = 552.2222222222222
+132.3829 	EXP 	New trial (rep=1, index=10): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+132.3885 	EXP 	text: autoDraw = False
+132.3885 	EXP 	slider: autoDraw = False
+132.3885 	EXP 	fixation: autoDraw = True
+132.8871 	EXP 	fixation: autoDraw = False
+132.8871 	EXP 	cue: autoDraw = True
+133.5863 	DATA 	Keypress: space
+133.5919 	EXP 	fixation: autoDraw = False
+133.5919 	EXP 	cue: autoDraw = False
+133.9889 	EXP 	Sound sound_1 started
+134.2856 	EXP 	Sound sound_1 stopped
+134.3053 	EXP 	slider: markerPos = None
+134.3053 	EXP 	slider: markerPos = None
+134.3053 	EXP 	text: autoDraw = True
+134.3053 	EXP 	slider: autoDraw = True
+138.0666 	DATA 	Mouse: Left button down, pos=(773,446)
+138.0796 	EXP 	slider: markerPos = 558.8888888888889
+138.0944 	EXP 	slider: markerPos = 558.8888888888889
+138.1087 	EXP 	slider: markerPos = 558.8888888888889
+138.1228 	EXP 	slider: markerPos = 558.8888888888889
+138.1370 	EXP 	slider: markerPos = 558.8888888888889
+138.1512 	EXP 	slider: markerPos = 558.8888888888889
+138.1666 	EXP 	slider: markerPos = 558.8888888888889
+138.1817 	EXP 	slider: markerPos = 558.8888888888889
+138.1976 	EXP 	slider: markerPos = 558.8888888888889
+138.2127 	EXP 	slider: markerPos = 558.8888888888889
+138.2279 	EXP 	slider: markerPos = 558.8888888888889
+138.2433 	EXP 	slider: markerPos = 558.8888888888889
+138.2581 	EXP 	slider: markerPos = 558.8888888888889
+138.2729 	EXP 	slider: markerPos = 558.8888888888889
+138.2829 	DATA 	Mouse:  Left button up, pos=(773,446)
+138.2883 	EXP 	slider: markerPos = 558.8888888888889
+138.3027 	EXP 	slider: markerPos = 558.8888888888889
+138.3056 	EXP 	New trial (rep=1, index=11): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+138.3131 	EXP 	text: autoDraw = False
+138.3131 	EXP 	slider: autoDraw = False
+138.3131 	EXP 	fixation: autoDraw = True
+138.8047 	EXP 	cue: autoDraw = True
+138.8134 	EXP 	fixation: autoDraw = False
+139.8165 	DATA 	Keypress: space
+139.8216 	EXP 	fixation: autoDraw = False
+139.8216 	EXP 	cue: autoDraw = False
+139.9224 	EXP 	Sound sound_1 started
+140.2191 	EXP 	Sound sound_1 stopped
+140.2390 	EXP 	slider: markerPos = None
+140.2390 	EXP 	slider: markerPos = None
+140.2390 	EXP 	text: autoDraw = True
+140.2390 	EXP 	slider: autoDraw = True
+141.9856 	DATA 	Mouse: Left button down, pos=(981,427)
+141.9861 	DATA 	Mouse:  Left button up, pos=(981,427)
+142.5589 	DATA 	Keypress: space
+143.4521 	DATA 	Mouse: Left button down, pos=(981,427)
+143.4714 	EXP 	slider: markerPos = 790.0
+143.4843 	EXP 	slider: markerPos = 790.0
+143.4981 	EXP 	slider: markerPos = 790.0
+143.5115 	EXP 	slider: markerPos = 790.0
+143.5248 	EXP 	slider: markerPos = 790.0
+143.5379 	EXP 	slider: markerPos = 790.0
+143.5514 	EXP 	slider: markerPos = 790.0
+143.5797 	EXP 	slider: markerPos = 790.0
+143.5965 	EXP 	slider: markerPos = 790.0
+143.6091 	EXP 	slider: markerPos = 790.0
+143.6221 	EXP 	slider: markerPos = 790.0
+143.6349 	EXP 	slider: markerPos = 790.0
+143.6628 	EXP 	slider: markerPos = 790.0
+143.6794 	EXP 	slider: markerPos = 790.0
+143.6926 	EXP 	slider: markerPos = 790.0
+143.7015 	DATA 	Mouse:  Left button up, pos=(981,427)
+143.7065 	EXP 	slider: markerPos = 790.0
+143.7196 	EXP 	slider: markerPos = 790.0
+143.7221 	EXP 	New trial (rep=2, index=0): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+143.7297 	EXP 	text: autoDraw = False
+143.7297 	EXP 	slider: autoDraw = False
+143.7297 	EXP 	fixation: autoDraw = True
+144.2304 	EXP 	cue: autoDraw = True
+144.2379 	EXP 	fixation: autoDraw = False
+145.2850 	DATA 	Keypress: space
+145.2902 	EXP 	fixation: autoDraw = False
+145.2902 	EXP 	cue: autoDraw = False
+145.3887 	EXP 	Sound sound_1 started
+145.6853 	EXP 	Sound sound_1 stopped
+145.7052 	EXP 	slider: markerPos = None
+145.7052 	EXP 	slider: markerPos = None
+145.7052 	EXP 	text: autoDraw = True
+145.7052 	EXP 	slider: autoDraw = True
+146.9526 	DATA 	Mouse: Left button down, pos=(548,428)
+146.9702 	EXP 	slider: markerPos = 308.88888888888886
+146.9836 	EXP 	slider: markerPos = 308.88888888888886
+146.9977 	EXP 	slider: markerPos = 308.88888888888886
+147.0110 	EXP 	slider: markerPos = 308.88888888888886
+147.0243 	EXP 	slider: markerPos = 308.88888888888886
+147.0376 	EXP 	slider: markerPos = 308.88888888888886
+147.0507 	EXP 	slider: markerPos = 308.88888888888886
+147.0646 	EXP 	slider: markerPos = 308.88888888888886
+147.0774 	EXP 	slider: markerPos = 308.88888888888886
+147.0904 	EXP 	slider: markerPos = 308.88888888888886
+147.1035 	EXP 	slider: markerPos = 308.88888888888886
+147.1170 	EXP 	slider: markerPos = 308.88888888888886
+147.1308 	EXP 	slider: markerPos = 308.88888888888886
+147.1442 	EXP 	slider: markerPos = 308.88888888888886
+147.1569 	EXP 	slider: markerPos = 308.88888888888886
+147.1695 	EXP 	slider: markerPos = 308.88888888888886
+147.1835 	EXP 	slider: markerPos = 308.88888888888886
+147.1974 	EXP 	slider: markerPos = 308.88888888888886
+147.2062 	DATA 	Mouse:  Left button up, pos=(548,428)
+147.2110 	EXP 	slider: markerPos = 308.88888888888886
+147.2243 	EXP 	slider: markerPos = 308.88888888888886
+147.2268 	EXP 	New trial (rep=2, index=1): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+147.2328 	EXP 	text: autoDraw = False
+147.2328 	EXP 	slider: autoDraw = False
+147.2328 	EXP 	fixation: autoDraw = True
+147.7300 	EXP 	cue: autoDraw = True
+147.7362 	EXP 	fixation: autoDraw = False
+148.4167 	DATA 	Keypress: space
+148.4217 	EXP 	fixation: autoDraw = False
+148.4217 	EXP 	cue: autoDraw = False
+148.5217 	EXP 	Sound sound_1 started
+148.8191 	EXP 	Sound sound_1 stopped
+148.8384 	EXP 	slider: markerPos = None
+148.8384 	EXP 	slider: markerPos = None
+148.8384 	EXP 	text: autoDraw = True
+148.8384 	EXP 	slider: autoDraw = True
+150.5370 	DATA 	Mouse: Left button down, pos=(480,447)
+150.5557 	EXP 	slider: markerPos = 233.33333333333334
+150.5691 	EXP 	slider: markerPos = 233.33333333333334
+150.5827 	EXP 	slider: markerPos = 233.33333333333334
+150.5961 	EXP 	slider: markerPos = 233.33333333333334
+150.6090 	EXP 	slider: markerPos = 233.33333333333334
+150.6218 	EXP 	slider: markerPos = 233.33333333333334
+150.6351 	EXP 	slider: markerPos = 233.33333333333334
+150.6628 	EXP 	slider: markerPos = 233.33333333333334
+150.6799 	EXP 	slider: markerPos = 233.33333333333334
+150.6933 	EXP 	slider: markerPos = 233.33333333333334
+150.7068 	EXP 	slider: markerPos = 233.33333333333334
+150.7204 	EXP 	slider: markerPos = 233.33333333333334
+150.7338 	EXP 	slider: markerPos = 233.33333333333334
+150.7476 	EXP 	slider: markerPos = 233.33333333333334
+150.7600 	EXP 	slider: markerPos = 233.33333333333334
+150.7690 	DATA 	Mouse:  Left button up, pos=(480,448)
+150.7738 	EXP 	slider: markerPos = 233.33333333333334
+150.7868 	EXP 	slider: markerPos = 233.33333333333334
+150.7895 	EXP 	New trial (rep=2, index=2): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+150.7963 	EXP 	text: autoDraw = False
+150.7963 	EXP 	slider: autoDraw = False
+150.7963 	EXP 	fixation: autoDraw = True
+151.2891 	EXP 	cue: autoDraw = True
+151.2969 	EXP 	fixation: autoDraw = False
+151.8839 	DATA 	Keypress: space
+151.8891 	EXP 	fixation: autoDraw = False
+151.8891 	EXP 	cue: autoDraw = False
+152.5890 	EXP 	Sound sound_1 started
+152.8859 	EXP 	Sound sound_1 stopped
+152.9057 	EXP 	slider: markerPos = None
+152.9057 	EXP 	slider: markerPos = None
+152.9057 	EXP 	text: autoDraw = True
+152.9057 	EXP 	slider: autoDraw = True
+154.0025 	DATA 	Mouse: Left button down, pos=(450,437)
+154.0159 	EXP 	slider: markerPos = 200.0
+154.0302 	EXP 	slider: markerPos = 200.0
+154.0427 	EXP 	slider: markerPos = 200.0
+154.0558 	EXP 	slider: markerPos = 200.0
+154.0687 	EXP 	slider: markerPos = 200.0
+154.0825 	EXP 	slider: markerPos = 200.0
+154.0967 	EXP 	slider: markerPos = 200.0
+154.1090 	EXP 	slider: markerPos = 200.0
+154.1218 	EXP 	slider: markerPos = 200.0
+154.1350 	EXP 	slider: markerPos = 200.0
+154.1631 	EXP 	slider: markerPos = 200.0
+154.1794 	EXP 	slider: markerPos = 200.0
+154.1929 	EXP 	slider: markerPos = 200.0
+154.2019 	DATA 	Mouse:  Left button up, pos=(450,437)
+154.2064 	EXP 	slider: markerPos = 200.0
+154.2191 	EXP 	slider: markerPos = 200.0
+154.2218 	EXP 	New trial (rep=2, index=3): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+154.2298 	EXP 	text: autoDraw = False
+154.2298 	EXP 	slider: autoDraw = False
+154.2298 	EXP 	fixation: autoDraw = True
+154.7219 	EXP 	cue: autoDraw = True
+154.7301 	EXP 	fixation: autoDraw = False
+155.2404 	DATA 	Keypress: space
+155.2465 	EXP 	fixation: autoDraw = False
+155.2465 	EXP 	cue: autoDraw = False
+155.9391 	EXP 	Sound sound_1 started
+156.2357 	EXP 	Sound sound_1 stopped
+156.2550 	EXP 	slider: markerPos = None
+156.2550 	EXP 	slider: markerPos = None
+156.2550 	EXP 	text: autoDraw = True
+156.2550 	EXP 	slider: autoDraw = True
+158.7521 	DATA 	Mouse: Left button down, pos=(442,429)
+158.7796 	EXP 	slider: markerPos = 191.11111111111111
+158.7961 	EXP 	slider: markerPos = 191.11111111111111
+158.8090 	EXP 	slider: markerPos = 191.11111111111111
+158.8219 	EXP 	slider: markerPos = 191.11111111111111
+158.8352 	EXP 	slider: markerPos = 191.11111111111111
+158.8492 	EXP 	slider: markerPos = 191.11111111111111
+158.8632 	EXP 	slider: markerPos = 191.11111111111111
+158.8766 	EXP 	slider: markerPos = 191.11111111111111
+158.8891 	EXP 	slider: markerPos = 191.11111111111111
+158.9018 	EXP 	slider: markerPos = 191.11111111111111
+158.9157 	EXP 	slider: markerPos = 191.11111111111111
+158.9298 	EXP 	slider: markerPos = 191.11111111111111
+158.9425 	EXP 	slider: markerPos = 191.11111111111111
+158.9553 	EXP 	slider: markerPos = 191.11111111111111
+158.9678 	EXP 	slider: markerPos = 191.11111111111111
+158.9816 	EXP 	slider: markerPos = 191.11111111111111
+158.9943 	EXP 	slider: markerPos = 191.11111111111111
+159.0034 	DATA 	Mouse:  Left button up, pos=(442,429)
+159.0078 	EXP 	slider: markerPos = 191.11111111111111
+159.0205 	EXP 	slider: markerPos = 191.11111111111111
+159.0232 	EXP 	New trial (rep=2, index=4): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+159.0293 	EXP 	text: autoDraw = False
+159.0293 	EXP 	slider: autoDraw = False
+159.0293 	EXP 	fixation: autoDraw = True
+159.5308 	EXP 	cue: autoDraw = True
+159.5387 	EXP 	fixation: autoDraw = False
+161.5236 	DATA 	Keypress: space
+161.5298 	EXP 	fixation: autoDraw = False
+161.5298 	EXP 	cue: autoDraw = False
+161.6222 	EXP 	Sound sound_1 started
+161.9223 	EXP 	Sound sound_1 stopped
+161.9411 	EXP 	slider: markerPos = None
+161.9411 	EXP 	slider: markerPos = None
+161.9411 	EXP 	text: autoDraw = True
+161.9411 	EXP 	slider: autoDraw = True
+164.8864 	DATA 	Mouse: Left button down, pos=(683,427)
+164.9040 	EXP 	slider: markerPos = 458.8888888888889
+164.9174 	EXP 	slider: markerPos = 458.8888888888889
+164.9311 	EXP 	slider: markerPos = 458.8888888888889
+164.9437 	EXP 	slider: markerPos = 458.8888888888889
+164.9565 	EXP 	slider: markerPos = 458.8888888888889
+164.9692 	EXP 	slider: markerPos = 458.8888888888889
+164.9832 	EXP 	slider: markerPos = 458.8888888888889
+164.9972 	EXP 	slider: markerPos = 458.8888888888889
+165.0099 	EXP 	slider: markerPos = 458.8888888888889
+165.0228 	EXP 	slider: markerPos = 458.8888888888889
+165.0356 	EXP 	slider: markerPos = 458.8888888888889
+165.0493 	EXP 	slider: markerPos = 458.8888888888889
+165.0636 	EXP 	slider: markerPos = 458.8888888888889
+165.0763 	EXP 	slider: markerPos = 458.8888888888889
+165.0889 	EXP 	slider: markerPos = 458.8888888888889
+165.1016 	EXP 	slider: markerPos = 458.8888888888889
+165.1031 	DATA 	Mouse:  Left button up, pos=(683,427)
+165.1163 	EXP 	slider: markerPos = 458.8888888888889
+165.1188 	EXP 	New trial (rep=2, index=5): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+165.1296 	EXP 	text: autoDraw = False
+165.1296 	EXP 	slider: autoDraw = False
+165.1296 	EXP 	fixation: autoDraw = True
+165.6202 	EXP 	cue: autoDraw = True
+165.6308 	EXP 	fixation: autoDraw = False
+166.0669 	DATA 	Keypress: space
+166.0725 	EXP 	fixation: autoDraw = False
+166.0725 	EXP 	cue: autoDraw = False
+166.1724 	EXP 	Sound sound_1 started
+166.4685 	EXP 	Sound sound_1 stopped
+166.4870 	EXP 	slider: markerPos = None
+166.4870 	EXP 	slider: markerPos = None
+166.4870 	EXP 	text: autoDraw = True
+166.4870 	EXP 	slider: autoDraw = True
+167.8024 	DATA 	Mouse: Left button down, pos=(683,427)
+167.8197 	EXP 	slider: markerPos = 458.8888888888889
+167.8336 	EXP 	slider: markerPos = 458.8888888888889
+167.8474 	EXP 	slider: markerPos = 458.8888888888889
+167.8599 	EXP 	slider: markerPos = 458.8888888888889
+167.8730 	EXP 	slider: markerPos = 458.8888888888889
+167.8858 	EXP 	slider: markerPos = 458.8888888888889
+167.8996 	EXP 	slider: markerPos = 458.8888888888889
+167.9135 	EXP 	slider: markerPos = 458.8888888888889
+167.9266 	EXP 	slider: markerPos = 458.8888888888889
+167.9400 	EXP 	slider: markerPos = 458.8888888888889
+167.9535 	EXP 	slider: markerPos = 458.8888888888889
+167.9547 	DATA 	Mouse:  Left button up, pos=(683,427)
+167.9672 	EXP 	slider: markerPos = 458.8888888888889
+167.9697 	EXP 	New trial (rep=2, index=6): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+167.9800 	EXP 	text: autoDraw = False
+167.9800 	EXP 	slider: autoDraw = False
+167.9800 	EXP 	fixation: autoDraw = True
+168.4720 	EXP 	cue: autoDraw = True
+168.4801 	EXP 	fixation: autoDraw = False
+169.2362 	DATA 	Keypress: space
+169.2419 	EXP 	fixation: autoDraw = False
+169.2419 	EXP 	cue: autoDraw = False
+169.6392 	EXP 	Sound sound_1 started
+169.9361 	EXP 	Sound sound_1 stopped
+169.9563 	EXP 	slider: markerPos = None
+169.9563 	EXP 	slider: markerPos = None
+169.9563 	EXP 	text: autoDraw = True
+169.9563 	EXP 	slider: autoDraw = True
+172.0885 	DATA 	Mouse: Left button down, pos=(852,422)
+172.1014 	EXP 	slider: markerPos = 648.8888888888888
+172.1295 	EXP 	slider: markerPos = 652.2222222222223
+172.1468 	EXP 	slider: markerPos = 661.1111111111111
+172.1559 	DATA 	Mouse:  Left button up, pos=(885,418)
+172.1614 	EXP 	slider: markerPos = 672.2222222222223
+172.1751 	EXP 	slider: markerPos = 672.2222222222223
+172.1778 	EXP 	New trial (rep=2, index=7): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+172.1836 	EXP 	text: autoDraw = False
+172.1836 	EXP 	slider: autoDraw = False
+172.1836 	EXP 	fixation: autoDraw = True
+172.6802 	EXP 	cue: autoDraw = True
+172.6883 	EXP 	fixation: autoDraw = False
+173.1684 	DATA 	Mouse: Left button down, pos=(702,412)
+173.2841 	DATA 	Mouse:  Left button up, pos=(702,412)
+173.6909 	DATA 	Keypress: space
+173.6963 	EXP 	fixation: autoDraw = False
+173.6963 	EXP 	cue: autoDraw = False
+174.0892 	EXP 	Sound sound_1 started
+174.3857 	EXP 	Sound sound_1 stopped
+174.4045 	EXP 	slider: markerPos = None
+174.4045 	EXP 	slider: markerPos = None
+174.4045 	EXP 	text: autoDraw = True
+174.4045 	EXP 	slider: autoDraw = True
+176.1025 	DATA 	Mouse: Left button down, pos=(867,423)
+176.1203 	EXP 	slider: markerPos = 663.3333333333334
+176.1339 	EXP 	slider: markerPos = 663.3333333333334
+176.1478 	EXP 	slider: markerPos = 663.3333333333334
+176.1491 	DATA 	Mouse:  Left button up, pos=(867,423)
+176.1618 	EXP 	slider: markerPos = 663.3333333333334
+176.1644 	EXP 	New trial (rep=2, index=8): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+176.1698 	EXP 	text: autoDraw = False
+176.1698 	EXP 	slider: autoDraw = False
+176.1698 	EXP 	fixation: autoDraw = True
+176.4447 	DATA 	Mouse: Left button down, pos=(867,423)
+176.4519 	DATA 	Mouse:  Left button up, pos=(867,423)
+176.6712 	EXP 	fixation: autoDraw = False
+176.6712 	EXP 	cue: autoDraw = True
+177.4743 	DATA 	Keypress: space
+177.4803 	EXP 	fixation: autoDraw = False
+177.4803 	EXP 	cue: autoDraw = False
+177.8726 	EXP 	Sound sound_1 started
+178.1692 	EXP 	Sound sound_1 stopped
+178.1881 	EXP 	slider: markerPos = None
+178.1881 	EXP 	slider: markerPos = None
+178.1881 	EXP 	text: autoDraw = True
+178.1881 	EXP 	slider: autoDraw = True
+179.3857 	DATA 	Mouse: Left button down, pos=(912,423)
+179.4129 	EXP 	slider: markerPos = 713.3333333333334
+179.4301 	EXP 	slider: markerPos = 713.3333333333334
+179.4437 	EXP 	slider: markerPos = 713.3333333333334
+179.4562 	EXP 	slider: markerPos = 713.3333333333334
+179.4689 	EXP 	slider: markerPos = 713.3333333333334
+179.4828 	EXP 	slider: markerPos = 713.3333333333334
+179.4961 	EXP 	slider: markerPos = 713.3333333333334
+179.5096 	EXP 	slider: markerPos = 713.3333333333334
+179.5225 	EXP 	slider: markerPos = 713.3333333333334
+179.5354 	EXP 	slider: markerPos = 713.3333333333334
+179.5493 	EXP 	slider: markerPos = 713.3333333333334
+179.5633 	EXP 	slider: markerPos = 713.3333333333334
+179.5762 	EXP 	slider: markerPos = 713.3333333333334
+179.5890 	EXP 	slider: markerPos = 713.3333333333334
+179.6017 	EXP 	slider: markerPos = 713.3333333333334
+179.6033 	DATA 	Mouse:  Left button up, pos=(912,423)
+179.6162 	EXP 	slider: markerPos = 713.3333333333334
+179.6186 	EXP 	New trial (rep=2, index=9): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+179.6301 	EXP 	text: autoDraw = False
+179.6301 	EXP 	slider: autoDraw = False
+179.6301 	EXP 	fixation: autoDraw = True
+180.1189 	EXP 	cue: autoDraw = True
+180.1370 	EXP 	fixation: autoDraw = False
+181.8153 	DATA 	Mouse: Left button down, pos=(726,450)
+182.0345 	DATA 	Mouse:  Left button up, pos=(726,450)
+183.2347 	DATA 	Mouse: Left button down, pos=(726,450)
+183.2541 	DATA 	Mouse:  Left button up, pos=(726,450)
+183.8834 	DATA 	Mouse: Left button down, pos=(726,450)
+184.0879 	DATA 	Mouse:  Left button up, pos=(726,450)
+184.9919 	DATA 	Keypress: space
+184.9976 	EXP 	fixation: autoDraw = False
+184.9976 	EXP 	cue: autoDraw = False
+185.6893 	EXP 	Sound sound_1 started
+185.9861 	EXP 	Sound sound_1 stopped
+186.0052 	EXP 	slider: markerPos = None
+186.0052 	EXP 	slider: markerPos = None
+186.0052 	EXP 	text: autoDraw = True
+186.0052 	EXP 	slider: autoDraw = True
+187.5198 	DATA 	Keypress: space
+188.2195 	DATA 	Mouse: Left button down, pos=(915,440)
+188.2332 	DATA 	Mouse:  Left button up, pos=(915,440)
+188.2388 	EXP 	slider: markerPos = 716.6666666666666
+188.2518 	EXP 	slider: markerPos = 716.6666666666666
+188.2542 	EXP 	New trial (rep=2, index=10): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+188.2636 	EXP 	text: autoDraw = False
+188.2636 	EXP 	slider: autoDraw = False
+188.2636 	EXP 	fixation: autoDraw = True
+188.7557 	EXP 	cue: autoDraw = True
+188.7641 	EXP 	fixation: autoDraw = False
+190.1228 	DATA 	Keypress: space
+190.1300 	EXP 	fixation: autoDraw = False
+190.1300 	EXP 	cue: autoDraw = False
+190.5214 	EXP 	Sound sound_1 started
+190.8193 	EXP 	Sound sound_1 stopped
+190.8384 	EXP 	slider: markerPos = None
+190.8384 	EXP 	slider: markerPos = None
+190.8384 	EXP 	text: autoDraw = True
+190.8384 	EXP 	slider: autoDraw = True
+192.4074 	DATA 	Keypress: space
+193.1193 	DATA 	Mouse: Left button down, pos=(912,424)
+193.1368 	EXP 	slider: markerPos = 713.3333333333334
+193.1507 	EXP 	slider: markerPos = 713.3333333333334
+193.1647 	EXP 	slider: markerPos = 713.3333333333334
+193.1778 	EXP 	slider: markerPos = 713.3333333333334
+193.1914 	EXP 	slider: markerPos = 713.3333333333334
+193.2047 	EXP 	slider: markerPos = 713.3333333333334
+193.2178 	EXP 	slider: markerPos = 713.3333333333334
+193.2316 	EXP 	slider: markerPos = 713.3333333333334
+193.2444 	EXP 	slider: markerPos = 713.3333333333334
+193.2573 	EXP 	slider: markerPos = 713.3333333333334
+193.2703 	EXP 	slider: markerPos = 713.3333333333334
+193.2839 	EXP 	slider: markerPos = 713.3333333333334
+193.2976 	EXP 	slider: markerPos = 713.3333333333334
+193.2989 	DATA 	Mouse:  Left button up, pos=(912,424)
+193.3107 	EXP 	slider: markerPos = 713.3333333333334
+193.3134 	EXP 	New trial (rep=2, index=11): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+193.3189 	EXP 	text: autoDraw = False
+193.3189 	EXP 	slider: autoDraw = False
+193.3189 	EXP 	fixation: autoDraw = True
+193.8142 	EXP 	cue: autoDraw = True
+193.8197 	EXP 	fixation: autoDraw = False
+194.6665 	DATA 	Mouse: Left button down, pos=(729,438)
+194.9046 	DATA 	Mouse:  Left button up, pos=(729,438)
+196.2670 	DATA 	Mouse: Left button down, pos=(729,438)
+196.2868 	DATA 	Mouse:  Left button up, pos=(729,438)
+197.6673 	DATA 	Mouse: Left button down, pos=(695,415)
+197.7822 	DATA 	Mouse:  Left button up, pos=(695,415)
+198.0403 	DATA 	Keypress: space
+198.0468 	EXP 	fixation: autoDraw = False
+198.0468 	EXP 	cue: autoDraw = False
+198.7392 	EXP 	Sound sound_1 started
+199.0354 	EXP 	Sound sound_1 stopped
+199.0565 	EXP 	slider: markerPos = None
+199.0565 	EXP 	slider: markerPos = None
+199.0565 	EXP 	text: autoDraw = True
+199.0565 	EXP 	slider: autoDraw = True
+200.4155 	DATA 	Keypress: space
+201.4705 	DATA 	Mouse: Left button down, pos=(878,425)
+201.4838 	EXP 	slider: markerPos = 675.5555555555555
+201.4975 	EXP 	slider: markerPos = 675.5555555555555
+201.5101 	EXP 	slider: markerPos = 675.5555555555555
+201.5228 	EXP 	slider: markerPos = 675.5555555555555
+201.5353 	EXP 	slider: markerPos = 675.5555555555555
+201.5631 	EXP 	slider: markerPos = 675.5555555555555
+201.5802 	EXP 	slider: markerPos = 675.5555555555555
+201.5925 	EXP 	slider: markerPos = 675.5555555555555
+201.6052 	EXP 	slider: markerPos = 675.5555555555555
+201.6186 	EXP 	slider: markerPos = 675.5555555555555
+201.6463 	EXP 	slider: markerPos = 675.5555555555555
+201.6636 	EXP 	slider: markerPos = 675.5555555555555
+201.6766 	EXP 	slider: markerPos = 675.5555555555555
+201.6896 	EXP 	slider: markerPos = 675.5555555555555
+201.7027 	EXP 	slider: markerPos = 675.5555555555555
+201.7041 	DATA 	Mouse:  Left button up, pos=(878,425)
+201.7168 	EXP 	slider: markerPos = 675.5555555555555
+201.7194 	EXP 	New trial (rep=3, index=0): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+201.7302 	EXP 	text: autoDraw = False
+201.7302 	EXP 	slider: autoDraw = False
+201.7302 	EXP 	fixation: autoDraw = True
+202.2196 	EXP 	cue: autoDraw = True
+202.2351 	EXP 	fixation: autoDraw = False
+203.3744 	DATA 	Keypress: space
+203.3804 	EXP 	fixation: autoDraw = False
+203.3804 	EXP 	cue: autoDraw = False
+203.7723 	EXP 	Sound sound_1 started
+204.0692 	EXP 	Sound sound_1 stopped
+204.0878 	EXP 	slider: markerPos = None
+204.0878 	EXP 	slider: markerPos = None
+204.0878 	EXP 	text: autoDraw = True
+204.0878 	EXP 	slider: autoDraw = True
+205.4189 	DATA 	Mouse: Left button down, pos=(542,428)
+205.4321 	EXP 	slider: markerPos = 302.22222222222223
+205.4447 	EXP 	slider: markerPos = 302.22222222222223
+205.4574 	EXP 	slider: markerPos = 302.22222222222223
+205.4701 	EXP 	slider: markerPos = 302.22222222222223
+205.4838 	EXP 	slider: markerPos = 302.22222222222223
+205.4976 	EXP 	slider: markerPos = 302.22222222222223
+205.5108 	EXP 	slider: markerPos = 302.22222222222223
+205.5234 	EXP 	slider: markerPos = 302.22222222222223
+205.5364 	EXP 	slider: markerPos = 302.22222222222223
+205.5502 	EXP 	slider: markerPos = 302.22222222222223
+205.5640 	EXP 	slider: markerPos = 302.22222222222223
+205.5770 	EXP 	slider: markerPos = 302.22222222222223
+205.5902 	EXP 	slider: markerPos = 302.22222222222223
+205.6032 	EXP 	slider: markerPos = 302.22222222222223
+205.6168 	EXP 	slider: markerPos = 302.22222222222223
+205.6305 	EXP 	slider: markerPos = 302.22222222222223
+205.6392 	DATA 	Mouse:  Left button up, pos=(542,428)
+205.6436 	EXP 	slider: markerPos = 302.22222222222223
+205.6569 	EXP 	slider: markerPos = 302.22222222222223
+205.6593 	EXP 	New trial (rep=3, index=1): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+205.6796 	EXP 	text: autoDraw = False
+205.6796 	EXP 	slider: autoDraw = False
+205.6796 	EXP 	fixation: autoDraw = True
+206.1639 	EXP 	cue: autoDraw = True
+206.1802 	EXP 	fixation: autoDraw = False
+206.7167 	DATA 	Mouse: Left button down, pos=(714,453)
+206.9333 	DATA 	Mouse:  Left button up, pos=(714,453)
+208.8178 	DATA 	Mouse: Left button down, pos=(713,454)
+208.8360 	DATA 	Mouse:  Left button up, pos=(713,454)
+209.4678 	DATA 	Mouse: Left button down, pos=(713,454)
+209.6833 	DATA 	Mouse:  Left button up, pos=(713,454)
+210.2336 	DATA 	Mouse: Left button down, pos=(713,454)
+210.2343 	DATA 	Mouse:  Left button up, pos=(713,454)
+212.0078 	DATA 	Keypress: space
+212.0139 	EXP 	fixation: autoDraw = False
+212.0139 	EXP 	cue: autoDraw = False
+212.1062 	EXP 	Sound sound_1 started
+212.4027 	EXP 	Sound sound_1 stopped
+212.4226 	EXP 	slider: markerPos = None
+212.4226 	EXP 	slider: markerPos = None
+212.4226 	EXP 	text: autoDraw = True
+212.4226 	EXP 	slider: autoDraw = True
+213.6689 	DATA 	Mouse: Left button down, pos=(694,449)
+213.6964 	EXP 	slider: markerPos = 471.1111111111111
+213.7136 	EXP 	slider: markerPos = 471.1111111111111
+213.7269 	EXP 	slider: markerPos = 471.1111111111111
+213.7400 	EXP 	slider: markerPos = 471.1111111111111
+213.7534 	EXP 	slider: markerPos = 471.1111111111111
+213.7670 	EXP 	slider: markerPos = 471.1111111111111
+213.7809 	EXP 	slider: markerPos = 471.1111111111111
+213.7936 	EXP 	slider: markerPos = 471.1111111111111
+213.8067 	EXP 	slider: markerPos = 471.1111111111111
+213.8194 	EXP 	slider: markerPos = 471.1111111111111
+213.8333 	EXP 	slider: markerPos = 471.1111111111111
+213.8471 	EXP 	slider: markerPos = 471.1111111111111
+213.8603 	EXP 	slider: markerPos = 471.1111111111111
+213.8726 	EXP 	slider: markerPos = 471.1111111111111
+213.8862 	EXP 	slider: markerPos = 471.1111111111111
+213.8876 	DATA 	Mouse:  Left button up, pos=(694,449)
+213.9010 	EXP 	slider: markerPos = 471.1111111111111
+213.9035 	EXP 	New trial (rep=3, index=2): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+213.9138 	EXP 	text: autoDraw = False
+213.9138 	EXP 	slider: autoDraw = False
+213.9138 	EXP 	fixation: autoDraw = True
+214.4045 	EXP 	cue: autoDraw = True
+214.4138 	EXP 	fixation: autoDraw = False
+215.1530 	DATA 	Keypress: space
+215.1807 	EXP 	fixation: autoDraw = False
+215.1807 	EXP 	cue: autoDraw = False
+215.5628 	EXP 	Sound sound_1 started
+215.8593 	EXP 	Sound sound_1 stopped
+215.8788 	EXP 	slider: markerPos = None
+215.8788 	EXP 	slider: markerPos = None
+215.8788 	EXP 	text: autoDraw = True
+215.8788 	EXP 	slider: autoDraw = True
+217.7851 	DATA 	Mouse: Left button down, pos=(655,452)
+217.7975 	EXP 	slider: markerPos = 427.7777777777778
+217.8113 	EXP 	slider: markerPos = 427.7777777777778
+217.8247 	EXP 	slider: markerPos = 427.7777777777778
+217.8381 	EXP 	slider: markerPos = 427.7777777777778
+217.8512 	EXP 	slider: markerPos = 427.7777777777778
+217.8651 	EXP 	slider: markerPos = 427.7777777777778
+217.8784 	EXP 	slider: markerPos = 427.7777777777778
+217.8913 	EXP 	slider: markerPos = 427.7777777777778
+217.9004 	DATA 	Mouse:  Left button up, pos=(655,452)
+217.9048 	EXP 	slider: markerPos = 427.7777777777778
+217.9181 	EXP 	slider: markerPos = 427.7777777777778
+217.9205 	EXP 	New trial (rep=3, index=3): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+217.9298 	EXP 	text: autoDraw = False
+217.9298 	EXP 	slider: autoDraw = False
+217.9298 	EXP 	fixation: autoDraw = True
+218.4196 	EXP 	cue: autoDraw = True
+218.4363 	EXP 	fixation: autoDraw = False
+218.8853 	DATA 	Keypress: space
+218.8907 	EXP 	fixation: autoDraw = False
+218.8907 	EXP 	cue: autoDraw = False
+219.5893 	EXP 	Sound sound_1 started
+219.8862 	EXP 	Sound sound_1 stopped
+219.9056 	EXP 	slider: markerPos = None
+219.9056 	EXP 	slider: markerPos = None
+219.9056 	EXP 	text: autoDraw = True
+219.9056 	EXP 	slider: autoDraw = True
+222.1859 	DATA 	Mouse: Left button down, pos=(874,424)
+222.2036 	EXP 	slider: markerPos = 671.1111111111111
+222.2050 	DATA 	Mouse:  Left button up, pos=(874,424)
+222.2174 	EXP 	slider: markerPos = 671.1111111111111
+222.2199 	EXP 	New trial (rep=3, index=4): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+222.2303 	EXP 	text: autoDraw = False
+222.2303 	EXP 	slider: autoDraw = False
+222.2303 	EXP 	fixation: autoDraw = True
+222.7207 	EXP 	cue: autoDraw = True
+222.7362 	EXP 	fixation: autoDraw = False
+223.3028 	DATA 	Keypress: space
+223.3080 	EXP 	fixation: autoDraw = False
+223.3080 	EXP 	cue: autoDraw = False
+223.4058 	EXP 	Sound sound_1 started
+223.7027 	EXP 	Sound sound_1 stopped
+223.7227 	EXP 	slider: markerPos = None
+223.7227 	EXP 	slider: markerPos = None
+223.7227 	EXP 	text: autoDraw = True
+223.7227 	EXP 	slider: autoDraw = True
+225.1193 	DATA 	Mouse: Left button down, pos=(915,416)
+225.1331 	DATA 	Mouse:  Left button up, pos=(915,416)
+225.1375 	EXP 	slider: markerPos = 716.6666666666666
+225.1511 	EXP 	slider: markerPos = 716.6666666666666
+225.1535 	EXP 	New trial (rep=3, index=5): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+225.1636 	EXP 	text: autoDraw = False
+225.1636 	EXP 	slider: autoDraw = False
+225.1636 	EXP 	fixation: autoDraw = True
+225.6556 	EXP 	cue: autoDraw = True
+225.6637 	EXP 	fixation: autoDraw = False
+226.1836 	DATA 	Mouse: Left button down, pos=(785,435)
+226.4174 	DATA 	Mouse:  Left button up, pos=(785,435)
+227.1507 	DATA 	Mouse: Left button down, pos=(785,435)
+227.1664 	DATA 	Mouse:  Left button up, pos=(785,435)
+228.4494 	DATA 	Mouse: Left button down, pos=(785,435)
+228.4704 	DATA 	Mouse:  Left button up, pos=(785,435)
+229.2341 	DATA 	Mouse: Left button down, pos=(785,435)
+229.5655 	DATA 	Mouse:  Left button up, pos=(785,435)
+231.1508 	DATA 	Mouse: Left button down, pos=(734,446)
+231.4006 	DATA 	Mouse:  Left button up, pos=(734,446)
+232.0686 	DATA 	Keypress: space
+232.0742 	EXP 	fixation: autoDraw = False
+232.0742 	EXP 	cue: autoDraw = False
+232.4724 	EXP 	Sound sound_1 started
+232.7693 	EXP 	Sound sound_1 stopped
+232.7886 	EXP 	slider: markerPos = None
+232.7886 	EXP 	slider: markerPos = None
+232.7886 	EXP 	text: autoDraw = True
+232.7886 	EXP 	slider: autoDraw = True
+234.5191 	DATA 	Mouse: Left button down, pos=(896,420)
+234.5467 	EXP 	slider: markerPos = 695.5555555555555
+234.5481 	DATA 	Mouse:  Left button up, pos=(896,420)
+234.5636 	EXP 	slider: markerPos = 695.5555555555555
+234.5661 	EXP 	New trial (rep=3, index=6): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+234.5719 	EXP 	text: autoDraw = False
+234.5719 	EXP 	slider: autoDraw = False
+234.5719 	EXP 	fixation: autoDraw = True
+235.0699 	EXP 	fixation: autoDraw = False
+235.0699 	EXP 	cue: autoDraw = True
+235.6992 	DATA 	Mouse: Left button down, pos=(695,446)
+235.7172 	DATA 	Mouse:  Left button up, pos=(695,446)
+236.1682 	DATA 	Mouse: Left button down, pos=(695,446)
+236.3847 	DATA 	Mouse:  Left button up, pos=(695,446)
+238.2180 	DATA 	Mouse: Left button down, pos=(734,444)
+238.2361 	DATA 	Mouse:  Left button up, pos=(734,444)
+239.0189 	DATA 	Keypress: space
+239.0242 	EXP 	fixation: autoDraw = False
+239.0242 	EXP 	cue: autoDraw = False
+239.1227 	EXP 	Sound sound_1 started
+239.4196 	EXP 	Sound sound_1 stopped
+239.4389 	EXP 	slider: markerPos = None
+239.4389 	EXP 	slider: markerPos = None
+239.4389 	EXP 	text: autoDraw = True
+239.4389 	EXP 	slider: autoDraw = True
+240.6189 	DATA 	Mouse: Left button down, pos=(868,429)
+240.6322 	EXP 	slider: markerPos = 664.4444444444443
+240.6336 	DATA 	Mouse:  Left button up, pos=(868,429)
+240.6454 	EXP 	slider: markerPos = 664.4444444444443
+240.6481 	EXP 	New trial (rep=3, index=7): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+240.6539 	EXP 	text: autoDraw = False
+240.6539 	EXP 	slider: autoDraw = False
+240.6539 	EXP 	fixation: autoDraw = True
+241.1530 	EXP 	fixation: autoDraw = False
+241.1530 	EXP 	cue: autoDraw = True
+241.6183 	DATA 	Mouse: Left button down, pos=(741,444)
+241.6337 	DATA 	Mouse:  Left button up, pos=(741,444)
+242.1169 	DATA 	Keypress: space
+242.1220 	EXP 	fixation: autoDraw = False
+242.1220 	EXP 	cue: autoDraw = False
+242.8227 	EXP 	Sound sound_1 started
+243.1187 	EXP 	Sound sound_1 stopped
+243.1387 	EXP 	slider: markerPos = None
+243.1387 	EXP 	slider: markerPos = None
+243.1387 	EXP 	text: autoDraw = True
+243.1387 	EXP 	slider: autoDraw = True
+246.1194 	DATA 	Mouse: Left button down, pos=(973,433)
+246.1335 	DATA 	Mouse:  Left button up, pos=(973,433)
+246.1390 	EXP 	slider: markerPos = 781.1111111111111
+246.1520 	EXP 	slider: markerPos = 781.1111111111111
+246.1548 	EXP 	New trial (rep=3, index=8): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+246.1637 	EXP 	text: autoDraw = False
+246.1637 	EXP 	slider: autoDraw = False
+246.1637 	EXP 	fixation: autoDraw = True
+246.6541 	EXP 	cue: autoDraw = True
+246.6720 	EXP 	fixation: autoDraw = False
+247.3009 	DATA 	Mouse: Left button down, pos=(708,480)
+247.3198 	DATA 	Mouse:  Left button up, pos=(708,480)
+247.5922 	DATA 	Keypress: space
+247.5979 	EXP 	fixation: autoDraw = False
+247.5979 	EXP 	cue: autoDraw = False
+248.2895 	EXP 	Sound sound_1 started
+248.5862 	EXP 	Sound sound_1 stopped
+248.6056 	EXP 	slider: markerPos = None
+248.6056 	EXP 	slider: markerPos = None
+248.6056 	EXP 	text: autoDraw = True
+248.6056 	EXP 	slider: autoDraw = True
+250.1530 	DATA 	Mouse: Left button down, pos=(902,428)
+250.1666 	DATA 	Mouse:  Left button up, pos=(902,428)
+250.1711 	EXP 	slider: markerPos = 702.2222222222222
+250.1846 	EXP 	slider: markerPos = 702.2222222222222
+250.1870 	EXP 	New trial (rep=3, index=9): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+250.1971 	EXP 	text: autoDraw = False
+250.1971 	EXP 	slider: autoDraw = False
+250.1971 	EXP 	fixation: autoDraw = True
+250.6871 	EXP 	cue: autoDraw = True
+250.7038 	EXP 	fixation: autoDraw = False
+251.2074 	DATA 	Keypress: space
+251.2135 	EXP 	fixation: autoDraw = False
+251.2135 	EXP 	cue: autoDraw = False
+251.9061 	EXP 	Sound sound_1 started
+252.2026 	EXP 	Sound sound_1 stopped
+252.2225 	EXP 	slider: markerPos = None
+252.2225 	EXP 	slider: markerPos = None
+252.2225 	EXP 	text: autoDraw = True
+252.2225 	EXP 	slider: autoDraw = True
+254.2522 	DATA 	Mouse: Left button down, pos=(456,428)
+254.2654 	EXP 	slider: markerPos = 206.66666666666666
+254.2670 	DATA 	Mouse:  Left button up, pos=(456,428)
+254.2792 	EXP 	slider: markerPos = 206.66666666666666
+254.2819 	EXP 	New trial (rep=3, index=10): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+254.2872 	EXP 	text: autoDraw = False
+254.2872 	EXP 	slider: autoDraw = False
+254.2872 	EXP 	fixation: autoDraw = True
+254.7882 	EXP 	fixation: autoDraw = False
+254.7882 	EXP 	cue: autoDraw = True
+255.4239 	DATA 	Keypress: space
+255.4302 	EXP 	fixation: autoDraw = False
+255.4302 	EXP 	cue: autoDraw = False
+255.8224 	EXP 	Sound sound_1 started
+256.1190 	EXP 	Sound sound_1 stopped
+256.1391 	EXP 	slider: markerPos = None
+256.1391 	EXP 	slider: markerPos = None
+256.1391 	EXP 	text: autoDraw = True
+256.1391 	EXP 	slider: autoDraw = True
+257.6030 	DATA 	Mouse: Left button down, pos=(470,426)
+257.6164 	DATA 	Mouse:  Left button up, pos=(470,426)
+257.6208 	EXP 	slider: markerPos = 222.2222222222222
+257.6339 	EXP 	slider: markerPos = 222.2222222222222
+257.6363 	EXP 	New trial (rep=3, index=11): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+257.6470 	EXP 	text: autoDraw = False
+257.6470 	EXP 	slider: autoDraw = False
+257.6470 	EXP 	fixation: autoDraw = True
+258.1371 	EXP 	cue: autoDraw = True
+258.1539 	EXP 	fixation: autoDraw = False
+258.6842 	DATA 	Mouse: Left button down, pos=(801,452)
+258.6848 	DATA 	Mouse:  Left button up, pos=(801,452)
+259.3244 	DATA 	Keypress: space
+259.3306 	EXP 	fixation: autoDraw = False
+259.3306 	EXP 	cue: autoDraw = False
+259.4224 	EXP 	Sound sound_1 started
+259.7193 	EXP 	Sound sound_1 stopped
+259.7390 	EXP 	slider: markerPos = None
+259.7390 	EXP 	slider: markerPos = None
+259.7390 	EXP 	text: autoDraw = True
+259.7390 	EXP 	slider: autoDraw = True
+261.0191 	DATA 	Mouse: Left button down, pos=(456,429)
+261.0465 	EXP 	slider: markerPos = 206.66666666666666
+261.0479 	DATA 	Mouse:  Left button up, pos=(456,429)
+261.0637 	EXP 	slider: markerPos = 206.66666666666666
+261.0661 	EXP 	New trial (rep=4, index=0): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+261.0715 	EXP 	text: autoDraw = False
+261.0715 	EXP 	slider: autoDraw = False
+261.0715 	EXP 	fixation: autoDraw = True
+261.5651 	EXP 	cue: autoDraw = True
+261.5717 	EXP 	fixation: autoDraw = False
+262.0877 	DATA 	Mouse: Left button down, pos=(748,432)
+262.0883 	DATA 	Mouse:  Left button up, pos=(748,432)
+263.5020 	DATA 	Keypress: space
+263.5076 	EXP 	fixation: autoDraw = False
+263.5076 	EXP 	cue: autoDraw = False
+263.6058 	EXP 	Sound sound_1 started
+263.9061 	EXP 	Sound sound_1 stopped
+263.9258 	EXP 	slider: markerPos = None
+263.9258 	EXP 	slider: markerPos = None
+263.9258 	EXP 	text: autoDraw = True
+263.9258 	EXP 	slider: autoDraw = True
+265.3523 	DATA 	Mouse: Left button down, pos=(600,427)
+265.3799 	EXP 	slider: markerPos = 366.6666666666667
+265.3812 	DATA 	Mouse:  Left button up, pos=(600,427)
+265.3969 	EXP 	slider: markerPos = 366.6666666666667
+265.3993 	EXP 	New trial (rep=4, index=1): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+265.4047 	EXP 	text: autoDraw = False
+265.4047 	EXP 	slider: autoDraw = False
+265.4047 	EXP 	fixation: autoDraw = True
+265.9035 	EXP 	fixation: autoDraw = False
+265.9035 	EXP 	cue: autoDraw = True
+266.3179 	DATA 	Mouse: Left button down, pos=(718,445)
+266.3361 	DATA 	Mouse:  Left button up, pos=(718,445)
+268.3173 	DATA 	Mouse: Left button down, pos=(718,445)
+268.5513 	DATA 	Mouse:  Left button up, pos=(718,445)
+269.0901 	DATA 	Keypress: space
+269.0969 	EXP 	fixation: autoDraw = False
+269.0969 	EXP 	cue: autoDraw = False
+269.1895 	EXP 	Sound sound_1 started
+269.4861 	EXP 	Sound sound_1 stopped
+269.5056 	EXP 	slider: markerPos = None
+269.5056 	EXP 	slider: markerPos = None
+269.5056 	EXP 	text: autoDraw = True
+269.5056 	EXP 	slider: autoDraw = True
+270.9356 	DATA 	Mouse: Left button down, pos=(893,428)
+270.9488 	EXP 	slider: markerPos = 692.2222222222222
+270.9501 	DATA 	Mouse:  Left button up, pos=(893,428)
+270.9621 	EXP 	slider: markerPos = 692.2222222222222
+270.9648 	EXP 	New trial (rep=4, index=2): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+270.9702 	EXP 	text: autoDraw = False
+270.9702 	EXP 	slider: autoDraw = False
+270.9702 	EXP 	fixation: autoDraw = True
+271.4719 	EXP 	fixation: autoDraw = False
+271.4719 	EXP 	cue: autoDraw = True
+273.5674 	DATA 	Mouse: Left button down, pos=(732,461)
+273.7839 	DATA 	Mouse:  Left button up, pos=(732,461)
+274.8520 	DATA 	Keypress: space
+274.8572 	EXP 	fixation: autoDraw = False
+274.8572 	EXP 	cue: autoDraw = False
+275.5557 	EXP 	Sound sound_1 started
+275.8525 	EXP 	Sound sound_1 stopped
+275.8723 	EXP 	slider: markerPos = None
+275.8723 	EXP 	slider: markerPos = None
+275.8723 	EXP 	text: autoDraw = True
+275.8723 	EXP 	slider: autoDraw = True
+277.9192 	DATA 	Mouse: Left button down, pos=(871,422)
+277.9466 	EXP 	slider: markerPos = 667.7777777777778
+277.9480 	DATA 	Mouse:  Left button up, pos=(871,422)
+277.9636 	EXP 	slider: markerPos = 667.7777777777778
+277.9661 	EXP 	New trial (rep=4, index=3): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+277.9715 	EXP 	text: autoDraw = False
+277.9715 	EXP 	slider: autoDraw = False
+277.9715 	EXP 	fixation: autoDraw = True
+278.4726 	EXP 	fixation: autoDraw = False
+278.4726 	EXP 	cue: autoDraw = True
+278.8752 	DATA 	Keypress: space
+278.8808 	EXP 	fixation: autoDraw = False
+278.8808 	EXP 	cue: autoDraw = False
+279.2730 	EXP 	Sound sound_1 started
+279.5695 	EXP 	Sound sound_1 stopped
+279.5889 	EXP 	slider: markerPos = None
+279.5889 	EXP 	slider: markerPos = None
+279.5889 	EXP 	text: autoDraw = True
+279.5889 	EXP 	slider: autoDraw = True
+281.2864 	DATA 	Mouse: Left button down, pos=(923,424)
+281.3002 	DATA 	Mouse:  Left button up, pos=(923,424)
+281.3048 	EXP 	slider: markerPos = 725.5555555555555
+281.3181 	EXP 	slider: markerPos = 725.5555555555555
+281.3206 	EXP 	New trial (rep=4, index=4): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+281.3303 	EXP 	text: autoDraw = False
+281.3303 	EXP 	slider: autoDraw = False
+281.3303 	EXP 	fixation: autoDraw = True
+281.8206 	EXP 	cue: autoDraw = True
+281.8369 	EXP 	fixation: autoDraw = False
+282.4022 	DATA 	Keypress: space
+282.4074 	EXP 	fixation: autoDraw = False
+282.4074 	EXP 	cue: autoDraw = False
+282.5057 	EXP 	Sound sound_1 started
+282.8026 	EXP 	Sound sound_1 stopped
+282.8218 	EXP 	slider: markerPos = None
+282.8218 	EXP 	slider: markerPos = None
+282.8218 	EXP 	text: autoDraw = True
+282.8218 	EXP 	slider: autoDraw = True
+284.5031 	DATA 	Mouse: Left button down, pos=(919,422)
+284.5169 	EXP 	slider: markerPos = 721.1111111111112
+284.5183 	DATA 	Mouse:  Left button up, pos=(919,422)
+284.5318 	EXP 	slider: markerPos = 721.1111111111112
+284.5342 	EXP 	New trial (rep=4, index=5): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+284.5396 	EXP 	text: autoDraw = False
+284.5396 	EXP 	slider: autoDraw = False
+284.5396 	EXP 	fixation: autoDraw = True
+285.0365 	EXP 	fixation: autoDraw = False
+285.0365 	EXP 	cue: autoDraw = True
+285.7171 	DATA 	Keypress: space
+285.7226 	EXP 	fixation: autoDraw = False
+285.7226 	EXP 	cue: autoDraw = False
+286.4229 	EXP 	Sound sound_1 started
+286.7192 	EXP 	Sound sound_1 stopped
+286.7388 	EXP 	slider: markerPos = None
+286.7388 	EXP 	slider: markerPos = None
+286.7388 	EXP 	text: autoDraw = True
+286.7388 	EXP 	slider: autoDraw = True
+288.8026 	DATA 	Mouse: Left button down, pos=(640,417)
+288.8299 	EXP 	slider: markerPos = 411.1111111111111
+288.8314 	DATA 	Mouse:  Left button up, pos=(640,417)
+288.8469 	EXP 	slider: markerPos = 411.1111111111111
+288.8494 	EXP 	New trial (rep=4, index=6): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+288.8548 	EXP 	text: autoDraw = False
+288.8548 	EXP 	slider: autoDraw = False
+288.8548 	EXP 	fixation: autoDraw = True
+289.3534 	EXP 	fixation: autoDraw = False
+289.3534 	EXP 	cue: autoDraw = True
+289.8217 	DATA 	Mouse: Left button down, pos=(726,435)
+289.8338 	DATA 	Mouse:  Left button up, pos=(726,435)
+290.2569 	DATA 	Keypress: space
+290.2629 	EXP 	fixation: autoDraw = False
+290.2629 	EXP 	cue: autoDraw = False
+290.3547 	EXP 	Sound sound_1 started
+290.6526 	EXP 	Sound sound_1 stopped
+290.6721 	EXP 	slider: markerPos = None
+290.6721 	EXP 	slider: markerPos = None
+290.6721 	EXP 	text: autoDraw = True
+290.6721 	EXP 	slider: autoDraw = True
+292.2189 	DATA 	Mouse: Left button down, pos=(654,425)
+292.2321 	EXP 	slider: markerPos = 426.66666666666663
+292.2335 	DATA 	Mouse:  Left button up, pos=(654,425)
+292.2453 	EXP 	slider: markerPos = 426.66666666666663
+292.2480 	EXP 	New trial (rep=4, index=7): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+292.2535 	EXP 	text: autoDraw = False
+292.2535 	EXP 	slider: autoDraw = False
+292.2535 	EXP 	fixation: autoDraw = True
+292.7531 	EXP 	fixation: autoDraw = False
+292.7531 	EXP 	cue: autoDraw = True
+293.5520 	DATA 	Keypress: space
+293.5575 	EXP 	fixation: autoDraw = False
+293.5575 	EXP 	cue: autoDraw = False
+293.9547 	EXP 	Sound sound_1 started
+294.2526 	EXP 	Sound sound_1 stopped
+294.2722 	EXP 	slider: markerPos = None
+294.2722 	EXP 	slider: markerPos = None
+294.2722 	EXP 	text: autoDraw = True
+294.2722 	EXP 	slider: autoDraw = True
+295.4690 	DATA 	Mouse: Left button down, pos=(653,421)
+295.4810 	EXP 	slider: markerPos = 425.5555555555556
+295.4902 	DATA 	Mouse:  Left button up, pos=(653,421)
+295.4954 	EXP 	slider: markerPos = 425.5555555555556
+295.5087 	EXP 	slider: markerPos = 425.5555555555556
+295.5111 	EXP 	New trial (rep=4, index=8): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+295.5170 	EXP 	text: autoDraw = False
+295.5170 	EXP 	slider: autoDraw = False
+295.5170 	EXP 	fixation: autoDraw = True
+296.0138 	EXP 	cue: autoDraw = True
+296.0204 	EXP 	fixation: autoDraw = False
+296.9739 	DATA 	Keypress: space
+296.9801 	EXP 	fixation: autoDraw = False
+296.9801 	EXP 	cue: autoDraw = False
+297.6729 	EXP 	Sound sound_1 started
+297.9694 	EXP 	Sound sound_1 stopped
+297.9882 	EXP 	slider: markerPos = None
+297.9882 	EXP 	slider: markerPos = None
+297.9882 	EXP 	text: autoDraw = True
+297.9882 	EXP 	slider: autoDraw = True
+299.0191 	DATA 	Mouse: Left button down, pos=(645,413)
+299.0466 	EXP 	slider: markerPos = 416.6666666666667
+299.0480 	DATA 	Mouse:  Left button up, pos=(645,413)
+299.0631 	EXP 	slider: markerPos = 416.6666666666667
+299.0657 	EXP 	New trial (rep=4, index=9): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+299.0710 	EXP 	text: autoDraw = False
+299.0710 	EXP 	slider: autoDraw = False
+299.0710 	EXP 	fixation: autoDraw = True
+299.5697 	EXP 	fixation: autoDraw = False
+299.5697 	EXP 	cue: autoDraw = True
+300.3352 	DATA 	Keypress: space
+300.3408 	EXP 	fixation: autoDraw = False
+300.3408 	EXP 	cue: autoDraw = False
+300.7391 	EXP 	Sound sound_1 started
+301.0360 	EXP 	Sound sound_1 stopped
+301.0548 	EXP 	slider: markerPos = None
+301.0548 	EXP 	slider: markerPos = None
+301.0548 	EXP 	text: autoDraw = True
+301.0548 	EXP 	slider: autoDraw = True
+302.0535 	DATA 	Mouse: Left button down, pos=(647,425)
+302.0683 	DATA 	Mouse:  Left button up, pos=(647,425)
+302.0732 	EXP 	slider: markerPos = 418.88888888888886
+302.0860 	EXP 	slider: markerPos = 418.88888888888886
+302.0887 	EXP 	New trial (rep=4, index=10): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+302.0967 	EXP 	text: autoDraw = False
+302.0967 	EXP 	slider: autoDraw = False
+302.0967 	EXP 	fixation: autoDraw = True
+302.5866 	EXP 	cue: autoDraw = True
+302.6035 	EXP 	fixation: autoDraw = False
+303.3863 	DATA 	Keypress: space
+303.3919 	EXP 	fixation: autoDraw = False
+303.3919 	EXP 	cue: autoDraw = False
+303.7890 	EXP 	Sound sound_1 started
+304.0858 	EXP 	Sound sound_1 stopped
+304.1044 	EXP 	slider: markerPos = None
+304.1044 	EXP 	slider: markerPos = None
+304.1044 	EXP 	text: autoDraw = True
+304.1044 	EXP 	slider: autoDraw = True
+304.9357 	DATA 	Mouse: Left button down, pos=(666,421)
+304.9494 	EXP 	slider: markerPos = 440.0
+304.9508 	DATA 	Mouse:  Left button up, pos=(666,421)
+304.9641 	EXP 	slider: markerPos = 440.0
+304.9665 	EXP 	New trial (rep=4, index=11): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+304.9719 	EXP 	text: autoDraw = False
+304.9719 	EXP 	slider: autoDraw = False
+304.9719 	EXP 	fixation: autoDraw = True
+305.4709 	EXP 	fixation: autoDraw = False
+305.4709 	EXP 	cue: autoDraw = True
+306.4523 	DATA 	Keypress: space
+306.4575 	EXP 	fixation: autoDraw = False
+306.4575 	EXP 	cue: autoDraw = False
+307.1557 	EXP 	Sound sound_1 started
+307.4523 	EXP 	Sound sound_1 stopped
+307.4711 	EXP 	slider: markerPos = None
+307.4711 	EXP 	slider: markerPos = None
+307.4711 	EXP 	text: autoDraw = True
+307.4711 	EXP 	slider: autoDraw = True
+308.3357 	DATA 	Mouse: Left button down, pos=(664,421)
+308.3362 	DATA 	Mouse:  Left button up, pos=(664,421)
+311.0649 	DATA 	Mouse: Left button down, pos=(898,422)
+311.0798 	EXP 	slider: markerPos = 697.7777777777778
+311.0927 	EXP 	slider: markerPos = 697.7777777777778
+311.1056 	EXP 	slider: markerPos = 697.7777777777778
+311.1183 	EXP 	slider: markerPos = 697.7777777777778
+311.1463 	EXP 	slider: markerPos = 697.7777777777778
+311.1635 	EXP 	slider: markerPos = 697.7777777777778
+311.1767 	EXP 	slider: markerPos = 697.7777777777778
+311.1899 	EXP 	slider: markerPos = 697.7777777777778
+311.2030 	EXP 	slider: markerPos = 697.7777777777778
+311.2165 	EXP 	slider: markerPos = 697.7777777777778
+311.2303 	EXP 	slider: markerPos = 697.7777777777778
+311.2427 	EXP 	slider: markerPos = 697.7777777777778
+311.2555 	EXP 	slider: markerPos = 697.7777777777778
+311.2688 	EXP 	slider: markerPos = 697.7777777777778
+311.2964 	EXP 	slider: markerPos = 697.7777777777778
+311.2978 	DATA 	Mouse:  Left button up, pos=(898,422)
+311.3135 	EXP 	slider: markerPos = 697.7777777777778
+311.3160 	EXP 	New trial (rep=5, index=0): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+311.3213 	EXP 	text: autoDraw = False
+311.3213 	EXP 	slider: autoDraw = False
+311.3213 	EXP 	fixation: autoDraw = True
+311.8201 	EXP 	fixation: autoDraw = False
+311.8201 	EXP 	cue: autoDraw = True
+312.3020 	DATA 	Mouse: Left button down, pos=(770,438)
+312.3028 	DATA 	Mouse:  Left button up, pos=(770,438)
+342.2609 	DATA 	Keypress: space
+342.2666 	EXP 	fixation: autoDraw = False
+342.2666 	EXP 	cue: autoDraw = False
+342.3556 	EXP 	Sound sound_1 started
+342.6523 	EXP 	Sound sound_1 stopped
+342.6753 	EXP 	slider: markerPos = None
+342.6753 	EXP 	slider: markerPos = None
+342.6753 	EXP 	text: autoDraw = True
+342.6753 	EXP 	slider: autoDraw = True
+344.1032 	DATA 	Mouse: Left button down, pos=(331,431)
+344.1180 	DATA 	Mouse:  Left button up, pos=(331,431)
+344.1230 	EXP 	slider: markerPos = 67.77777777777777
+344.1362 	EXP 	slider: markerPos = 67.77777777777777
+344.1387 	EXP 	New trial (rep=5, index=1): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+344.1467 	EXP 	text: autoDraw = False
+344.1467 	EXP 	slider: autoDraw = False
+344.1467 	EXP 	fixation: autoDraw = True
+344.6383 	EXP 	cue: autoDraw = True
+344.6463 	EXP 	fixation: autoDraw = False
+345.6524 	DATA 	Keypress: space
+345.6579 	EXP 	fixation: autoDraw = False
+345.6579 	EXP 	cue: autoDraw = False
+346.0556 	EXP 	Sound sound_1 started
+346.3526 	EXP 	Sound sound_1 stopped
+346.3722 	EXP 	slider: markerPos = None
+346.3722 	EXP 	slider: markerPos = None
+346.3722 	EXP 	text: autoDraw = True
+346.3722 	EXP 	slider: autoDraw = True
+347.5521 	DATA 	Mouse: Left button down, pos=(375,415)
+347.5642 	EXP 	slider: markerPos = 116.66666666666664
+347.5734 	DATA 	Mouse:  Left button up, pos=(375,415)
+347.5788 	EXP 	slider: markerPos = 116.66666666666664
+347.5924 	EXP 	slider: markerPos = 116.66666666666664
+347.5949 	EXP 	New trial (rep=5, index=2): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+347.6002 	EXP 	text: autoDraw = False
+347.6002 	EXP 	slider: autoDraw = False
+347.6002 	EXP 	fixation: autoDraw = True
+348.0970 	EXP 	cue: autoDraw = True
+348.1036 	EXP 	fixation: autoDraw = False
+348.6007 	DATA 	Mouse: Left button down, pos=(771,445)
+348.6200 	DATA 	Mouse:  Left button up, pos=(771,445)
+349.2166 	DATA 	Mouse: Left button down, pos=(771,445)
+349.4665 	DATA 	Mouse:  Left button up, pos=(771,445)
+350.0195 	DATA 	Keypress: space
+350.0250 	EXP 	fixation: autoDraw = False
+350.0250 	EXP 	cue: autoDraw = False
+350.4223 	EXP 	Sound sound_1 started
+350.7192 	EXP 	Sound sound_1 stopped
+350.7391 	EXP 	slider: markerPos = None
+350.7391 	EXP 	slider: markerPos = None
+350.7391 	EXP 	text: autoDraw = True
+350.7391 	EXP 	slider: autoDraw = True
+352.0191 	DATA 	Mouse: Left button down, pos=(780,433)
+352.0333 	DATA 	Mouse:  Left button up, pos=(780,433)
+352.0377 	EXP 	slider: markerPos = 566.6666666666666
+352.0512 	EXP 	slider: markerPos = 566.6666666666666
+352.0537 	EXP 	New trial (rep=5, index=3): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+352.0636 	EXP 	text: autoDraw = False
+352.0636 	EXP 	slider: autoDraw = False
+352.0636 	EXP 	fixation: autoDraw = True
+352.5538 	EXP 	cue: autoDraw = True
+352.5697 	EXP 	fixation: autoDraw = False
+352.8731 	DATA 	Keypress: space
+352.8800 	EXP 	fixation: autoDraw = False
+352.8800 	EXP 	cue: autoDraw = False
+352.9725 	EXP 	Sound sound_1 started
+353.2688 	EXP 	Sound sound_1 stopped
+353.2884 	EXP 	slider: markerPos = None
+353.2884 	EXP 	slider: markerPos = None
+353.2884 	EXP 	text: autoDraw = True
+353.2884 	EXP 	slider: autoDraw = True
+354.2522 	DATA 	Mouse: Left button down, pos=(805,418)
+354.2798 	EXP 	slider: markerPos = 594.4444444444445
+354.2812 	DATA 	Mouse:  Left button up, pos=(805,418)
+354.2968 	EXP 	slider: markerPos = 594.4444444444445
+354.2992 	EXP 	New trial (rep=5, index=4): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+354.3046 	EXP 	text: autoDraw = False
+354.3046 	EXP 	slider: autoDraw = False
+354.3046 	EXP 	fixation: autoDraw = True
+354.8034 	EXP 	fixation: autoDraw = False
+354.8034 	EXP 	cue: autoDraw = True
+355.2165 	DATA 	Keypress: space
+355.2219 	EXP 	fixation: autoDraw = False
+355.2219 	EXP 	cue: autoDraw = False
+355.3224 	EXP 	Sound sound_1 started
+355.6191 	EXP 	Sound sound_1 stopped
+355.6390 	EXP 	slider: markerPos = None
+355.6390 	EXP 	slider: markerPos = None
+355.6390 	EXP 	text: autoDraw = True
+355.6390 	EXP 	slider: autoDraw = True
+356.4699 	DATA 	Mouse: Left button down, pos=(778,424)
+356.4898 	DATA 	Mouse:  Left button up, pos=(778,424)
+356.4959 	EXP 	slider: markerPos = 564.4444444444445
+356.5101 	EXP 	slider: markerPos = 564.4444444444445
+356.5129 	EXP 	New trial (rep=5, index=5): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+356.5189 	EXP 	text: autoDraw = False
+356.5189 	EXP 	slider: autoDraw = False
+356.5189 	EXP 	fixation: autoDraw = True
+357.0212 	EXP 	fixation: autoDraw = False
+357.0212 	EXP 	cue: autoDraw = True
+357.4170 	DATA 	Mouse: Left button down, pos=(739,448)
+357.4182 	DATA 	Mouse:  Left button up, pos=(739,448)
+358.6534 	DATA 	Keypress: space
+358.6590 	EXP 	fixation: autoDraw = False
+358.6590 	EXP 	cue: autoDraw = False
+359.0560 	EXP 	Sound sound_1 started
+359.3522 	EXP 	Sound sound_1 stopped
+359.3717 	EXP 	slider: markerPos = None
+359.3717 	EXP 	slider: markerPos = None
+359.3717 	EXP 	text: autoDraw = True
+359.3717 	EXP 	slider: autoDraw = True
+360.5192 	DATA 	Mouse: Left button down, pos=(863,429)
+360.5333 	DATA 	Mouse:  Left button up, pos=(863,429)
+360.5376 	EXP 	slider: markerPos = 658.8888888888889
+360.5509 	EXP 	slider: markerPos = 658.8888888888889
+360.5534 	EXP 	New trial (rep=5, index=6): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+360.5635 	EXP 	text: autoDraw = False
+360.5635 	EXP 	slider: autoDraw = False
+360.5635 	EXP 	fixation: autoDraw = True
+361.0532 	EXP 	cue: autoDraw = True
+361.0697 	EXP 	fixation: autoDraw = False
+361.4502 	DATA 	Mouse: Left button down, pos=(758,450)
+361.4542 	DATA 	Mouse:  Left button up, pos=(758,450)
+362.7076 	DATA 	Keypress: space
+362.7136 	EXP 	fixation: autoDraw = False
+362.7136 	EXP 	cue: autoDraw = False
+363.4057 	EXP 	Sound sound_1 started
+363.7025 	EXP 	Sound sound_1 stopped
+363.7226 	EXP 	slider: markerPos = None
+363.7226 	EXP 	slider: markerPos = None
+363.7226 	EXP 	text: autoDraw = True
+363.7226 	EXP 	slider: autoDraw = True
+366.8852 	DATA 	Mouse: Left button down, pos=(463,427)
+366.8985 	EXP 	slider: markerPos = 214.44444444444443
+366.9000 	DATA 	Mouse:  Left button up, pos=(463,427)
+366.9126 	EXP 	slider: markerPos = 214.44444444444443
+366.9152 	EXP 	New trial (rep=5, index=7): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+366.9205 	EXP 	text: autoDraw = False
+366.9205 	EXP 	slider: autoDraw = False
+366.9205 	EXP 	fixation: autoDraw = True
+367.4207 	EXP 	fixation: autoDraw = False
+367.4207 	EXP 	cue: autoDraw = True
+367.9673 	DATA 	Mouse: Left button down, pos=(700,447)
+367.9859 	DATA 	Mouse:  Left button up, pos=(700,447)
+368.7200 	DATA 	Keypress: space
+368.7256 	EXP 	fixation: autoDraw = False
+368.7256 	EXP 	cue: autoDraw = False
+369.1226 	EXP 	Sound sound_1 started
+369.4194 	EXP 	Sound sound_1 stopped
+369.4390 	EXP 	slider: markerPos = None
+369.4390 	EXP 	slider: markerPos = None
+369.4390 	EXP 	text: autoDraw = True
+369.4390 	EXP 	slider: autoDraw = True
+370.6688 	DATA 	Mouse: Left button down, pos=(632,413)
+370.6694 	DATA 	Mouse:  Left button up, pos=(632,413)
+371.7986 	DATA 	Keypress: space
+373.0521 	DATA 	Mouse: Left button down, pos=(672,427)
+373.0795 	EXP 	slider: markerPos = 446.66666666666663
+373.0968 	EXP 	slider: markerPos = 446.66666666666663
+373.1094 	EXP 	slider: markerPos = 446.66666666666663
+373.1225 	EXP 	slider: markerPos = 446.66666666666663
+373.1352 	EXP 	slider: markerPos = 446.66666666666663
+373.1629 	EXP 	slider: markerPos = 446.66666666666663
+373.1800 	EXP 	slider: markerPos = 446.66666666666663
+373.1935 	EXP 	slider: markerPos = 446.66666666666663
+373.2068 	EXP 	slider: markerPos = 446.66666666666663
+373.2201 	EXP 	slider: markerPos = 446.66666666666663
+373.2338 	EXP 	slider: markerPos = 446.66666666666663
+373.2477 	EXP 	slider: markerPos = 446.66666666666663
+373.2603 	EXP 	slider: markerPos = 446.66666666666663
+373.2731 	EXP 	slider: markerPos = 446.66666666666663
+373.2861 	EXP 	slider: markerPos = 446.66666666666663
+373.2875 	DATA 	Mouse:  Left button up, pos=(672,427)
+373.3005 	EXP 	slider: markerPos = 446.66666666666663
+373.3030 	EXP 	New trial (rep=5, index=8): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+373.3134 	EXP 	text: autoDraw = False
+373.3134 	EXP 	slider: autoDraw = False
+373.3134 	EXP 	fixation: autoDraw = True
+373.8041 	EXP 	cue: autoDraw = True
+373.8136 	EXP 	fixation: autoDraw = False
+374.0007 	DATA 	Mouse: Left button down, pos=(672,427)
+374.0013 	DATA 	Mouse:  Left button up, pos=(672,427)
+374.3743 	DATA 	Keypress: space
+374.3805 	EXP 	fixation: autoDraw = False
+374.3805 	EXP 	cue: autoDraw = False
+374.4722 	EXP 	Sound sound_1 started
+374.7693 	EXP 	Sound sound_1 stopped
+374.7886 	EXP 	slider: markerPos = None
+374.7886 	EXP 	slider: markerPos = None
+374.7886 	EXP 	text: autoDraw = True
+374.7886 	EXP 	slider: autoDraw = True
+376.5354 	DATA 	Mouse: Left button down, pos=(988,427)
+376.5630 	EXP 	slider: markerPos = 797.7777777777777
+376.5643 	DATA 	Mouse:  Left button up, pos=(988,427)
+376.5800 	EXP 	slider: markerPos = 797.7777777777777
+376.5824 	EXP 	New trial (rep=5, index=9): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+376.5878 	EXP 	text: autoDraw = False
+376.5878 	EXP 	slider: autoDraw = False
+376.5878 	EXP 	fixation: autoDraw = True
+377.0883 	EXP 	fixation: autoDraw = False
+377.0883 	EXP 	cue: autoDraw = True
+378.1006 	DATA 	Keypress: space
+378.1064 	EXP 	fixation: autoDraw = False
+378.1064 	EXP 	cue: autoDraw = False
+378.8054 	EXP 	Sound sound_1 started
+379.1021 	EXP 	Sound sound_1 stopped
+379.1236 	EXP 	slider: markerPos = None
+379.1236 	EXP 	slider: markerPos = None
+379.1236 	EXP 	text: autoDraw = True
+379.1236 	EXP 	slider: autoDraw = True
+380.1355 	DATA 	Mouse: Left button down, pos=(982,421)
+380.1493 	EXP 	slider: markerPos = 791.1111111111111
+380.1506 	DATA 	Mouse:  Left button up, pos=(982,421)
+380.1641 	EXP 	slider: markerPos = 791.1111111111111
+380.1668 	EXP 	New trial (rep=5, index=10): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+380.1722 	EXP 	text: autoDraw = False
+380.1722 	EXP 	slider: autoDraw = False
+380.1722 	EXP 	fixation: autoDraw = True
+380.6694 	EXP 	fixation: autoDraw = False
+380.6694 	EXP 	cue: autoDraw = True
+381.6343 	DATA 	Mouse: Left button down, pos=(734,441)
+381.6531 	DATA 	Mouse:  Left button up, pos=(734,441)
+382.9178 	DATA 	Mouse: Left button down, pos=(734,441)
+383.1172 	DATA 	Mouse:  Left button up, pos=(734,441)
+383.7752 	DATA 	Keypress: space
+383.7810 	EXP 	fixation: autoDraw = False
+383.7810 	EXP 	cue: autoDraw = False
+384.4725 	EXP 	Sound sound_1 started
+384.7686 	EXP 	Sound sound_1 stopped
+384.7891 	EXP 	slider: markerPos = None
+384.7891 	EXP 	slider: markerPos = None
+384.7891 	EXP 	text: autoDraw = True
+384.7891 	EXP 	slider: autoDraw = True
+385.7188 	DATA 	Mouse: Left button down, pos=(994,433)
+385.7462 	EXP 	slider: markerPos = 804.4444444444446
+385.7476 	DATA 	Mouse:  Left button up, pos=(994,433)
+385.7635 	EXP 	slider: markerPos = 804.4444444444446
+385.7659 	EXP 	New trial (rep=5, index=11): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+385.7714 	EXP 	text: autoDraw = False
+385.7714 	EXP 	slider: autoDraw = False
+385.7714 	EXP 	fixation: autoDraw = True
+386.2696 	EXP 	fixation: autoDraw = False
+386.2696 	EXP 	cue: autoDraw = True
+386.9835 	DATA 	Mouse: Left button down, pos=(714,430)
+387.1839 	DATA 	Mouse:  Left button up, pos=(714,430)
+387.6358 	DATA 	Keypress: space
+387.6415 	EXP 	fixation: autoDraw = False
+387.6415 	EXP 	cue: autoDraw = False
+388.3392 	EXP 	Sound sound_1 started
+388.6352 	EXP 	Sound sound_1 stopped
+388.6542 	EXP 	slider: markerPos = None
+388.6542 	EXP 	slider: markerPos = None
+388.6542 	EXP 	text: autoDraw = True
+388.6542 	EXP 	slider: autoDraw = True
+390.3190 	DATA 	Mouse: Left button down, pos=(1008,429)
+390.3464 	EXP 	slider: markerPos = 820.0000000000001
+390.3477 	DATA 	Mouse:  Left button up, pos=(1008,429)
+390.3633 	EXP 	slider: markerPos = 820.0000000000001
+390.3658 	EXP 	New trial (rep=6, index=0): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+390.3712 	EXP 	text: autoDraw = False
+390.3712 	EXP 	slider: autoDraw = False
+390.3712 	EXP 	fixation: autoDraw = True
+390.8707 	EXP 	fixation: autoDraw = False
+390.8707 	EXP 	cue: autoDraw = True
+391.6710 	DATA 	Mouse: Left button down, pos=(676,430)
+391.8850 	DATA 	Mouse:  Left button up, pos=(676,430)
+393.1025 	DATA 	Keypress: space
+393.1083 	EXP 	fixation: autoDraw = False
+393.1083 	EXP 	cue: autoDraw = False
+393.5060 	EXP 	Sound sound_1 started
+393.8020 	EXP 	Sound sound_1 stopped
+393.8207 	EXP 	slider: markerPos = None
+393.8207 	EXP 	slider: markerPos = None
+393.8207 	EXP 	text: autoDraw = True
+393.8207 	EXP 	slider: autoDraw = True
+395.1522 	DATA 	Mouse: Left button down, pos=(995,425)
+395.1527 	DATA 	Mouse:  Left button up, pos=(995,425)
+395.7687 	DATA 	Mouse: Left button down, pos=(995,425)
+395.7963 	EXP 	slider: markerPos = 805.5555555555555
+395.8129 	EXP 	slider: markerPos = 805.5555555555555
+395.8257 	EXP 	slider: markerPos = 805.5555555555555
+395.8385 	EXP 	slider: markerPos = 805.5555555555555
+395.8517 	EXP 	slider: markerPos = 805.5555555555555
+395.8796 	EXP 	slider: markerPos = 805.5555555555555
+395.8967 	EXP 	slider: markerPos = 805.5555555555555
+395.9093 	EXP 	slider: markerPos = 805.5555555555555
+395.9220 	EXP 	slider: markerPos = 805.5555555555555
+395.9353 	EXP 	slider: markerPos = 805.5555555555555
+395.9631 	EXP 	slider: markerPos = 805.5555555555555
+395.9800 	EXP 	slider: markerPos = 805.5555555555555
+395.9886 	DATA 	Mouse:  Left button up, pos=(995,425)
+395.9937 	EXP 	slider: markerPos = 805.5555555555555
+396.0070 	EXP 	slider: markerPos = 805.5555555555555
+396.0094 	EXP 	New trial (rep=6, index=1): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+396.0296 	EXP 	text: autoDraw = False
+396.0296 	EXP 	slider: autoDraw = False
+396.0296 	EXP 	fixation: autoDraw = True
+396.5134 	EXP 	cue: autoDraw = True
+396.5302 	EXP 	fixation: autoDraw = False
+397.0174 	DATA 	Mouse: Left button down, pos=(726,408)
+397.0180 	DATA 	Mouse:  Left button up, pos=(726,408)
+398.7406 	DATA 	Keypress: space
+398.7467 	EXP 	fixation: autoDraw = False
+398.7467 	EXP 	cue: autoDraw = False
+399.4392 	EXP 	Sound sound_1 started
+399.7358 	EXP 	Sound sound_1 stopped
+399.7548 	EXP 	slider: markerPos = None
+399.7548 	EXP 	slider: markerPos = None
+399.7548 	EXP 	text: autoDraw = True
+399.7548 	EXP 	slider: autoDraw = True
+401.0019 	DATA 	Mouse: Left button down, pos=(989,419)
+401.0025 	DATA 	Mouse:  Left button up, pos=(989,419)
+401.9190 	DATA 	Mouse: Left button down, pos=(989,419)
+401.9369 	EXP 	slider: markerPos = 798.8888888888889
+401.9504 	EXP 	slider: markerPos = 798.8888888888889
+401.9645 	EXP 	slider: markerPos = 798.8888888888889
+401.9780 	EXP 	slider: markerPos = 798.8888888888889
+401.9905 	EXP 	slider: markerPos = 798.8888888888889
+402.0033 	EXP 	slider: markerPos = 798.8888888888889
+402.0172 	EXP 	slider: markerPos = 798.8888888888889
+402.0308 	EXP 	slider: markerPos = 798.8888888888889
+402.0435 	EXP 	slider: markerPos = 798.8888888888889
+402.0566 	EXP 	slider: markerPos = 798.8888888888889
+402.0694 	EXP 	slider: markerPos = 798.8888888888889
+402.0834 	EXP 	slider: markerPos = 798.8888888888889
+402.0972 	EXP 	slider: markerPos = 798.8888888888889
+402.1099 	EXP 	slider: markerPos = 798.8888888888889
+402.1231 	EXP 	slider: markerPos = 798.8888888888889
+402.1359 	EXP 	slider: markerPos = 798.8888888888889
+402.1498 	EXP 	slider: markerPos = 798.8888888888889
+402.1641 	EXP 	slider: markerPos = 798.8888888888889
+402.1774 	EXP 	slider: markerPos = 798.8888888888889
+402.1863 	DATA 	Mouse:  Left button up, pos=(989,419)
+402.1910 	EXP 	slider: markerPos = 798.8888888888889
+402.2039 	EXP 	slider: markerPos = 798.8888888888889
+402.2065 	EXP 	New trial (rep=6, index=2): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+402.2127 	EXP 	text: autoDraw = False
+402.2127 	EXP 	slider: autoDraw = False
+402.2127 	EXP 	fixation: autoDraw = True
+402.7133 	EXP 	fixation: autoDraw = False
+402.7133 	EXP 	cue: autoDraw = True
+403.1849 	DATA 	Mouse: Left button down, pos=(764,435)
+403.2029 	DATA 	Mouse:  Left button up, pos=(764,435)
+404.2000 	DATA 	Mouse: Left button down, pos=(764,435)
+404.3678 	DATA 	Mouse:  Left button up, pos=(764,435)
+405.6569 	DATA 	Keypress: space
+405.6627 	EXP 	fixation: autoDraw = False
+405.6627 	EXP 	cue: autoDraw = False
+406.3555 	EXP 	Sound sound_1 started
+406.6519 	EXP 	Sound sound_1 stopped
+406.6713 	EXP 	slider: markerPos = None
+406.6713 	EXP 	slider: markerPos = None
+406.6713 	EXP 	text: autoDraw = True
+406.6713 	EXP 	slider: autoDraw = True
+408.2690 	DATA 	Mouse: Left button down, pos=(1048,440)
+408.2826 	DATA 	Mouse:  Left button up, pos=(1048,440)
+408.2870 	EXP 	slider: markerPos = 864.4444444444445
+408.3004 	EXP 	slider: markerPos = 864.4444444444445
+408.3028 	EXP 	New trial (rep=6, index=3): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+408.3134 	EXP 	text: autoDraw = False
+408.3134 	EXP 	slider: autoDraw = False
+408.3134 	EXP 	fixation: autoDraw = True
+408.8036 	EXP 	cue: autoDraw = True
+408.8194 	EXP 	fixation: autoDraw = False
+409.2922 	DATA 	Keypress: space
+409.2979 	EXP 	fixation: autoDraw = False
+409.2979 	EXP 	cue: autoDraw = False
+409.3955 	EXP 	Sound sound_1 started
+409.6926 	EXP 	Sound sound_1 stopped
+409.7125 	EXP 	slider: markerPos = None
+409.7125 	EXP 	slider: markerPos = None
+409.7125 	EXP 	text: autoDraw = True
+409.7125 	EXP 	slider: autoDraw = True
+411.0024 	DATA 	Mouse: Left button down, pos=(402,426)
+411.0029 	DATA 	Mouse:  Left button up, pos=(402,426)
+412.2361 	DATA 	Mouse: Left button down, pos=(402,426)
+412.2547 	EXP 	slider: markerPos = 146.66666666666666
+412.2679 	EXP 	slider: markerPos = 146.66666666666666
+412.2817 	EXP 	slider: markerPos = 146.66666666666666
+412.2954 	EXP 	slider: markerPos = 146.66666666666666
+412.3081 	EXP 	slider: markerPos = 146.66666666666666
+412.3210 	EXP 	slider: markerPos = 146.66666666666666
+412.3343 	EXP 	slider: markerPos = 146.66666666666666
+412.3481 	EXP 	slider: markerPos = 146.66666666666666
+412.3614 	EXP 	slider: markerPos = 146.66666666666666
+412.3751 	EXP 	slider: markerPos = 146.66666666666666
+412.3883 	EXP 	slider: markerPos = 146.66666666666666
+412.4012 	EXP 	slider: markerPos = 146.66666666666666
+412.4139 	EXP 	slider: markerPos = 146.66666666666666
+412.4269 	EXP 	slider: markerPos = 146.66666666666666
+412.4397 	EXP 	slider: markerPos = 146.66666666666666
+412.4528 	EXP 	slider: markerPos = 146.66666666666666
+412.4542 	DATA 	Mouse:  Left button up, pos=(402,426)
+412.4665 	EXP 	slider: markerPos = 146.66666666666666
+412.4692 	EXP 	New trial (rep=6, index=4): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+412.4801 	EXP 	text: autoDraw = False
+412.4801 	EXP 	slider: autoDraw = False
+412.4801 	EXP 	fixation: autoDraw = True
+412.9686 	EXP 	cue: autoDraw = True
+412.9882 	EXP 	fixation: autoDraw = False
+413.5043 	DATA 	Mouse: Left button down, pos=(766,402)
+413.5179 	DATA 	Mouse:  Left button up, pos=(766,402)
+414.1351 	DATA 	Keypress: space
+414.1477 	EXP 	fixation: autoDraw = False
+414.1477 	EXP 	cue: autoDraw = False
+414.5454 	EXP 	Sound sound_1 started
+414.8426 	EXP 	Sound sound_1 stopped
+414.8618 	EXP 	slider: markerPos = None
+414.8618 	EXP 	slider: markerPos = None
+414.8618 	EXP 	text: autoDraw = True
+414.8618 	EXP 	slider: autoDraw = True
+415.9689 	DATA 	Mouse: Left button down, pos=(456,426)
+415.9869 	EXP 	slider: markerPos = 206.66666666666666
+415.9883 	DATA 	Mouse:  Left button up, pos=(456,426)
+416.0005 	EXP 	slider: markerPos = 206.66666666666666
+416.0030 	EXP 	New trial (rep=6, index=5): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+416.0133 	EXP 	text: autoDraw = False
+416.0133 	EXP 	slider: autoDraw = False
+416.0133 	EXP 	fixation: autoDraw = True
+416.5052 	EXP 	cue: autoDraw = True
+416.5135 	EXP 	fixation: autoDraw = False
+417.1197 	DATA 	Keypress: space
+417.1249 	EXP 	fixation: autoDraw = False
+417.1249 	EXP 	cue: autoDraw = False
+417.2222 	EXP 	Sound sound_1 started
+417.5191 	EXP 	Sound sound_1 stopped
+417.5376 	EXP 	slider: markerPos = None
+417.5376 	EXP 	slider: markerPos = None
+417.5376 	EXP 	text: autoDraw = True
+417.5376 	EXP 	slider: autoDraw = True
+418.9519 	DATA 	Mouse: Left button down, pos=(397,428)
+418.9796 	EXP 	slider: markerPos = 141.11111111111114
+418.9810 	DATA 	Mouse:  Left button up, pos=(397,428)
+418.9962 	EXP 	slider: markerPos = 141.11111111111114
+418.9988 	EXP 	New trial (rep=6, index=6): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+419.0041 	EXP 	text: autoDraw = False
+419.0041 	EXP 	slider: autoDraw = False
+419.0041 	EXP 	fixation: autoDraw = True
+419.5050 	EXP 	fixation: autoDraw = False
+419.5050 	EXP 	cue: autoDraw = True
+419.8856 	DATA 	Keypress: space
+419.8912 	EXP 	fixation: autoDraw = False
+419.8912 	EXP 	cue: autoDraw = False
+420.5892 	EXP 	Sound sound_1 started
+420.8854 	EXP 	Sound sound_1 stopped
+420.9040 	EXP 	slider: markerPos = None
+420.9040 	EXP 	slider: markerPos = None
+420.9040 	EXP 	text: autoDraw = True
+420.9040 	EXP 	slider: autoDraw = True
+423.3024 	DATA 	Mouse: Left button down, pos=(526,434)
+423.3029 	DATA 	Mouse:  Left button up, pos=(526,434)
+424.3023 	DATA 	Mouse: Left button down, pos=(529,434)
+424.3204 	EXP 	slider: markerPos = 288.88888888888886
+424.3339 	EXP 	slider: markerPos = 288.88888888888886
+424.3476 	EXP 	slider: markerPos = 288.88888888888886
+424.3609 	EXP 	slider: markerPos = 288.88888888888886
+424.3741 	EXP 	slider: markerPos = 288.88888888888886
+424.3874 	EXP 	slider: markerPos = 288.88888888888886
+424.4006 	EXP 	slider: markerPos = 288.88888888888886
+424.4146 	EXP 	slider: markerPos = 288.88888888888886
+424.4274 	EXP 	slider: markerPos = 288.88888888888886
+424.4407 	EXP 	slider: markerPos = 288.88888888888886
+424.4535 	EXP 	slider: markerPos = 288.88888888888886
+424.4670 	EXP 	slider: markerPos = 288.88888888888886
+424.4684 	DATA 	Mouse:  Left button up, pos=(530,434)
+424.4817 	EXP 	slider: markerPos = 288.88888888888886
+424.4843 	EXP 	New trial (rep=6, index=7): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+424.4901 	EXP 	text: autoDraw = False
+424.4901 	EXP 	slider: autoDraw = False
+424.4901 	EXP 	fixation: autoDraw = True
+424.9886 	EXP 	cue: autoDraw = True
+424.9970 	EXP 	fixation: autoDraw = False
+425.5503 	DATA 	Mouse: Left button down, pos=(745,432)
+425.5661 	DATA 	Mouse:  Left button up, pos=(745,432)
+425.9676 	DATA 	Keypress: space
+425.9728 	EXP 	fixation: autoDraw = False
+425.9728 	EXP 	cue: autoDraw = False
+426.3722 	EXP 	Sound sound_1 started
+426.6689 	EXP 	Sound sound_1 stopped
+426.6860 	EXP 	slider: markerPos = None
+426.6860 	EXP 	slider: markerPos = None
+426.6860 	EXP 	text: autoDraw = True
+426.6860 	EXP 	slider: autoDraw = True
+427.5191 	DATA 	Mouse: Left button down, pos=(745,432)
+427.5463 	EXP 	slider: markerPos = 527.7777777777778
+427.5477 	DATA 	Mouse:  Left button up, pos=(745,432)
+427.5634 	EXP 	slider: markerPos = 527.7777777777778
+427.5659 	EXP 	New trial (rep=6, index=8): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+427.5713 	EXP 	text: autoDraw = False
+427.5713 	EXP 	slider: autoDraw = False
+427.5713 	EXP 	fixation: autoDraw = True
+428.0692 	EXP 	fixation: autoDraw = False
+428.0692 	EXP 	cue: autoDraw = True
+428.4300 	EXP 	fixation: autoDraw = False
+428.4300 	EXP 	cue: autoDraw = False
+428.4336 	DATA 	Keypress: space
+429.1228 	EXP 	Sound sound_1 started
+429.4191 	EXP 	Sound sound_1 stopped
+429.4397 	EXP 	slider: markerPos = None
+429.4397 	EXP 	slider: markerPos = None
+429.4397 	EXP 	text: autoDraw = True
+429.4397 	EXP 	slider: autoDraw = True
+430.6853 	DATA 	Mouse: Left button down, pos=(456,411)
+430.7130 	EXP 	slider: markerPos = 206.66666666666666
+430.7144 	DATA 	Mouse:  Left button up, pos=(456,411)
+430.7300 	EXP 	slider: markerPos = 206.66666666666666
+430.7324 	EXP 	New trial (rep=6, index=9): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+430.7378 	EXP 	text: autoDraw = False
+430.7378 	EXP 	slider: autoDraw = False
+430.7378 	EXP 	fixation: autoDraw = True
+431.2369 	EXP 	fixation: autoDraw = False
+431.2369 	EXP 	cue: autoDraw = True
+431.7632 	EXP 	fixation: autoDraw = False
+431.7632 	EXP 	cue: autoDraw = False
+431.7663 	DATA 	Keypress: space
+431.8557 	EXP 	Sound sound_1 started
+432.1522 	EXP 	Sound sound_1 stopped
+432.1715 	EXP 	slider: markerPos = None
+432.1715 	EXP 	slider: markerPos = None
+432.1715 	EXP 	text: autoDraw = True
+432.1715 	EXP 	slider: autoDraw = True
+433.4856 	DATA 	Mouse: Left button down, pos=(321,433)
+433.5035 	EXP 	slider: markerPos = 56.66666666666664
+433.5049 	DATA 	Mouse:  Left button up, pos=(321,433)
+433.5175 	EXP 	slider: markerPos = 56.66666666666664
+433.5200 	EXP 	New trial (rep=6, index=10): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+433.5301 	EXP 	text: autoDraw = False
+433.5301 	EXP 	slider: autoDraw = False
+433.5301 	EXP 	fixation: autoDraw = True
+434.0212 	EXP 	cue: autoDraw = True
+434.0302 	EXP 	fixation: autoDraw = False
+434.4589 	DATA 	Keypress: space
+434.4651 	EXP 	fixation: autoDraw = False
+434.4651 	EXP 	cue: autoDraw = False
+434.5557 	EXP 	Sound sound_1 started
+434.8525 	EXP 	Sound sound_1 stopped
+434.8723 	EXP 	slider: markerPos = None
+434.8723 	EXP 	slider: markerPos = None
+434.8723 	EXP 	text: autoDraw = True
+434.8723 	EXP 	slider: autoDraw = True
+436.0028 	DATA 	Mouse: Left button down, pos=(317,438)
+436.0033 	DATA 	Mouse:  Left button up, pos=(317,438)
+436.3198 	DATA 	Keypress: space
+437.2023 	DATA 	Mouse: Left button down, pos=(317,438)
+437.2202 	EXP 	slider: markerPos = 52.22222222222223
+437.2337 	EXP 	slider: markerPos = 52.22222222222223
+437.2479 	EXP 	slider: markerPos = 52.22222222222223
+437.2614 	EXP 	slider: markerPos = 52.22222222222223
+437.2740 	EXP 	slider: markerPos = 52.22222222222223
+437.2867 	EXP 	slider: markerPos = 52.22222222222223
+437.3004 	EXP 	slider: markerPos = 52.22222222222223
+437.3141 	EXP 	slider: markerPos = 52.22222222222223
+437.3273 	EXP 	slider: markerPos = 52.22222222222223
+437.3398 	EXP 	slider: markerPos = 52.22222222222223
+437.3526 	EXP 	slider: markerPos = 52.22222222222223
+437.3666 	EXP 	slider: markerPos = 52.22222222222223
+437.3806 	EXP 	slider: markerPos = 52.22222222222223
+437.3930 	EXP 	slider: markerPos = 52.22222222222223
+437.4019 	DATA 	Mouse:  Left button up, pos=(317,438)
+437.4065 	EXP 	slider: markerPos = 52.22222222222223
+437.4194 	EXP 	slider: markerPos = 52.22222222222223
+437.4221 	EXP 	New trial (rep=6, index=11): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+437.4292 	EXP 	text: autoDraw = False
+437.4292 	EXP 	slider: autoDraw = False
+437.4292 	EXP 	fixation: autoDraw = True
+437.9183 	EXP 	cue: autoDraw = True
+437.9359 	EXP 	fixation: autoDraw = False
+438.9079 	DATA 	Keypress: space
+438.9138 	EXP 	fixation: autoDraw = False
+438.9138 	EXP 	cue: autoDraw = False
+439.3058 	EXP 	Sound sound_1 started
+439.6019 	EXP 	Sound sound_1 stopped
+439.6219 	EXP 	slider: markerPos = None
+439.6219 	EXP 	slider: markerPos = None
+439.6219 	EXP 	text: autoDraw = True
+439.6219 	EXP 	slider: autoDraw = True
+441.7853 	DATA 	Mouse: Left button down, pos=(1015,450)
+441.8129 	EXP 	slider: markerPos = 827.7777777777777
+441.8294 	EXP 	slider: markerPos = 827.7777777777777
+441.8439 	EXP 	slider: markerPos = 827.7777777777777
+441.8570 	EXP 	slider: markerPos = 827.7777777777777
+441.8705 	EXP 	slider: markerPos = 827.7777777777777
+441.8838 	EXP 	slider: markerPos = 827.7777777777777
+441.8978 	EXP 	slider: markerPos = 827.7777777777777
+441.9109 	EXP 	slider: markerPos = 827.7777777777777
+441.9241 	EXP 	slider: markerPos = 827.7777777777777
+441.9374 	EXP 	slider: markerPos = 827.7777777777777
+441.9505 	EXP 	slider: markerPos = 827.7777777777777
+441.9642 	EXP 	slider: markerPos = 827.7777777777777
+441.9767 	EXP 	slider: markerPos = 827.7777777777777
+441.9858 	DATA 	Mouse:  Left button up, pos=(1015,450)
+441.9903 	EXP 	slider: markerPos = 827.7777777777777
+442.0034 	EXP 	slider: markerPos = 827.7777777777777
+442.0060 	EXP 	New trial (rep=7, index=0): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+442.0131 	EXP 	text: autoDraw = False
+442.0131 	EXP 	slider: autoDraw = False
+442.0131 	EXP 	fixation: autoDraw = True
+442.5035 	EXP 	cue: autoDraw = True
+442.5197 	EXP 	fixation: autoDraw = False
+443.0347 	DATA 	Mouse: Left button down, pos=(648,441)
+443.0543 	DATA 	Mouse:  Left button up, pos=(648,441)
+443.5077 	DATA 	Keypress: space
+443.5136 	EXP 	fixation: autoDraw = False
+443.5136 	EXP 	cue: autoDraw = False
+443.6054 	EXP 	Sound sound_1 started
+443.9028 	EXP 	Sound sound_1 stopped
+443.9214 	EXP 	slider: markerPos = None
+443.9214 	EXP 	slider: markerPos = None
+443.9214 	EXP 	text: autoDraw = True
+443.9214 	EXP 	slider: autoDraw = True
+445.7687 	DATA 	Mouse: Left button down, pos=(538,421)
+445.7962 	EXP 	slider: markerPos = 297.7777777777778
+445.8133 	EXP 	slider: markerPos = 297.7777777777778
+445.8266 	EXP 	slider: markerPos = 297.7777777777778
+445.8399 	EXP 	slider: markerPos = 297.7777777777778
+445.8534 	EXP 	slider: markerPos = 297.7777777777778
+445.8672 	EXP 	slider: markerPos = 297.7777777777778
+445.8809 	EXP 	slider: markerPos = 297.7777777777778
+445.8933 	EXP 	slider: markerPos = 297.7777777777778
+445.9061 	EXP 	slider: markerPos = 297.7777777777778
+445.9192 	EXP 	slider: markerPos = 297.7777777777778
+445.9333 	EXP 	slider: markerPos = 297.7777777777778
+445.9473 	EXP 	slider: markerPos = 297.7777777777778
+445.9560 	DATA 	Mouse:  Left button up, pos=(538,421)
+445.9613 	EXP 	slider: markerPos = 297.7777777777778
+445.9741 	EXP 	slider: markerPos = 297.7777777777778
+445.9768 	EXP 	New trial (rep=7, index=1): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+445.9826 	EXP 	text: autoDraw = False
+445.9826 	EXP 	slider: autoDraw = False
+445.9826 	EXP 	fixation: autoDraw = True
+446.4801 	EXP 	cue: autoDraw = True
+446.4859 	EXP 	fixation: autoDraw = False
+447.0184 	DATA 	Keypress: space
+447.0241 	EXP 	fixation: autoDraw = False
+447.0241 	EXP 	cue: autoDraw = False
+447.4222 	EXP 	Sound sound_1 started
+447.7187 	EXP 	Sound sound_1 stopped
+447.7382 	EXP 	slider: markerPos = None
+447.7382 	EXP 	slider: markerPos = None
+447.7382 	EXP 	text: autoDraw = True
+447.7382 	EXP 	slider: autoDraw = True
+448.8024 	DATA 	Mouse: Left button down, pos=(396,431)
+448.8201 	EXP 	slider: markerPos = 140.0
+448.8337 	EXP 	slider: markerPos = 140.0
+448.8477 	EXP 	slider: markerPos = 140.0
+448.8611 	EXP 	slider: markerPos = 140.0
+448.8752 	EXP 	slider: markerPos = 140.0
+448.8890 	EXP 	slider: markerPos = 140.0
+448.9031 	EXP 	slider: markerPos = 140.0
+448.9171 	EXP 	slider: markerPos = 140.0
+448.9312 	EXP 	slider: markerPos = 140.0
+448.9443 	EXP 	slider: markerPos = 140.0
+448.9568 	EXP 	slider: markerPos = 140.0
+448.9697 	EXP 	slider: markerPos = 140.0
+448.9837 	EXP 	slider: markerPos = 140.0
+448.9976 	EXP 	slider: markerPos = 140.0
+449.0064 	DATA 	Mouse:  Left button up, pos=(396,431)
+449.0116 	EXP 	slider: markerPos = 140.0
+449.0242 	EXP 	slider: markerPos = 140.0
+449.0269 	EXP 	New trial (rep=7, index=2): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+449.0328 	EXP 	text: autoDraw = False
+449.0328 	EXP 	slider: autoDraw = False
+449.0328 	EXP 	fixation: autoDraw = True
+449.5293 	EXP 	cue: autoDraw = True
+449.5372 	EXP 	fixation: autoDraw = False
+450.1860 	DATA 	Keypress: space
+450.1912 	EXP 	fixation: autoDraw = False
+450.1912 	EXP 	cue: autoDraw = False
+450.5890 	EXP 	Sound sound_1 started
+450.8856 	EXP 	Sound sound_1 stopped
+450.9047 	EXP 	slider: markerPos = None
+450.9047 	EXP 	slider: markerPos = None
+450.9047 	EXP 	text: autoDraw = True
+450.9047 	EXP 	slider: autoDraw = True
+451.7857 	DATA 	Mouse: Left button down, pos=(821,418)
+451.8037 	EXP 	slider: markerPos = 613.3333333333333
+451.8165 	EXP 	slider: markerPos = 613.3333333333333
+451.8305 	EXP 	slider: markerPos = 613.3333333333333
+451.8431 	EXP 	slider: markerPos = 613.3333333333333
+451.8558 	EXP 	slider: markerPos = 613.3333333333333
+451.8685 	EXP 	slider: markerPos = 613.3333333333333
+451.8826 	EXP 	slider: markerPos = 613.3333333333333
+451.8966 	EXP 	slider: markerPos = 613.3333333333333
+451.9097 	EXP 	slider: markerPos = 613.3333333333333
+451.9229 	EXP 	slider: markerPos = 613.3333333333333
+451.9362 	EXP 	slider: markerPos = 613.3333333333333
+451.9499 	EXP 	slider: markerPos = 613.3333333333333
+451.9637 	EXP 	slider: markerPos = 613.3333333333333
+451.9762 	EXP 	slider: markerPos = 613.3333333333333
+451.9851 	DATA 	Mouse:  Left button up, pos=(822,418)
+451.9898 	EXP 	slider: markerPos = 613.3333333333333
+452.0026 	EXP 	slider: markerPos = 613.3333333333333
+452.0052 	EXP 	New trial (rep=7, index=3): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+452.0125 	EXP 	text: autoDraw = False
+452.0125 	EXP 	slider: autoDraw = False
+452.0125 	EXP 	fixation: autoDraw = True
+452.5037 	EXP 	cue: autoDraw = True
+452.5134 	EXP 	fixation: autoDraw = False
+452.9513 	DATA 	Mouse: Left button down, pos=(710,427)
+453.1196 	DATA 	Mouse:  Left button up, pos=(710,427)
+453.8743 	DATA 	Keypress: space
+453.8800 	EXP 	fixation: autoDraw = False
+453.8800 	EXP 	cue: autoDraw = False
+453.9721 	EXP 	Sound sound_1 started
+454.2690 	EXP 	Sound sound_1 stopped
+454.2884 	EXP 	slider: markerPos = None
+454.2884 	EXP 	slider: markerPos = None
+454.2884 	EXP 	text: autoDraw = True
+454.2884 	EXP 	slider: autoDraw = True
+455.1690 	DATA 	Mouse: Left button down, pos=(1029,441)
+455.1867 	EXP 	slider: markerPos = 843.3333333333333
+455.2004 	EXP 	slider: markerPos = 843.3333333333333
+455.2143 	EXP 	slider: markerPos = 843.3333333333333
+455.2269 	EXP 	slider: markerPos = 843.3333333333333
+455.2399 	EXP 	slider: markerPos = 843.3333333333333
+455.2528 	EXP 	slider: markerPos = 843.3333333333333
+455.2668 	EXP 	slider: markerPos = 843.3333333333333
+455.2806 	EXP 	slider: markerPos = 843.3333333333333
+455.2938 	EXP 	slider: markerPos = 843.3333333333333
+455.3071 	EXP 	slider: markerPos = 843.3333333333333
+455.3206 	EXP 	slider: markerPos = 843.3333333333333
+455.3340 	EXP 	slider: markerPos = 843.3333333333333
+455.3479 	EXP 	slider: markerPos = 843.3333333333333
+455.3611 	EXP 	slider: markerPos = 843.3333333333333
+455.3699 	DATA 	Mouse:  Left button up, pos=(1029,441)
+455.3745 	EXP 	slider: markerPos = 843.3333333333333
+455.3873 	EXP 	slider: markerPos = 843.3333333333333
+455.3899 	EXP 	New trial (rep=7, index=4): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+455.3959 	EXP 	text: autoDraw = False
+455.3959 	EXP 	slider: autoDraw = False
+455.3959 	EXP 	fixation: autoDraw = True
+455.8968 	EXP 	fixation: autoDraw = False
+455.8968 	EXP 	cue: autoDraw = True
+456.2832 	DATA 	Mouse: Left button down, pos=(753,461)
+456.4869 	DATA 	Mouse:  Left button up, pos=(753,461)
+457.1718 	DATA 	Keypress: space
+457.1800 	EXP 	fixation: autoDraw = False
+457.1800 	EXP 	cue: autoDraw = False
+457.8724 	EXP 	Sound sound_1 started
+458.1690 	EXP 	Sound sound_1 stopped
+458.1888 	EXP 	slider: markerPos = None
+458.1888 	EXP 	slider: markerPos = None
+458.1888 	EXP 	text: autoDraw = True
+458.1888 	EXP 	slider: autoDraw = True
+459.3194 	DATA 	Mouse: Left button down, pos=(321,436)
+459.3332 	DATA 	Mouse:  Left button up, pos=(321,436)
+459.3377 	EXP 	slider: markerPos = 56.66666666666664
+459.3513 	EXP 	slider: markerPos = 56.66666666666664
+459.3538 	EXP 	New trial (rep=7, index=5): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+459.3633 	EXP 	text: autoDraw = False
+459.3633 	EXP 	slider: autoDraw = False
+459.3633 	EXP 	fixation: autoDraw = True
+459.8548 	EXP 	cue: autoDraw = True
+459.8633 	EXP 	fixation: autoDraw = False
+460.5744 	DATA 	Keypress: space
+460.5805 	EXP 	fixation: autoDraw = False
+460.5805 	EXP 	cue: autoDraw = False
+461.2722 	EXP 	Sound sound_1 started
+461.5690 	EXP 	Sound sound_1 stopped
+461.5887 	EXP 	slider: markerPos = None
+461.5887 	EXP 	slider: markerPos = None
+461.5887 	EXP 	text: autoDraw = True
+461.5887 	EXP 	slider: autoDraw = True
+462.7361 	DATA 	Mouse: Left button down, pos=(346,445)
+462.7367 	DATA 	Mouse:  Left button up, pos=(346,445)
+463.7186 	DATA 	Mouse: Left button down, pos=(438,445)
+463.7462 	EXP 	slider: markerPos = 186.66666666666666
+463.7632 	EXP 	slider: markerPos = 186.66666666666666
+463.7765 	EXP 	slider: markerPos = 186.66666666666666
+463.7893 	EXP 	slider: markerPos = 186.66666666666666
+463.8023 	EXP 	slider: markerPos = 186.66666666666666
+463.8163 	EXP 	slider: markerPos = 186.66666666666666
+463.8303 	EXP 	slider: markerPos = 186.66666666666666
+463.8430 	EXP 	slider: markerPos = 186.66666666666666
+463.8557 	EXP 	slider: markerPos = 186.66666666666666
+463.8686 	EXP 	slider: markerPos = 186.66666666666666
+463.8825 	EXP 	slider: markerPos = 186.66666666666666
+463.8964 	EXP 	slider: markerPos = 186.66666666666666
+463.9090 	EXP 	slider: markerPos = 186.66666666666666
+463.9218 	EXP 	slider: markerPos = 186.66666666666666
+463.9352 	EXP 	slider: markerPos = 186.66666666666666
+463.9366 	DATA 	Mouse:  Left button up, pos=(438,445)
+463.9494 	EXP 	slider: markerPos = 186.66666666666666
+463.9519 	EXP 	New trial (rep=7, index=6): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+463.9628 	EXP 	text: autoDraw = False
+463.9628 	EXP 	slider: autoDraw = False
+463.9628 	EXP 	fixation: autoDraw = True
+464.4531 	EXP 	cue: autoDraw = True
+464.4706 	EXP 	fixation: autoDraw = False
+464.9157 	DATA 	Mouse: Left button down, pos=(783,442)
+465.1173 	DATA 	Mouse:  Left button up, pos=(783,442)
+465.9451 	DATA 	Keypress: rcommand
+466.7678 	DATA 	Keypress: space
+466.7735 	EXP 	fixation: autoDraw = False
+466.7735 	EXP 	cue: autoDraw = False
+467.4722 	EXP 	Sound sound_1 started
+467.7689 	EXP 	Sound sound_1 stopped
+467.7891 	EXP 	slider: markerPos = None
+467.7891 	EXP 	slider: markerPos = None
+467.7891 	EXP 	text: autoDraw = True
+467.7891 	EXP 	slider: autoDraw = True
+469.4018 	DATA 	Mouse: Left button down, pos=(470,448)
+469.4152 	EXP 	slider: markerPos = 222.2222222222222
+469.4165 	DATA 	Mouse:  Left button up, pos=(470,448)
+469.4291 	EXP 	slider: markerPos = 222.2222222222222
+469.4317 	EXP 	New trial (rep=7, index=7): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+469.4371 	EXP 	text: autoDraw = False
+469.4371 	EXP 	slider: autoDraw = False
+469.4371 	EXP 	fixation: autoDraw = True
+469.9373 	EXP 	fixation: autoDraw = False
+469.9373 	EXP 	cue: autoDraw = True
+471.2579 	DATA 	Keypress: space
+471.2636 	EXP 	fixation: autoDraw = False
+471.2636 	EXP 	cue: autoDraw = False
+471.3553 	EXP 	Sound sound_1 started
+471.6524 	EXP 	Sound sound_1 stopped
+471.6718 	EXP 	slider: markerPos = None
+471.6718 	EXP 	slider: markerPos = None
+471.6718 	EXP 	text: autoDraw = True
+471.6718 	EXP 	slider: autoDraw = True
+472.7351 	DATA 	Mouse: Left button down, pos=(406,432)
+472.7471 	EXP 	slider: markerPos = 151.1111111111111
+472.7563 	DATA 	Mouse:  Left button up, pos=(406,432)
+472.7607 	EXP 	slider: markerPos = 151.1111111111111
+472.7736 	EXP 	slider: markerPos = 151.1111111111111
+472.7761 	EXP 	New trial (rep=7, index=8): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+472.7822 	EXP 	text: autoDraw = False
+472.7822 	EXP 	slider: autoDraw = False
+472.7822 	EXP 	fixation: autoDraw = True
+473.2800 	EXP 	cue: autoDraw = True
+473.2874 	EXP 	fixation: autoDraw = False
+473.6583 	DATA 	Keypress: space
+473.6639 	EXP 	fixation: autoDraw = False
+473.6639 	EXP 	cue: autoDraw = False
+474.0558 	EXP 	Sound sound_1 started
+474.3524 	EXP 	Sound sound_1 stopped
+474.3718 	EXP 	slider: markerPos = None
+474.3718 	EXP 	slider: markerPos = None
+474.3718 	EXP 	text: autoDraw = True
+474.3718 	EXP 	slider: autoDraw = True
+475.6018 	DATA 	Mouse: Left button down, pos=(625,433)
+475.6296 	EXP 	slider: markerPos = 394.44444444444446
+475.6309 	DATA 	Mouse:  Left button up, pos=(625,433)
+475.6460 	EXP 	slider: markerPos = 394.44444444444446
+475.6486 	EXP 	New trial (rep=7, index=9): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+475.6539 	EXP 	text: autoDraw = False
+475.6539 	EXP 	slider: autoDraw = False
+475.6539 	EXP 	fixation: autoDraw = True
+476.1485 	EXP 	cue: autoDraw = True
+476.1555 	EXP 	fixation: autoDraw = False
+476.5012 	DATA 	Keypress: space
+476.5068 	EXP 	fixation: autoDraw = False
+476.5068 	EXP 	cue: autoDraw = False
+476.9057 	EXP 	Sound sound_1 started
+477.2019 	EXP 	Sound sound_1 stopped
+477.2203 	EXP 	slider: markerPos = None
+477.2203 	EXP 	slider: markerPos = None
+477.2203 	EXP 	text: autoDraw = True
+477.2203 	EXP 	slider: autoDraw = True
+478.3859 	DATA 	Mouse: Left button down, pos=(631,430)
+478.4009 	DATA 	Mouse:  Left button up, pos=(631,430)
+478.4059 	EXP 	slider: markerPos = 401.1111111111111
+478.4191 	EXP 	slider: markerPos = 401.1111111111111
+478.4216 	EXP 	New trial (rep=7, index=10): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+478.4292 	EXP 	text: autoDraw = False
+478.4292 	EXP 	slider: autoDraw = False
+478.4292 	EXP 	fixation: autoDraw = True
+478.9207 	EXP 	cue: autoDraw = True
+478.9301 	EXP 	fixation: autoDraw = False
+479.2696 	DATA 	Keypress: space
+479.2749 	EXP 	fixation: autoDraw = False
+479.2749 	EXP 	cue: autoDraw = False
+479.9723 	EXP 	Sound sound_1 started
+480.2692 	EXP 	Sound sound_1 stopped
+480.2875 	EXP 	slider: markerPos = None
+480.2875 	EXP 	slider: markerPos = None
+480.2875 	EXP 	text: autoDraw = True
+480.2875 	EXP 	slider: autoDraw = True
+481.5862 	DATA 	Mouse: Left button down, pos=(414,439)
+481.6012 	DATA 	Mouse:  Left button up, pos=(414,439)
+481.6068 	EXP 	slider: markerPos = 159.99999999999997
+481.6208 	EXP 	slider: markerPos = 159.99999999999997
+481.6233 	EXP 	New trial (rep=7, index=11): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+481.6294 	EXP 	text: autoDraw = False
+481.6294 	EXP 	slider: autoDraw = False
+481.6294 	EXP 	fixation: autoDraw = True
+482.1294 	EXP 	cue: autoDraw = True
+482.1373 	EXP 	fixation: autoDraw = False
+482.5584 	DATA 	Keypress: space
+482.5643 	EXP 	fixation: autoDraw = False
+482.5643 	EXP 	cue: autoDraw = False
+482.6555 	EXP 	Sound sound_1 started
+482.9522 	EXP 	Sound sound_1 stopped
+482.9706 	EXP 	slider: markerPos = None
+482.9706 	EXP 	slider: markerPos = None
+482.9706 	EXP 	text: autoDraw = True
+482.9706 	EXP 	slider: autoDraw = True
+484.3022 	DATA 	Mouse: Left button down, pos=(382,418)
+484.3159 	DATA 	Mouse:  Left button up, pos=(382,418)
+484.3203 	EXP 	slider: markerPos = 124.44444444444447
+484.3338 	EXP 	slider: markerPos = 124.44444444444447
+484.3363 	EXP 	New trial (rep=8, index=0): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+484.3466 	EXP 	text: autoDraw = False
+484.3466 	EXP 	slider: autoDraw = False
+484.3466 	EXP 	fixation: autoDraw = True
+484.8370 	EXP 	cue: autoDraw = True
+484.8524 	EXP 	fixation: autoDraw = False
+485.4517 	DATA 	Keypress: space
+485.4634 	EXP 	fixation: autoDraw = False
+485.4634 	EXP 	cue: autoDraw = False
+485.8632 	EXP 	Sound sound_1 started
+486.1586 	EXP 	Sound sound_1 stopped
+486.1809 	EXP 	slider: markerPos = None
+486.1809 	EXP 	slider: markerPos = None
+486.1809 	EXP 	text: autoDraw = True
+486.1809 	EXP 	slider: autoDraw = True
+487.2362 	DATA 	Mouse: Left button down, pos=(450,413)
+487.2507 	EXP 	slider: markerPos = 200.0
+487.2522 	DATA 	Mouse:  Left button up, pos=(450,413)
+487.2795 	EXP 	slider: markerPos = 200.0
+487.2828 	EXP 	New trial (rep=8, index=1): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+487.2967 	EXP 	text: autoDraw = False
+487.2967 	EXP 	slider: autoDraw = False
+487.2967 	EXP 	fixation: autoDraw = True
+487.7877 	EXP 	cue: autoDraw = True
+487.7968 	EXP 	fixation: autoDraw = False
+488.3538 	DATA 	Keypress: space
+488.3605 	EXP 	fixation: autoDraw = False
+488.3605 	EXP 	cue: autoDraw = False
+488.7550 	EXP 	Sound sound_1 started
+489.0514 	EXP 	Sound sound_1 stopped
+489.0713 	EXP 	slider: markerPos = None
+489.0713 	EXP 	slider: markerPos = None
+489.0713 	EXP 	text: autoDraw = True
+489.0713 	EXP 	slider: autoDraw = True
+490.5025 	DATA 	Mouse: Left button down, pos=(463,449)
+490.5030 	DATA 	Mouse:  Left button up, pos=(463,449)
+492.0355 	DATA 	Mouse: Left button down, pos=(438,440)
+492.0544 	EXP 	slider: markerPos = 186.66666666666666
+492.0677 	EXP 	slider: markerPos = 186.66666666666666
+492.0816 	EXP 	slider: markerPos = 186.66666666666666
+492.0944 	EXP 	slider: markerPos = 186.66666666666666
+492.1072 	EXP 	slider: markerPos = 186.66666666666666
+492.1205 	EXP 	slider: markerPos = 186.66666666666666
+492.1341 	EXP 	slider: markerPos = 186.66666666666666
+492.1482 	EXP 	slider: markerPos = 186.66666666666666
+492.1608 	EXP 	slider: markerPos = 186.66666666666666
+492.1735 	EXP 	slider: markerPos = 186.66666666666666
+492.1870 	EXP 	slider: markerPos = 186.66666666666666
+492.2007 	EXP 	slider: markerPos = 186.66666666666666
+492.2144 	EXP 	slider: markerPos = 186.66666666666666
+492.2279 	EXP 	slider: markerPos = 186.66666666666666
+492.2413 	EXP 	slider: markerPos = 186.66666666666666
+492.2500 	DATA 	Mouse:  Left button up, pos=(438,440)
+492.2551 	EXP 	slider: markerPos = 186.66666666666666
+492.2683 	EXP 	slider: markerPos = 186.66666666666666
+492.2709 	EXP 	New trial (rep=8, index=2): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+492.2793 	EXP 	text: autoDraw = False
+492.2793 	EXP 	slider: autoDraw = False
+492.2793 	EXP 	fixation: autoDraw = True
+492.7699 	EXP 	cue: autoDraw = True
+492.7882 	EXP 	fixation: autoDraw = False
+493.2670 	DATA 	Mouse: Left button down, pos=(774,397)
+493.2676 	DATA 	Mouse:  Left button up, pos=(774,397)
+493.6535 	EXP 	fixation: autoDraw = False
+493.6535 	EXP 	cue: autoDraw = False
+493.6554 	DATA 	Keypress: space
+494.3558 	EXP 	Sound sound_1 started
+494.6523 	EXP 	Sound sound_1 stopped
+494.6742 	EXP 	slider: markerPos = None
+494.6742 	EXP 	slider: markerPos = None
+494.6742 	EXP 	text: autoDraw = True
+494.6742 	EXP 	slider: autoDraw = True
+496.0685 	DATA 	Mouse: Left button down, pos=(916,432)
+496.0960 	EXP 	slider: markerPos = 717.7777777777777
+496.1089 	EXP 	slider: markerPos = 717.7777777777777
+496.1228 	EXP 	slider: markerPos = 717.7777777777777
+496.1363 	EXP 	slider: markerPos = 717.7777777777777
+496.1504 	EXP 	slider: markerPos = 717.7777777777777
+496.1645 	EXP 	slider: markerPos = 717.7777777777777
+496.1780 	EXP 	slider: markerPos = 717.7777777777777
+496.1922 	EXP 	slider: markerPos = 717.7777777777777
+496.2049 	EXP 	slider: markerPos = 717.7777777777777
+496.2175 	EXP 	slider: markerPos = 717.7777777777777
+496.2317 	EXP 	slider: markerPos = 717.7777777777777
+496.2443 	EXP 	slider: markerPos = 717.7777777777777
+496.2536 	DATA 	Mouse:  Left button up, pos=(916,432)
+496.2587 	EXP 	slider: markerPos = 717.7777777777777
+496.2718 	EXP 	slider: markerPos = 717.7777777777777
+496.2742 	EXP 	New trial (rep=8, index=3): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+496.2796 	EXP 	text: autoDraw = False
+496.2796 	EXP 	slider: autoDraw = False
+496.2796 	EXP 	fixation: autoDraw = True
+496.7796 	EXP 	fixation: autoDraw = False
+496.7796 	EXP 	cue: autoDraw = True
+497.1425 	DATA 	Keypress: space
+497.1638 	EXP 	fixation: autoDraw = False
+497.1638 	EXP 	cue: autoDraw = False
+497.8392 	EXP 	Sound sound_1 started
+498.1357 	EXP 	Sound sound_1 stopped
+498.1536 	EXP 	slider: markerPos = None
+498.1536 	EXP 	slider: markerPos = None
+498.1536 	EXP 	text: autoDraw = True
+498.1536 	EXP 	slider: autoDraw = True
+499.3371 	DATA 	Mouse: Left button down, pos=(602,420)
+499.3376 	DATA 	Mouse:  Left button up, pos=(602,420)
+500.5523 	DATA 	Mouse: Left button down, pos=(448,419)
+500.5710 	EXP 	slider: markerPos = 197.77777777777777
+500.5842 	EXP 	slider: markerPos = 197.77777777777777
+500.5979 	EXP 	slider: markerPos = 197.77777777777777
+500.6112 	EXP 	slider: markerPos = 197.77777777777777
+500.6239 	EXP 	slider: markerPos = 197.77777777777777
+500.6373 	EXP 	slider: markerPos = 197.77777777777777
+500.6504 	EXP 	slider: markerPos = 197.77777777777777
+500.6644 	EXP 	slider: markerPos = 197.77777777777777
+500.6778 	EXP 	slider: markerPos = 197.77777777777777
+500.6909 	EXP 	slider: markerPos = 197.77777777777777
+500.7033 	EXP 	slider: markerPos = 197.77777777777777
+500.7166 	EXP 	slider: markerPos = 197.77777777777777
+500.7307 	EXP 	slider: markerPos = 197.77777777777777
+500.7394 	DATA 	Mouse:  Left button up, pos=(448,419)
+500.7446 	EXP 	slider: markerPos = 197.77777777777777
+500.7578 	EXP 	slider: markerPos = 197.77777777777777
+500.7602 	EXP 	New trial (rep=8, index=4): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+500.7666 	EXP 	text: autoDraw = False
+500.7666 	EXP 	slider: autoDraw = False
+500.7666 	EXP 	fixation: autoDraw = True
+501.2628 	EXP 	cue: autoDraw = True
+501.2702 	EXP 	fixation: autoDraw = False
+502.1058 	DATA 	Keypress: space
+502.1125 	EXP 	fixation: autoDraw = False
+502.1125 	EXP 	cue: autoDraw = False
+502.2050 	EXP 	Sound sound_1 started
+502.5025 	EXP 	Sound sound_1 stopped
+502.5217 	EXP 	slider: markerPos = None
+502.5217 	EXP 	slider: markerPos = None
+502.5217 	EXP 	text: autoDraw = True
+502.5217 	EXP 	slider: autoDraw = True
+503.8021 	DATA 	Mouse: Left button down, pos=(474,431)
+503.8212 	EXP 	slider: markerPos = 226.66666666666669
+503.8339 	EXP 	slider: markerPos = 226.66666666666669
+503.8483 	EXP 	slider: markerPos = 226.66666666666669
+503.8618 	EXP 	slider: markerPos = 226.66666666666669
+503.8753 	EXP 	slider: markerPos = 226.66666666666669
+503.8879 	EXP 	slider: markerPos = 226.66666666666669
+503.9007 	EXP 	slider: markerPos = 226.66666666666669
+503.9148 	EXP 	slider: markerPos = 226.66666666666669
+503.9282 	EXP 	slider: markerPos = 226.66666666666669
+503.9419 	EXP 	slider: markerPos = 226.66666666666669
+503.9545 	EXP 	slider: markerPos = 226.66666666666669
+503.9673 	EXP 	slider: markerPos = 226.66666666666669
+503.9815 	EXP 	slider: markerPos = 226.66666666666669
+503.9828 	DATA 	Mouse:  Left button up, pos=(474,431)
+503.9957 	EXP 	slider: markerPos = 226.66666666666669
+503.9983 	EXP 	New trial (rep=8, index=5): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+504.0043 	EXP 	text: autoDraw = False
+504.0043 	EXP 	slider: autoDraw = False
+504.0043 	EXP 	fixation: autoDraw = True
+504.5024 	EXP 	fixation: autoDraw = False
+504.5024 	EXP 	cue: autoDraw = True
+504.8564 	DATA 	Keypress: space
+504.8625 	EXP 	fixation: autoDraw = False
+504.8625 	EXP 	cue: autoDraw = False
+505.2553 	EXP 	Sound sound_1 started
+505.5525 	EXP 	Sound sound_1 stopped
+505.5710 	EXP 	slider: markerPos = None
+505.5710 	EXP 	slider: markerPos = None
+505.5710 	EXP 	text: autoDraw = True
+505.5710 	EXP 	slider: autoDraw = True
+506.9856 	DATA 	Mouse: Left button down, pos=(430,429)
+507.0030 	EXP 	slider: markerPos = 177.77777777777774
+507.0168 	EXP 	slider: markerPos = 177.77777777777774
+507.0183 	DATA 	Mouse:  Left button up, pos=(430,429)
+507.0461 	EXP 	slider: markerPos = 177.77777777777774
+507.0485 	EXP 	New trial (rep=8, index=6): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+507.0542 	EXP 	text: autoDraw = False
+507.0542 	EXP 	slider: autoDraw = False
+507.0542 	EXP 	fixation: autoDraw = True
+507.1034 	DATA 	Keypress: space
+507.5531 	EXP 	fixation: autoDraw = False
+507.5531 	EXP 	cue: autoDraw = True
+508.8829 	DATA 	Mouse: Left button down, pos=(723,434)
+508.8834 	DATA 	Mouse:  Left button up, pos=(723,434)
+509.3441 	DATA 	Keypress: space
+509.3509 	EXP 	fixation: autoDraw = False
+509.3509 	EXP 	cue: autoDraw = False
+509.4393 	EXP 	Sound sound_1 started
+509.7353 	EXP 	Sound sound_1 stopped
+509.7532 	EXP 	slider: markerPos = None
+509.7532 	EXP 	slider: markerPos = None
+509.7532 	EXP 	text: autoDraw = True
+509.7532 	EXP 	slider: autoDraw = True
+518.1901 	DATA 	Mouse: Left button down, pos=(889,435)
+518.2184 	EXP 	slider: markerPos = 687.7777777777778
+518.2341 	EXP 	slider: markerPos = 687.7777777777778
+518.2492 	EXP 	slider: markerPos = 687.7777777777778
+518.2639 	EXP 	slider: markerPos = 687.7777777777778
+518.2778 	EXP 	slider: markerPos = 687.7777777777778
+518.2911 	EXP 	slider: markerPos = 687.7777777777778
+518.3043 	EXP 	slider: markerPos = 687.7777777777778
+518.3179 	EXP 	slider: markerPos = 687.7777777777778
+518.3461 	EXP 	slider: markerPos = 687.7777777777778
+518.3627 	EXP 	slider: markerPos = 687.7777777777778
+518.3718 	DATA 	Mouse:  Left button up, pos=(889,435)
+518.3767 	EXP 	slider: markerPos = 687.7777777777778
+518.3904 	EXP 	slider: markerPos = 687.7777777777778
+518.3936 	EXP 	New trial (rep=8, index=7): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+518.4005 	EXP 	text: autoDraw = False
+518.4005 	EXP 	slider: autoDraw = False
+518.4005 	EXP 	fixation: autoDraw = True
+518.8965 	EXP 	cue: autoDraw = True
+518.9029 	EXP 	fixation: autoDraw = False
+519.3883 	EXP 	fixation: autoDraw = False
+519.3883 	EXP 	cue: autoDraw = False
+519.4059 	DATA 	Keypress: space
+520.0889 	EXP 	Sound sound_1 started
+520.3859 	EXP 	Sound sound_1 stopped
+520.4047 	EXP 	slider: markerPos = None
+520.4047 	EXP 	slider: markerPos = None
+520.4047 	EXP 	text: autoDraw = True
+520.4047 	EXP 	slider: autoDraw = True
+521.7187 	DATA 	Mouse: Left button down, pos=(455,412)
+521.7192 	DATA 	Mouse:  Left button up, pos=(455,412)
+523.0769 	DATA 	Mouse: Left button down, pos=(455,434)
+523.0779 	DATA 	Mouse:  Left button up, pos=(455,434)
+523.6194 	DATA 	Mouse: Left button down, pos=(455,434)
+523.6420 	EXP 	slider: markerPos = 205.55555555555554
+523.6559 	EXP 	slider: markerPos = 205.55555555555554
+523.6692 	EXP 	slider: markerPos = 205.55555555555554
+523.6837 	EXP 	slider: markerPos = 205.55555555555554
+523.6979 	EXP 	slider: markerPos = 205.55555555555554
+523.7111 	EXP 	slider: markerPos = 205.55555555555554
+523.7255 	EXP 	slider: markerPos = 205.55555555555554
+523.7394 	EXP 	slider: markerPos = 205.55555555555554
+523.7530 	EXP 	slider: markerPos = 205.55555555555554
+523.7668 	EXP 	slider: markerPos = 205.55555555555554
+523.7811 	EXP 	slider: markerPos = 205.55555555555554
+523.7956 	EXP 	slider: markerPos = 205.55555555555554
+523.8110 	EXP 	slider: markerPos = 205.55555555555554
+523.8218 	DATA 	Mouse:  Left button up, pos=(455,434)
+523.8265 	EXP 	slider: markerPos = 205.55555555555554
+523.8395 	EXP 	slider: markerPos = 205.55555555555554
+523.8425 	EXP 	New trial (rep=8, index=8): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+523.8487 	EXP 	text: autoDraw = False
+523.8487 	EXP 	slider: autoDraw = False
+523.8487 	EXP 	fixation: autoDraw = True
+524.3464 	EXP 	cue: autoDraw = True
+524.3524 	EXP 	fixation: autoDraw = False
+525.1361 	DATA 	Keypress: space
+525.1422 	EXP 	fixation: autoDraw = False
+525.1422 	EXP 	cue: autoDraw = False
+525.2384 	EXP 	Sound sound_1 started
+525.5358 	EXP 	Sound sound_1 stopped
+525.5566 	EXP 	slider: markerPos = None
+525.5566 	EXP 	slider: markerPos = None
+525.5566 	EXP 	text: autoDraw = True
+525.5566 	EXP 	slider: autoDraw = True
+526.8206 	DATA 	Mouse: Left button down, pos=(444,418)
+526.8363 	EXP 	slider: markerPos = 193.33333333333337
+526.8576 	EXP 	slider: markerPos = 193.33333333333337
+526.8742 	EXP 	slider: markerPos = 193.33333333333337
+526.9060 	EXP 	slider: markerPos = 193.33333333333337
+526.9226 	EXP 	slider: markerPos = 193.33333333333337
+526.9404 	EXP 	slider: markerPos = 193.33333333333337
+526.9556 	EXP 	slider: markerPos = 193.33333333333337
+526.9729 	EXP 	slider: markerPos = 193.33333333333337
+526.9890 	EXP 	slider: markerPos = 193.33333333333337
+527.0041 	EXP 	slider: markerPos = 193.33333333333337
+527.0208 	EXP 	slider: markerPos = 193.33333333333337
+527.0236 	DATA 	Mouse:  Left button up, pos=(444,418)
+527.0375 	EXP 	slider: markerPos = 193.33333333333337
+527.0410 	EXP 	New trial (rep=8, index=9): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+527.0482 	EXP 	text: autoDraw = False
+527.0482 	EXP 	slider: autoDraw = False
+527.0482 	EXP 	fixation: autoDraw = True
+527.5526 	EXP 	fixation: autoDraw = False
+527.5526 	EXP 	cue: autoDraw = True
+528.6160 	DATA 	Mouse: Left button down, pos=(758,450)
+528.7841 	DATA 	Mouse:  Left button up, pos=(758,450)
+531.0379 	DATA 	Keypress: space
+531.0430 	EXP 	fixation: autoDraw = False
+531.0430 	EXP 	cue: autoDraw = False
+531.7388 	EXP 	Sound sound_1 started
+532.0357 	EXP 	Sound sound_1 stopped
+532.0576 	EXP 	slider: markerPos = None
+532.0576 	EXP 	slider: markerPos = None
+532.0576 	EXP 	text: autoDraw = True
+532.0576 	EXP 	slider: autoDraw = True
+533.3188 	DATA 	Mouse: Left button down, pos=(888,443)
+533.3327 	EXP 	slider: markerPos = 686.6666666666666
+533.3467 	EXP 	slider: markerPos = 686.6666666666666
+533.3602 	EXP 	slider: markerPos = 686.6666666666666
+533.3736 	EXP 	slider: markerPos = 686.6666666666666
+533.3870 	EXP 	slider: markerPos = 686.6666666666666
+533.4002 	EXP 	slider: markerPos = 686.6666666666666
+533.4142 	EXP 	slider: markerPos = 686.6666666666666
+533.4277 	EXP 	slider: markerPos = 686.6666666666666
+533.4404 	EXP 	slider: markerPos = 686.6666666666666
+533.4534 	EXP 	slider: markerPos = 686.6666666666666
+533.4669 	EXP 	slider: markerPos = 686.6666666666666
+533.4808 	EXP 	slider: markerPos = 686.6666666666666
+533.4939 	EXP 	slider: markerPos = 686.6666666666666
+533.5028 	DATA 	Mouse:  Left button up, pos=(888,443)
+533.5079 	EXP 	slider: markerPos = 686.6666666666666
+533.5216 	EXP 	slider: markerPos = 686.6666666666666
+533.5242 	EXP 	New trial (rep=8, index=10): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+533.5304 	EXP 	text: autoDraw = False
+533.5304 	EXP 	slider: autoDraw = False
+533.5304 	EXP 	fixation: autoDraw = True
+534.0297 	EXP 	cue: autoDraw = True
+534.0363 	EXP 	fixation: autoDraw = False
+534.5198 	DATA 	Mouse: Left button down, pos=(694,404)
+534.7007 	DATA 	Mouse:  Left button up, pos=(694,404)
+535.5853 	DATA 	Keypress: space
+535.5909 	EXP 	fixation: autoDraw = False
+535.5909 	EXP 	cue: autoDraw = False
+535.9885 	EXP 	Sound sound_1 started
+536.2854 	EXP 	Sound sound_1 stopped
+536.3044 	EXP 	slider: markerPos = None
+536.3044 	EXP 	slider: markerPos = None
+536.3044 	EXP 	text: autoDraw = True
+536.3044 	EXP 	slider: autoDraw = True
+537.7519 	DATA 	Mouse: Left button down, pos=(384,429)
+537.7665 	EXP 	slider: markerPos = 126.66666666666664
+537.7830 	EXP 	slider: markerPos = 126.66666666666664
+537.7997 	EXP 	slider: markerPos = 126.66666666666664
+537.8297 	EXP 	slider: markerPos = 126.66666666666664
+537.8470 	EXP 	slider: markerPos = 126.66666666666664
+537.8637 	EXP 	slider: markerPos = 126.66666666666664
+537.8781 	EXP 	slider: markerPos = 126.66666666666664
+537.8930 	EXP 	slider: markerPos = 126.66666666666664
+537.9084 	EXP 	slider: markerPos = 126.66666666666664
+537.9179 	DATA 	Mouse:  Left button up, pos=(384,429)
+537.9226 	EXP 	slider: markerPos = 126.66666666666664
+537.9357 	EXP 	slider: markerPos = 126.66666666666664
+537.9387 	EXP 	New trial (rep=8, index=11): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+537.9456 	EXP 	text: autoDraw = False
+537.9456 	EXP 	slider: autoDraw = False
+537.9456 	EXP 	fixation: autoDraw = True
+538.4368 	EXP 	cue: autoDraw = True
+538.4459 	EXP 	fixation: autoDraw = False
+539.1658 	DATA 	Mouse: Left button down, pos=(763,477)
+539.3331 	DATA 	Mouse:  Left button up, pos=(763,477)
+540.0825 	DATA 	Mouse: Left button down, pos=(763,477)
+540.0832 	DATA 	Mouse:  Left button up, pos=(763,477)
+541.0498 	DATA 	Mouse: Left button down, pos=(763,477)
+541.2364 	DATA 	Mouse:  Left button up, pos=(763,477)
+541.7864 	EXP 	fixation: autoDraw = False
+541.7864 	EXP 	cue: autoDraw = False
+541.7884 	DATA 	Keypress: space
+541.8881 	EXP 	Sound sound_1 started
+542.1838 	EXP 	Sound sound_1 stopped
+542.2009 	EXP 	slider: markerPos = None
+542.2009 	EXP 	slider: markerPos = None
+542.2009 	EXP 	text: autoDraw = True
+542.2009 	EXP 	slider: autoDraw = True
+544.1355 	DATA 	Mouse: Left button down, pos=(493,439)
+544.1497 	EXP 	slider: markerPos = 247.77777777777777
+544.1510 	DATA 	Mouse:  Left button up, pos=(493,439)
+544.1642 	EXP 	slider: markerPos = 247.77777777777777
+544.1667 	EXP 	New trial (rep=9, index=0): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+544.1719 	EXP 	text: autoDraw = False
+544.1719 	EXP 	slider: autoDraw = False
+544.1719 	EXP 	fixation: autoDraw = True
+544.6710 	EXP 	fixation: autoDraw = False
+544.6710 	EXP 	cue: autoDraw = True
+545.7864 	EXP 	fixation: autoDraw = False
+545.7864 	EXP 	cue: autoDraw = False
+545.7882 	DATA 	Keypress: space
+546.1889 	EXP 	Sound sound_1 started
+546.4856 	EXP 	Sound sound_1 stopped
+546.5043 	EXP 	slider: markerPos = None
+546.5043 	EXP 	slider: markerPos = None
+546.5043 	EXP 	text: autoDraw = True
+546.5043 	EXP 	slider: autoDraw = True
+548.0354 	DATA 	Mouse: Left button down, pos=(492,419)
+548.0490 	EXP 	slider: markerPos = 246.66666666666666
+548.0503 	DATA 	Mouse:  Left button up, pos=(492,419)
+548.0635 	EXP 	slider: markerPos = 246.66666666666666
+548.0659 	EXP 	New trial (rep=9, index=1): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+548.0715 	EXP 	text: autoDraw = False
+548.0715 	EXP 	slider: autoDraw = False
+548.0715 	EXP 	fixation: autoDraw = True
+548.5702 	EXP 	fixation: autoDraw = False
+548.5702 	EXP 	cue: autoDraw = True
+549.2237 	DATA 	Keypress: space
+549.2297 	EXP 	fixation: autoDraw = False
+549.2297 	EXP 	cue: autoDraw = False
+549.9221 	EXP 	Sound sound_1 started
+550.2186 	EXP 	Sound sound_1 stopped
+550.2374 	EXP 	slider: markerPos = None
+550.2374 	EXP 	slider: markerPos = None
+550.2374 	EXP 	text: autoDraw = True
+550.2374 	EXP 	slider: autoDraw = True
+552.4689 	DATA 	Mouse: Left button down, pos=(495,423)
+552.4863 	EXP 	slider: markerPos = 250.0
+552.4998 	EXP 	slider: markerPos = 250.0
+552.5135 	EXP 	slider: markerPos = 250.0
+552.5261 	EXP 	slider: markerPos = 250.0
+552.5388 	EXP 	slider: markerPos = 250.0
+552.5514 	EXP 	slider: markerPos = 250.0
+552.5788 	EXP 	slider: markerPos = 250.0
+552.5962 	EXP 	slider: markerPos = 250.0
+552.6085 	EXP 	slider: markerPos = 250.0
+552.6211 	EXP 	slider: markerPos = 250.0
+552.6343 	EXP 	slider: markerPos = 250.0
+552.6356 	DATA 	Mouse:  Left button up, pos=(495,423)
+552.6489 	EXP 	slider: markerPos = 250.0
+552.6513 	EXP 	New trial (rep=9, index=2): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+552.6628 	EXP 	text: autoDraw = False
+552.6628 	EXP 	slider: autoDraw = False
+552.6628 	EXP 	fixation: autoDraw = True
+553.1515 	EXP 	cue: autoDraw = True
+553.1681 	EXP 	fixation: autoDraw = False
+554.5015 	DATA 	Keypress: space
+554.5071 	EXP 	fixation: autoDraw = False
+554.5071 	EXP 	cue: autoDraw = False
+555.2049 	EXP 	Sound sound_1 started
+555.5021 	EXP 	Sound sound_1 stopped
+555.5225 	EXP 	slider: markerPos = None
+555.5225 	EXP 	slider: markerPos = None
+555.5225 	EXP 	text: autoDraw = True
+555.5225 	EXP 	slider: autoDraw = True
+557.0356 	DATA 	Mouse: Left button down, pos=(674,435)
+557.0551 	EXP 	slider: markerPos = 448.8888888888889
+557.0675 	EXP 	slider: markerPos = 448.8888888888889
+557.0958 	EXP 	slider: markerPos = 448.8888888888889
+557.1129 	EXP 	slider: markerPos = 448.8888888888889
+557.1263 	EXP 	slider: markerPos = 448.8888888888889
+557.1394 	EXP 	slider: markerPos = 448.8888888888889
+557.1527 	EXP 	slider: markerPos = 448.8888888888889
+557.1664 	EXP 	slider: markerPos = 448.8888888888889
+557.1800 	EXP 	slider: markerPos = 448.8888888888889
+557.1927 	EXP 	slider: markerPos = 448.8888888888889
+557.2055 	EXP 	slider: markerPos = 448.8888888888889
+557.2187 	EXP 	slider: markerPos = 448.8888888888889
+557.2201 	DATA 	Mouse:  Left button up, pos=(674,435)
+557.2329 	EXP 	slider: markerPos = 448.8888888888889
+557.2354 	EXP 	New trial (rep=9, index=3): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+557.2461 	EXP 	text: autoDraw = False
+557.2461 	EXP 	slider: autoDraw = False
+557.2461 	EXP 	fixation: autoDraw = True
+557.7360 	EXP 	cue: autoDraw = True
+557.7518 	EXP 	fixation: autoDraw = False
+558.1338 	DATA 	Keypress: space
+558.1392 	EXP 	fixation: autoDraw = False
+558.1392 	EXP 	cue: autoDraw = False
+558.5395 	EXP 	Sound sound_1 started
+558.8399 	EXP 	Sound sound_1 reached end of file
+558.8400 	EXP 	Sound sound_1 reached end of file
+558.8604 	EXP 	slider: markerPos = None
+558.8604 	EXP 	slider: markerPos = None
+558.8604 	EXP 	text: autoDraw = True
+558.8604 	EXP 	slider: autoDraw = True
+559.7559 	DATA 	Mouse: Left button down, pos=(690,438)
+559.7726 	EXP 	slider: markerPos = 466.6666666666667
+559.7856 	EXP 	slider: markerPos = 466.6666666666667
+559.8000 	EXP 	slider: markerPos = 466.6666666666667
+559.8294 	EXP 	slider: markerPos = 466.6666666666667
+559.8462 	EXP 	slider: markerPos = 466.6666666666667
+559.8591 	EXP 	slider: markerPos = 466.6666666666667
+559.8732 	EXP 	slider: markerPos = 466.6666666666667
+559.8861 	EXP 	slider: markerPos = 466.6666666666667
+559.9000 	EXP 	slider: markerPos = 466.6666666666667
+559.9136 	EXP 	slider: markerPos = 466.6666666666667
+559.9268 	EXP 	slider: markerPos = 466.6666666666667
+559.9394 	EXP 	slider: markerPos = 466.6666666666667
+559.9522 	EXP 	slider: markerPos = 466.6666666666667
+559.9663 	EXP 	slider: markerPos = 466.6666666666667
+559.9676 	DATA 	Mouse:  Left button up, pos=(690,438)
+559.9807 	EXP 	slider: markerPos = 466.6666666666667
+559.9832 	EXP 	New trial (rep=9, index=4): {'delay': 0.4, 'frequency': 1000, 'condition': 'unexpected'}
+559.9888 	EXP 	text: autoDraw = False
+559.9888 	EXP 	slider: autoDraw = False
+559.9888 	EXP 	fixation: autoDraw = True
+560.4882 	EXP 	fixation: autoDraw = False
+560.4882 	EXP 	cue: autoDraw = True
+560.6004 	DATA 	Keypress: space
+560.6056 	EXP 	fixation: autoDraw = False
+560.6056 	EXP 	cue: autoDraw = False
+561.0046 	EXP 	Sound sound_1 started
+561.3016 	EXP 	Sound sound_1 stopped
+561.3210 	EXP 	slider: markerPos = None
+561.3210 	EXP 	slider: markerPos = None
+561.3210 	EXP 	text: autoDraw = True
+561.3210 	EXP 	slider: autoDraw = True
+562.6681 	DATA 	Mouse: Left button down, pos=(895,442)
+562.6958 	EXP 	slider: markerPos = 694.4444444444445
+562.7127 	EXP 	slider: markerPos = 694.4444444444445
+562.7258 	EXP 	slider: markerPos = 694.4444444444445
+562.7387 	EXP 	slider: markerPos = 694.4444444444445
+562.7519 	EXP 	slider: markerPos = 694.4444444444445
+562.7659 	EXP 	slider: markerPos = 694.4444444444445
+562.7799 	EXP 	slider: markerPos = 694.4444444444445
+562.7932 	EXP 	slider: markerPos = 694.4444444444445
+562.8067 	EXP 	slider: markerPos = 694.4444444444445
+562.8198 	EXP 	slider: markerPos = 694.4444444444445
+562.8333 	EXP 	slider: markerPos = 694.4444444444445
+562.8348 	DATA 	Mouse:  Left button up, pos=(895,442)
+562.8466 	EXP 	slider: markerPos = 694.4444444444445
+562.8494 	EXP 	New trial (rep=9, index=5): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+562.8550 	EXP 	text: autoDraw = False
+562.8550 	EXP 	slider: autoDraw = False
+562.8550 	EXP 	fixation: autoDraw = True
+563.3528 	EXP 	fixation: autoDraw = False
+563.3528 	EXP 	cue: autoDraw = True
+563.9002 	DATA 	Mouse: Left button down, pos=(720,443)
+564.1035 	DATA 	Mouse:  Left button up, pos=(720,443)
+564.9673 	DATA 	Keypress: space
+564.9730 	EXP 	fixation: autoDraw = False
+564.9730 	EXP 	cue: autoDraw = False
+565.0716 	EXP 	Sound sound_1 started
+565.3682 	EXP 	Sound sound_1 stopped
+565.3886 	EXP 	slider: markerPos = None
+565.3886 	EXP 	slider: markerPos = None
+565.3886 	EXP 	text: autoDraw = True
+565.3886 	EXP 	slider: autoDraw = True
+566.6184 	DATA 	Mouse: Left button down, pos=(915,457)
+566.6362 	EXP 	slider: markerPos = 716.6666666666666
+566.6499 	EXP 	slider: markerPos = 716.6666666666666
+566.6637 	EXP 	slider: markerPos = 716.6666666666666
+566.6771 	EXP 	slider: markerPos = 716.6666666666666
+566.6903 	EXP 	slider: markerPos = 716.6666666666666
+566.7036 	EXP 	slider: markerPos = 716.6666666666666
+566.7167 	EXP 	slider: markerPos = 716.6666666666666
+566.7306 	EXP 	slider: markerPos = 716.6666666666666
+566.7433 	EXP 	slider: markerPos = 716.6666666666666
+566.7560 	EXP 	slider: markerPos = 716.6666666666666
+566.7691 	EXP 	slider: markerPos = 716.6666666666666
+566.7830 	EXP 	slider: markerPos = 716.6666666666666
+566.7970 	EXP 	slider: markerPos = 716.6666666666666
+566.8058 	DATA 	Mouse:  Left button up, pos=(915,457)
+566.8103 	EXP 	slider: markerPos = 716.6666666666666
+566.8230 	EXP 	slider: markerPos = 716.6666666666666
+566.8256 	EXP 	New trial (rep=9, index=6): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+566.8315 	EXP 	text: autoDraw = False
+566.8315 	EXP 	slider: autoDraw = False
+566.8315 	EXP 	fixation: autoDraw = True
+567.3295 	EXP 	cue: autoDraw = True
+567.3361 	EXP 	fixation: autoDraw = False
+567.7682 	DATA 	Keypress: space
+567.7734 	EXP 	fixation: autoDraw = False
+567.7734 	EXP 	cue: autoDraw = False
+567.8720 	EXP 	Sound sound_1 started
+568.1688 	EXP 	Sound sound_1 stopped
+568.1879 	EXP 	slider: markerPos = None
+568.1879 	EXP 	slider: markerPos = None
+568.1879 	EXP 	text: autoDraw = True
+568.1879 	EXP 	slider: autoDraw = True
+570.1515 	DATA 	Mouse: Left button down, pos=(424,420)
+570.1789 	EXP 	slider: markerPos = 171.11111111111111
+570.1954 	EXP 	slider: markerPos = 171.11111111111111
+570.2083 	EXP 	slider: markerPos = 171.11111111111111
+570.2213 	EXP 	slider: markerPos = 171.11111111111111
+570.2341 	EXP 	slider: markerPos = 171.11111111111111
+570.2624 	EXP 	slider: markerPos = 171.11111111111111
+570.2794 	EXP 	slider: markerPos = 171.11111111111111
+570.2927 	EXP 	slider: markerPos = 171.11111111111111
+570.3059 	EXP 	slider: markerPos = 171.11111111111111
+570.3193 	EXP 	slider: markerPos = 171.11111111111111
+570.3328 	EXP 	slider: markerPos = 171.11111111111111
+570.3341 	DATA 	Mouse:  Left button up, pos=(424,420)
+570.3473 	EXP 	slider: markerPos = 171.11111111111111
+570.3498 	EXP 	New trial (rep=9, index=7): {'delay': 0.4, 'frequency': 400, 'condition': 'expected'}
+570.3553 	EXP 	text: autoDraw = False
+570.3553 	EXP 	slider: autoDraw = False
+570.3553 	EXP 	fixation: autoDraw = True
+570.8524 	EXP 	fixation: autoDraw = False
+570.8524 	EXP 	cue: autoDraw = True
+571.4495 	DATA 	Mouse: Left button down, pos=(664,451)
+571.5831 	DATA 	Mouse:  Left button up, pos=(664,451)
+571.8729 	DATA 	Keypress: space
+571.8794 	EXP 	fixation: autoDraw = False
+571.8794 	EXP 	cue: autoDraw = False
+572.2719 	EXP 	Sound sound_1 started
+572.5685 	EXP 	Sound sound_1 stopped
+572.5874 	EXP 	slider: markerPos = None
+572.5874 	EXP 	slider: markerPos = None
+572.5874 	EXP 	text: autoDraw = True
+572.5874 	EXP 	slider: autoDraw = True
+573.6348 	DATA 	Mouse: Left button down, pos=(477,440)
+573.6622 	EXP 	slider: markerPos = 229.99999999999997
+573.6794 	EXP 	slider: markerPos = 229.99999999999997
+573.6925 	EXP 	slider: markerPos = 229.99999999999997
+573.7050 	EXP 	slider: markerPos = 229.99999999999997
+573.7179 	EXP 	slider: markerPos = 229.99999999999997
+573.7320 	EXP 	slider: markerPos = 229.99999999999997
+573.7461 	EXP 	slider: markerPos = 229.99999999999997
+573.7587 	EXP 	slider: markerPos = 229.99999999999997
+573.7718 	EXP 	slider: markerPos = 229.99999999999997
+573.7845 	EXP 	slider: markerPos = 229.99999999999997
+573.8123 	EXP 	slider: markerPos = 229.99999999999997
+573.8211 	DATA 	Mouse:  Left button up, pos=(477,440)
+573.8288 	EXP 	slider: markerPos = 229.99999999999997
+573.8423 	EXP 	slider: markerPos = 229.99999999999997
+573.8447 	EXP 	New trial (rep=9, index=8): {'delay': 0.7, 'frequency': 400, 'condition': 'expected'}
+573.8499 	EXP 	text: autoDraw = False
+573.8499 	EXP 	slider: autoDraw = False
+573.8499 	EXP 	fixation: autoDraw = True
+574.3454 	EXP 	cue: autoDraw = True
+574.3523 	EXP 	fixation: autoDraw = False
+574.8083 	DATA 	Keypress: space
+574.8138 	EXP 	fixation: autoDraw = False
+574.8138 	EXP 	cue: autoDraw = False
+575.5049 	EXP 	Sound sound_1 started
+575.8012 	EXP 	Sound sound_1 stopped
+575.8211 	EXP 	slider: markerPos = None
+575.8211 	EXP 	slider: markerPos = None
+575.8211 	EXP 	text: autoDraw = True
+575.8211 	EXP 	slider: autoDraw = True
+577.3016 	DATA 	Mouse: Left button down, pos=(446,437)
+577.3289 	EXP 	slider: markerPos = 195.55555555555554
+577.3460 	EXP 	slider: markerPos = 195.55555555555554
+577.3591 	EXP 	slider: markerPos = 195.55555555555554
+577.3718 	EXP 	slider: markerPos = 195.55555555555554
+577.3846 	EXP 	slider: markerPos = 195.55555555555554
+577.3986 	EXP 	slider: markerPos = 195.55555555555554
+577.4121 	EXP 	slider: markerPos = 195.55555555555554
+577.4258 	EXP 	slider: markerPos = 195.55555555555554
+577.4392 	EXP 	slider: markerPos = 195.55555555555554
+577.4524 	EXP 	slider: markerPos = 195.55555555555554
+577.4660 	EXP 	slider: markerPos = 195.55555555555554
+577.4798 	EXP 	slider: markerPos = 195.55555555555554
+577.4923 	EXP 	slider: markerPos = 195.55555555555554
+577.5052 	EXP 	slider: markerPos = 195.55555555555554
+577.5186 	EXP 	slider: markerPos = 195.55555555555554
+577.5200 	DATA 	Mouse:  Left button up, pos=(446,437)
+577.5329 	EXP 	slider: markerPos = 195.55555555555554
+577.5354 	EXP 	New trial (rep=9, index=9): {'delay': 0.7, 'frequency': 1000, 'condition': 'unexpected'}
+577.5454 	EXP 	text: autoDraw = False
+577.5454 	EXP 	slider: autoDraw = False
+577.5454 	EXP 	fixation: autoDraw = True
+578.0357 	EXP 	cue: autoDraw = True
+578.0511 	EXP 	fixation: autoDraw = False
+578.7520 	DATA 	Keypress: space
+578.7575 	EXP 	fixation: autoDraw = False
+578.7575 	EXP 	cue: autoDraw = False
+579.4550 	EXP 	Sound sound_1 started
+579.7512 	EXP 	Sound sound_1 stopped
+579.7706 	EXP 	slider: markerPos = None
+579.7706 	EXP 	slider: markerPos = None
+579.7706 	EXP 	text: autoDraw = True
+579.7706 	EXP 	slider: autoDraw = True
+581.4017 	DATA 	Mouse: Left button down, pos=(1053,439)
+581.4197 	EXP 	slider: markerPos = 870.0
+581.4331 	EXP 	slider: markerPos = 870.0
+581.4470 	EXP 	slider: markerPos = 870.0
+581.4605 	EXP 	slider: markerPos = 870.0
+581.4731 	EXP 	slider: markerPos = 870.0
+581.4858 	EXP 	slider: markerPos = 870.0
+581.4997 	EXP 	slider: markerPos = 870.0
+581.5136 	EXP 	slider: markerPos = 870.0
+581.5266 	EXP 	slider: markerPos = 870.0
+581.5397 	EXP 	slider: markerPos = 870.0
+581.5527 	EXP 	slider: markerPos = 870.0
+581.5664 	EXP 	slider: markerPos = 870.0
+581.5805 	EXP 	slider: markerPos = 870.0
+581.5893 	DATA 	Mouse:  Left button up, pos=(1053,439)
+581.5947 	EXP 	slider: markerPos = 870.0
+581.6073 	EXP 	slider: markerPos = 870.0
+581.6100 	EXP 	New trial (rep=9, index=10): {'delay': 0.1, 'frequency': 400, 'condition': 'expected'}
+581.6158 	EXP 	text: autoDraw = False
+581.6158 	EXP 	slider: autoDraw = False
+581.6158 	EXP 	fixation: autoDraw = True
+582.1128 	EXP 	cue: autoDraw = True
+582.1210 	EXP 	fixation: autoDraw = False
+582.7908 	DATA 	Keypress: space
+582.7965 	EXP 	fixation: autoDraw = False
+582.7965 	EXP 	cue: autoDraw = False
+582.8880 	EXP 	Sound sound_1 started
+583.1853 	EXP 	Sound sound_1 stopped
+583.2042 	EXP 	slider: markerPos = None
+583.2042 	EXP 	slider: markerPos = None
+583.2042 	EXP 	text: autoDraw = True
+583.2042 	EXP 	slider: autoDraw = True
+585.8680 	DATA 	Mouse: Left button down, pos=(297,425)
+585.8955 	EXP 	slider: markerPos = 30.00000000000003
+585.9121 	EXP 	slider: markerPos = 30.00000000000003
+585.9249 	EXP 	slider: markerPos = 30.00000000000003
+585.9378 	EXP 	slider: markerPos = 30.00000000000003
+585.9511 	EXP 	slider: markerPos = 30.00000000000003
+585.9790 	EXP 	slider: markerPos = 30.00000000000003
+585.9961 	EXP 	slider: markerPos = 30.00000000000003
+586.0087 	EXP 	slider: markerPos = 30.00000000000003
+586.0216 	EXP 	slider: markerPos = 30.00000000000003
+586.0344 	EXP 	slider: markerPos = 30.00000000000003
+586.0487 	EXP 	slider: markerPos = 30.00000000000003
+586.0501 	DATA 	Mouse:  Left button up, pos=(297,425)
+586.0631 	EXP 	slider: markerPos = 30.00000000000003
+586.0655 	EXP 	New trial (rep=9, index=11): {'delay': 0.1, 'frequency': 1000, 'condition': 'unexpected'}
+586.0710 	EXP 	text: autoDraw = False
+586.0710 	EXP 	slider: autoDraw = False
+586.0710 	EXP 	fixation: autoDraw = True
+586.5704 	EXP 	fixation: autoDraw = False
+586.5704 	EXP 	cue: autoDraw = True
+587.4397 	DATA 	Keypress: space
+587.4452 	EXP 	fixation: autoDraw = False
+587.4452 	EXP 	cue: autoDraw = False
+587.5382 	EXP 	Sound sound_1 started
+587.8352 	EXP 	Sound sound_1 stopped
+587.8541 	EXP 	slider: markerPos = None
+587.8541 	EXP 	slider: markerPos = None
+587.8541 	EXP 	text: autoDraw = True
+587.8541 	EXP 	slider: autoDraw = True
+589.7014 	DATA 	Mouse: Left button down, pos=(327,429)
+589.7289 	EXP 	slider: markerPos = 63.33333333333335
+589.7460 	EXP 	slider: markerPos = 63.33333333333335
+589.7585 	EXP 	slider: markerPos = 63.33333333333335
+589.7716 	EXP 	slider: markerPos = 63.33333333333335
+589.7844 	EXP 	slider: markerPos = 63.33333333333335
+589.7985 	EXP 	slider: markerPos = 63.33333333333335
+589.8125 	EXP 	slider: markerPos = 63.33333333333335
+589.8251 	EXP 	slider: markerPos = 63.33333333333335
+589.8378 	EXP 	slider: markerPos = 63.33333333333335
+589.8511 	EXP 	slider: markerPos = 63.33333333333335
+589.8525 	DATA 	Mouse:  Left button up, pos=(327,429)
+589.8653 	EXP 	slider: markerPos = 63.33333333333335
+589.8794 	EXP 	text: autoDraw = False
+589.8794 	EXP 	slider: autoDraw = False
+589.8795 	EXP 	experiment: status = STOPPED
+590.3020 	EXP 	window1: mouseVisible = True
